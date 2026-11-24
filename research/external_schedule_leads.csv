@@ -1,0 +1,6 @@
+lead_id,operator,network,origin,destination,reported_departures,reported_service_days,source_url,shape_lead,evidence_status
+EXT01,Destino Pacifico Express,Buenaventura - Pacific coast,Buenaventura,Juanchaco,10:30|13:00|16:00,,https://destinopacificoexpress.com/,OSM way 1311531488 partial candidate to node 5065325593,prior_research_recheck_required
+EXT02,Destino Pacifico Express,Buenaventura - Pacific coast,Juanchaco,Buenaventura,08:00|13:00|16:00,,https://destinopacificoexpress.com/,OSM way 1311531488 partial candidate reversed,prior_research_recheck_required
+EXT03,TAQ SAS,Amazonas,Leticia,San Juan de Atacuary,07:15,daily,https://taqsas.co/reserva/amazonas.html,,prior_research_recheck_required
+EXT04,TAQ SAS,Amazonas,San Juan de Atacuary,Leticia,13:00,daily,https://taqsas.co/reserva/amazonas.html,,prior_research_recheck_required
+EXT05,Expresos Tres Fronteras / Transportes Fluvial del Amazonas / Lineas Amazonas,Amazonas,Leticia,Puerto Narino,07:00|10:00|12:00|14:00,,https://puertonarinoamazonas.com/,,prior_research_recheck_required_operator_allocation_unknown

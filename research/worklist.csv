@@ -18,3 +18,5 @@ W16,low,open,Build regional GTFS generators and MobilityData validation after re
 W17,low,closed,DIMAR Excel source pages accepted; direct download URLs and automated retrieval not required
 W18,low,closed,Exclude offshore pilot boarding points from further research and GTFS; retain existing reference copy
 W19,medium,deferred,Investigate Transportes Aquaviarios de Colombia SAS six tourism registrations and current operations
+W20,high,in_progress,Prioritize scheduled routes using shape and landing candidate coverage
+W21,high,open,Recheck external online schedule leads and match OSM shapes before GTFS inclusion
