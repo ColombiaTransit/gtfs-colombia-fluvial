@@ -10,6 +10,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/analyze.py'
+      - 'scripts/details.py'
       - 'scripts/refresh.py'
       - '.github/workflows/research-analysis.yml'
       - 'data/processed/supertransporte/**'
@@ -30,8 +31,10 @@ jobs:
       - name: Refresh source layers temporarily
         if: inputs.refresh == true
         run: python scripts/refresh.py
-      - name: Generate aggregate research outputs
-        run: python scripts/analyze.py
+      - name: Install geographic analysis dependencies
+        run: python -m pip install shapely==2.1.2 pyproj==3.7.2
+      - name: Generate research outputs
+        run: python scripts/details.py
       - name: Commit results only
         run: |
           git config user.name 'github-actions[bot]'
