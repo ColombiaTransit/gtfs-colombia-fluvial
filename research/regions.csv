@@ -1,0 +1,15 @@
+region_id,region,priority,status
+atrato,Rio Atrato,high,initial_candidate
+bajo_magdalena,Bajo Magdalena,high,initial_candidate
+magdalena_medio,Magdalena Medio,high,initial_candidate
+cauca,Rio Cauca,high,initial_candidate
+nechi,Rio Nechi,high,initial_candidate
+putumayo,Rio Putumayo,high,initial_candidate
+caqueta,Rio Caqueta,high,initial_candidate
+amazonas,Rio Amazonas,high,initial_candidate
+meta,Rio Meta,medium,initial_candidate
+orinoco,Rio Orinoco,medium,initial_candidate
+sinu,Rio Sinu,medium,initial_candidate
+urra,Embalse Urra,medium,initial_candidate
+pacifico,Costa Pacifica,unassessed,initial_candidate
+uraba,Golfo de Uraba,unassessed,initial_candidate
