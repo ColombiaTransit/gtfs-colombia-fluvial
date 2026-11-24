@@ -1,0 +1,11 @@
+operator_key,source_id,origin,destination,raw_timetable,shape_km,geometry_orientation_candidate,origin_site_candidate,destination_site_candidate,operation_status,issues
+"COOTRAGAM","119","Gamarra","Cerro Burgos","5:30-6:45-8;00-8:30-11:00-12:30-13:30-14:00-15:30-16:30-16:45","50.547","reverse","297","680","reported_suspended_2026_09_11","reopening and schedule review"
+"COOTRAGAM","121","Gamarra","El Banco","7:00-15:15","93.088","forward","297","155","current_operation_unverified","Rio Viejo authorized intermediate; two times ambiguous"
+"COOTRAGAM","122","Simiti","Barrancabermeja","6:30-8:00","120.169","forward","680","239","current_operation_unverified","Cerro Burgos landing candidate; two times ambiguous"
+"COOTRAGAM","123","Vijagual","Cerro Burgos","6:00-8:00-10:00-12:00-13:00-14:00-15:30","20.711","forward","","680","current_operation_unverified","Vijagual landing missing"
+"COOTRAGAM","124","Gamarra","Vijagual","7:00-10:00-13:00","62.701","reverse","190","","current_operation_unverified","Vijagual landing missing"
+"COOTRAGAM","120","Gamarra","Barrancabermeja","9:00-12:00","162.431","reverse","297","239","current_operation_unverified","two times ambiguous; Gamarra landing differs from Cootransfluviales"
+"TRANSPORTADORA SAN PABLO LIMITADA","383","Barrancabermeja","San Pablo","6:00-6:30-8:00-9:30-11:00-13:00-13:30-16:00-17:00","48.906","forward","","","current_operation_unverified","both landing matches missing; shared corridor with Cootransfluviales"
+"TRANSPORTADORA SAN PABLO LIMITADA","384","Puerto Wilches","Barrancabermeja","7:30-17:00","35.339","forward","807","239","current_operation_unverified","Sencillo; two times ambiguous"
+"TRANSPORTADORA SAN PABLO LIMITADA","385","Cantagallo","Barrancabermeja","12:00","39.174","forward","238","239","current_operation_unverified","inactive origin; active alternative site 800 at 364 m"
+"TRANSPORTADORA SAN PABLO LIMITADA","386","Barrancabermeja","Magangué","6:00","395.036","reverse","239","229","current_operation_unverified","alternative Magangue sites 651 and 230; duration and intermediate stops unknown"
