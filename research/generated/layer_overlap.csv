@@ -1,0 +1,11 @@
+layer_a,layer_b,exact_common_records
+rutas_pax_etf,rutas_fluvial_pasajeros,0
+rutas_pax_etf,etf_pasajeros_27122022,0
+rutas_pax_etf,rutas_fluvial_turismo,0
+rutas_pax_etf,etf_turismo_27122022,0
+rutas_fluvial_pasajeros,etf_pasajeros_27122022,272
+rutas_fluvial_pasajeros,rutas_fluvial_turismo,0
+rutas_fluvial_pasajeros,etf_turismo_27122022,0
+etf_pasajeros_27122022,rutas_fluvial_turismo,0
+etf_pasajeros_27122022,etf_turismo_27122022,0
+rutas_fluvial_turismo,etf_turismo_27122022,228

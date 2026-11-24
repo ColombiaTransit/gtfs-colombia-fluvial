@@ -1,0 +1,5 @@
+category,match_type,records
+passenger,context_only,16
+passenger,endpoint,1
+tourism,context_only,9
+tourism,endpoint,3

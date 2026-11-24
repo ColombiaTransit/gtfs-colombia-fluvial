@@ -1,0 +1,8 @@
+category,timetable_nonblank,frequency_nonblank,records
+passenger,False,False,40
+passenger,False,True,4
+passenger,True,False,6
+passenger,True,True,222
+tourism,False,False,223
+tourism,False,True,4
+tourism,True,True,1
