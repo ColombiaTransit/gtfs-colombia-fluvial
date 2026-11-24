@@ -14,7 +14,11 @@ Daily is a service-day pattern, not a headway. Preserve the distinction between 
 
 ## Geography
 
-Match landing sites by name, municipality and spatial proximity; review ambiguous matches manually. DIMAR offshore pilot boarding points are not passenger stops. Commercial port concessions do not establish public passenger access.
+Match landing sites by name, municipality and spatial proximity; review ambiguous matches manually. DIMAR Puertos_Col is retained as a reference for port locations, not proof of passenger access. DIMAR Punto Embarque contains offshore pilot boarding points and is excluded from further research and GTFS generation; retain the existing reference copy only. Commercial port concessions do not establish public passenger access.
+
+## DIMAR source retrieval
+
+The existing SITMAR source pages in `research/sources.csv` are sufficient for the two Excel exports, which can be regenerated manually. Direct download URLs and automated retrieval are not required. The Puertos_Col FeatureServer endpoint is recorded in the source register. No further endpoint discovery is required for Punto Embarque.
 
 ## Publication
 

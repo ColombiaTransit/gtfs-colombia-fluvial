@@ -9,5 +9,5 @@ st07,Supertransporte,https://chamaeleon.supertransporte.gov.co/gisserver/rest/se
 st08,Supertransporte,https://chamaeleon.supertransporte.gov.co/gisserver/rest/services/Hosted/service_e262c958f9d64ea391595fc6d505c5dd/FeatureServer/0,,,query_disabled_http_500,blocked,review_required,
 dm01,DIMAR,https://sitmar.dimar.mil.co/core/zcd/items/empresas-transporte,data/raw/dimar/dimar_empresas_transporte.xlsx,529,prior_chat_report,pending,review_required,
 dm02,DIMAR,https://sitmar.dimar.mil.co/core/zcd/items/movimiento-naves-nal,data/raw/dimar/dimar_movimiento_naves_2026-10.xlsx,10884,prior_chat_report,pending,review_required,
-dm03,DIMAR,https://www.dimar.mil.co/ide,data/raw/dimar/dimar_puertos_col.geojson,10,feature_count_verified,processed_copy_uploaded_raw_pending,review_required,data/processed/dimar/dimar_puertos_col.geojson
-dm04,DIMAR,https://www.dimar.mil.co/ide,data/raw/dimar/dimar_punto_embarque.geojson,10,feature_count_verified,processed_copy_uploaded_raw_pending,review_required,data/processed/dimar/dimar_punto_embarque.geojson
+dm03,DIMAR,https://services6.arcgis.com/RB7c27NVd25mjSSc/arcgis/rest/services/Puertos_Col/FeatureServer/0,data/raw/dimar/dimar_puertos_col.geojson,10,feature_count_verified,processed_copy_uploaded_raw_pending,review_required,data/processed/dimar/dimar_puertos_col.geojson
+dm04,DIMAR,https://www.dimar.mil.co/ide,data/raw/dimar/dimar_punto_embarque.geojson,10,excluded_offshore_pilot_boarding,processed_copy_retained_no_further_collection,review_required,data/processed/dimar/dimar_punto_embarque.geojson
