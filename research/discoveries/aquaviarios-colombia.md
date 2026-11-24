@@ -38,3 +38,21 @@ Deferred: investigate operator identity, authorizations, current operations, lan
 - [Supertransporte tourism FeatureServer](https://chamaeleon.supertransporte.gov.co/gisserver/rest/services/Hosted/Rutas_Fluvial_Turismo/FeatureServer/0)
 - [Stored tourism layer](../../data/processed/supertransporte/rutas_fluvial_turismo.geojson)
 - User-supplied popup transcription, 2026-11-24; exact route viewer URL not independently established.
+
+## Additional manual discovery: Cartagena – Calamar
+
+Recorded 2026-11-24 from a user-supplied Supertransporte route popup. Matches the existing tourism registration st04, source record id 14.
+
+- Operator: Transportes Aquaviarios de Colombia SAS
+- Fluvial inspection: Cartagena (as displayed in the popup)
+- Modality: Turismo
+- Department: Atlantico
+- Municipality: Barranquilla
+- Node 1: Cartagena
+- Node 2: Calamar
+- Direction: Redondo
+- Vessel type: Bote
+- Operating zone: Rio Magdalena desde Barranquilla hasta Puerto Salgar y Canal del Dique hasta Cartagena
+- Timetable and frequency: blank in the stored source
+
+The supplied NIT matches the identifier in the earlier user-supplied Córdoba popup; it is not reproduced in the public repository. The department and municipality are registration attributes, not necessarily the route origin. This is not an additional route or proof of current scheduled operation. Keep separate from the regular passenger registration Cartagena–Calamar attributed to Transportes del Mar SAS.
