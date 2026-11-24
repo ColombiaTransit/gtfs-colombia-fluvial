@@ -1,0 +1,1554 @@
+route_id,geometry_endpoint,site_id,site_name,site_municipality,site_status,distance_m,status
+rutas_fluvial_pasajeros:2,geometry_start,179,Muelle del Corregimiento de Río Negro,PUERTO RICO,Activa,297,candidate_only
+rutas_fluvial_pasajeros:2,geometry_end,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,37,candidate_only
+rutas_fluvial_pasajeros:2,geometry_end,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,87,candidate_only
+rutas_fluvial_pasajeros:2,geometry_end,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,167,candidate_only
+rutas_fluvial_pasajeros:3,geometry_start,701,MUELLE DE PUERTO FRASQUILLO,Tierralta,Activa,45,candidate_only
+rutas_fluvial_pasajeros:3,geometry_start,703,PUERTO INFORMAL EN PUERTO FRASQUILLO,Tierralta,Activa,78,candidate_only
+rutas_fluvial_pasajeros:3,geometry_start,702,PUERTO DE CARGA PUERTO FRASQUILLO,Tierralta,Activa,146,candidate_only
+rutas_fluvial_pasajeros:4,geometry_end,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,37,candidate_only
+rutas_fluvial_pasajeros:4,geometry_end,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,87,candidate_only
+rutas_fluvial_pasajeros:4,geometry_end,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,167,candidate_only
+rutas_fluvial_pasajeros:5,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,15,candidate_only
+rutas_fluvial_pasajeros:5,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,29,candidate_only
+rutas_fluvial_pasajeros:5,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,30,candidate_only
+rutas_fluvial_pasajeros:6,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,49,candidate_only
+rutas_fluvial_pasajeros:6,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,75,candidate_only
+rutas_fluvial_pasajeros:6,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,179,candidate_only
+rutas_fluvial_pasajeros:7,geometry_start,495,PUERTO LOS JHONSON,VALDIVIA,Activa,37,candidate_only
+rutas_fluvial_pasajeros:8,geometry_start,157,Puerto del El Bagre - Sector Las Piñas,ZARAGOZA,Activa,1,candidate_only
+rutas_fluvial_pasajeros:8,geometry_start,153,Puerto de Cootransunidos,ZARAGOZA,Activa,108,candidate_only
+rutas_fluvial_pasajeros:8,geometry_start,673,Embarcadero Coostransunidos - Sector Bomba Terpel,Zaragoza,Activa,176,candidate_only
+rutas_fluvial_pasajeros:9,geometry_start,436,Puerto Bombillo,ITUANGO,Activa,20,candidate_only
+rutas_fluvial_pasajeros:9,geometry_end,388,Puerto Brujas,TOLEDO,Activa,4,candidate_only
+rutas_fluvial_pasajeros:10,geometry_start,668,Puerto de Sabanagrande,SABANAGRANDE,Activa,247,candidate_only
+rutas_fluvial_pasajeros:10,geometry_start,667,Sin nombre,SABANAGRANDE,Activa,294,candidate_only
+rutas_fluvial_pasajeros:10,geometry_end,391,Muelle Turístico Remolino,REMOLINO,Activa,14,candidate_only
+rutas_fluvial_pasajeros:10,geometry_end,783,Puerto Remolino,Remolino,Activa,58,candidate_only
+rutas_fluvial_pasajeros:11,geometry_end,26,Puerto de Cootraflucan,NECHÍ,Activa,265,candidate_only
+rutas_fluvial_pasajeros:11,geometry_end,11,Puerto El Migue,NECHÍ,Activa,335,candidate_only
+rutas_fluvial_pasajeros:11,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,397,candidate_only
+rutas_fluvial_pasajeros:12,geometry_start,796,Río Luna,Cantagallo,Inactiva,137,candidate_only
+rutas_fluvial_pasajeros:12,geometry_end,807,Sector el arenero o puerto arena,Puerto Wilches,Activa,128,candidate_only
+rutas_fluvial_pasajeros:13,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,15,candidate_only
+rutas_fluvial_pasajeros:13,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,29,candidate_only
+rutas_fluvial_pasajeros:13,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,30,candidate_only
+rutas_fluvial_pasajeros:14,geometry_end,587,Puerto de la playa,Guaranda,Activa,20,candidate_only
+rutas_fluvial_pasajeros:14,geometry_end,808,Puerto Las Canoas,Guaranda,Activa,114,candidate_only
+rutas_fluvial_pasajeros:14,geometry_end,588,Muelle Flotante Cootrafluvsuc,Guaranda,Activa,136,candidate_only
+rutas_fluvial_pasajeros:15,geometry_start,580,propiedad privada de la transportadora COOTRANSPIÑUÑA,Puerto Asís,Activa,71,candidate_only
+rutas_fluvial_pasajeros:15,geometry_start,581,Muelle móvil - Flotante transportadora COOTRANSPUERTO ASÍS LTDA.,Puerto Asís,Activa,289,candidate_only
+rutas_fluvial_pasajeros:16,geometry_start,503,PUERTO LIMON,MOCOA,Activa,76,candidate_only
+rutas_fluvial_pasajeros:16,geometry_start,720,PUERTO SAÚL (punto de embarque y desembarque sin infraestructura en PUERTO LIMÓN),Mocoa,Activa,166,candidate_only
+rutas_fluvial_pasajeros:16,geometry_end,718,PUERTO ZAPOTE (punto de embarque y desembarque sin infraestructura en PUERTO LIMÓN),Mocoa,Activa,47,candidate_only
+rutas_fluvial_pasajeros:17,geometry_start,157,Puerto del El Bagre - Sector Las Piñas,ZARAGOZA,Activa,1,candidate_only
+rutas_fluvial_pasajeros:17,geometry_start,153,Puerto de Cootransunidos,ZARAGOZA,Activa,108,candidate_only
+rutas_fluvial_pasajeros:17,geometry_start,673,Embarcadero Coostransunidos - Sector Bomba Terpel,Zaragoza,Activa,176,candidate_only
+rutas_fluvial_pasajeros:18,geometry_start,157,Puerto del El Bagre - Sector Las Piñas,ZARAGOZA,Activa,1,candidate_only
+rutas_fluvial_pasajeros:18,geometry_start,153,Puerto de Cootransunidos,ZARAGOZA,Activa,108,candidate_only
+rutas_fluvial_pasajeros:18,geometry_start,673,Embarcadero Coostransunidos - Sector Bomba Terpel,Zaragoza,Activa,176,candidate_only
+rutas_fluvial_pasajeros:19,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,15,candidate_only
+rutas_fluvial_pasajeros:19,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,29,candidate_only
+rutas_fluvial_pasajeros:19,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,30,candidate_only
+rutas_fluvial_pasajeros:20,geometry_start,505,EMBARCADERO EL JAUNO,PUERTO GUZMÁN,Activa,457,candidate_only
+rutas_fluvial_pasajeros:20,geometry_end,505,EMBARCADERO EL JAUNO,PUERTO GUZMÁN,Activa,122,candidate_only
+rutas_fluvial_pasajeros:21,geometry_start,547,,Pinillos,,277,candidate_only
+rutas_fluvial_pasajeros:21,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,15,candidate_only
+rutas_fluvial_pasajeros:21,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,29,candidate_only
+rutas_fluvial_pasajeros:21,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,30,candidate_only
+rutas_fluvial_pasajeros:22,geometry_end,587,Puerto de la playa,Guaranda,Activa,20,candidate_only
+rutas_fluvial_pasajeros:22,geometry_end,808,Puerto Las Canoas,Guaranda,Activa,114,candidate_only
+rutas_fluvial_pasajeros:22,geometry_end,588,Muelle Flotante Cootrafluvsuc,Guaranda,Activa,136,candidate_only
+rutas_fluvial_pasajeros:23,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,162,candidate_only
+rutas_fluvial_pasajeros:23,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,162,candidate_only
+rutas_fluvial_pasajeros:23,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,173,candidate_only
+rutas_fluvial_pasajeros:24,geometry_end,26,Puerto de Cootraflucan,NECHÍ,Activa,107,candidate_only
+rutas_fluvial_pasajeros:24,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,239,candidate_only
+rutas_fluvial_pasajeros:24,geometry_end,43,Puerto Las flores,NECHÍ,Activa,330,candidate_only
+rutas_fluvial_pasajeros:25,geometry_end,587,Puerto de la playa,Guaranda,Activa,20,candidate_only
+rutas_fluvial_pasajeros:25,geometry_end,808,Puerto Las Canoas,Guaranda,Activa,114,candidate_only
+rutas_fluvial_pasajeros:25,geometry_end,588,Muelle Flotante Cootrafluvsuc,Guaranda,Activa,136,candidate_only
+rutas_fluvial_pasajeros:26,geometry_start,546,Puerto Lleras,Puerto Lleras,,6,candidate_only
+rutas_fluvial_pasajeros:26,geometry_end,545,La Reinera,Reinera,,2,candidate_only
+rutas_fluvial_pasajeros:27,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:27,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,95,candidate_only
+rutas_fluvial_pasajeros:27,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,157,candidate_only
+rutas_fluvial_pasajeros:28,geometry_start,90,Estación de Combustible Misael de Solano,SOLANO,Activa,8,candidate_only
+rutas_fluvial_pasajeros:28,geometry_start,86,Muelle Principal de Solano,SOLANO,Activa,60,candidate_only
+rutas_fluvial_pasajeros:28,geometry_start,89,Muelle de Carga de Solano,SOLANO,Activa,80,candidate_only
+rutas_fluvial_pasajeros:29,geometry_start,161,Puerto de Carga,FLORENCIA,Activa,28,candidate_only
+rutas_fluvial_pasajeros:29,geometry_start,159,Puerto Transfluvial del Sur,FLORENCIA,Activa,380,candidate_only
+rutas_fluvial_pasajeros:29,geometry_start,160,Muelle de Pasajeros Expreso Solano,FLORENCIA,Activa,636,candidate_only
+rutas_fluvial_pasajeros:30,geometry_start,557,,LLORO,,20,candidate_only
+rutas_fluvial_pasajeros:30,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,3,candidate_only
+rutas_fluvial_pasajeros:30,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,249,candidate_only
+rutas_fluvial_pasajeros:30,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,302,candidate_only
+rutas_fluvial_pasajeros:31,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:31,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,95,candidate_only
+rutas_fluvial_pasajeros:31,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,157,candidate_only
+rutas_fluvial_pasajeros:32,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,15,candidate_only
+rutas_fluvial_pasajeros:32,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,110,candidate_only
+rutas_fluvial_pasajeros:32,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,234,candidate_only
+rutas_fluvial_pasajeros:33,geometry_end,99,Muelle Platanero,ARAUCA,Activa,36,candidate_only
+rutas_fluvial_pasajeros:33,geometry_end,109,Muelle La media Agua,ARAUCA,Activa,419,candidate_only
+rutas_fluvial_pasajeros:33,geometry_end,110,Muelle El Mirador,ARAUCA,Activa,658,candidate_only
+rutas_fluvial_pasajeros:34,geometry_start,549,Puerto Meluk,Puerto Meluk,,182,candidate_only
+rutas_fluvial_pasajeros:34,geometry_end,309,Malecón Pizarro,BAJO BAUDÓ,Activa,78,candidate_only
+rutas_fluvial_pasajeros:34,geometry_end,317,Muelle de Santos,BAJO BAUDÓ,Activa,136,candidate_only
+rutas_fluvial_pasajeros:34,geometry_end,313,Muelle el Chino,BAJO BAUDÓ,Activa,156,candidate_only
+rutas_fluvial_pasajeros:35,geometry_start,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,80,candidate_only
+rutas_fluvial_pasajeros:35,geometry_start,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,862,candidate_only
+rutas_fluvial_pasajeros:35,geometry_end,496,MUELLE FLOTANTE DE PASAJEROS,PUERTO NARIÑO,Activa,8,candidate_only
+rutas_fluvial_pasajeros:36,geometry_start,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,163,candidate_only
+rutas_fluvial_pasajeros:36,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,78,candidate_only
+rutas_fluvial_pasajeros:37,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:37,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,95,candidate_only
+rutas_fluvial_pasajeros:37,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,157,candidate_only
+rutas_fluvial_pasajeros:39,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:39,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,95,candidate_only
+rutas_fluvial_pasajeros:39,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,157,candidate_only
+rutas_fluvial_pasajeros:40,geometry_start,701,MUELLE DE PUERTO FRASQUILLO,Tierralta,Activa,45,candidate_only
+rutas_fluvial_pasajeros:40,geometry_start,703,PUERTO INFORMAL EN PUERTO FRASQUILLO,Tierralta,Activa,78,candidate_only
+rutas_fluvial_pasajeros:40,geometry_start,702,PUERTO DE CARGA PUERTO FRASQUILLO,Tierralta,Activa,146,candidate_only
+rutas_fluvial_pasajeros:41,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,42,candidate_only
+rutas_fluvial_pasajeros:41,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,812,candidate_only
+rutas_fluvial_pasajeros:42,geometry_start,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:42,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,159,candidate_only
+rutas_fluvial_pasajeros:43,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,27,candidate_only
+rutas_fluvial_pasajeros:43,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,108,candidate_only
+rutas_fluvial_pasajeros:43,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,173,candidate_only
+rutas_fluvial_pasajeros:44,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,27,candidate_only
+rutas_fluvial_pasajeros:44,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,108,candidate_only
+rutas_fluvial_pasajeros:44,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,173,candidate_only
+rutas_fluvial_pasajeros:45,geometry_start,142,Muelle Fluvial Santa Bárbara de Pinto,SANTA BÁRBARA DE PINTO,Activa,188,candidate_only
+rutas_fluvial_pasajeros:45,geometry_start,840,Muelle principal santa barbara de pinto,Santa Barbara de Pinto,Inactiva,536,candidate_only
+rutas_fluvial_pasajeros:45,geometry_start,782,Puerto la manga,Santa Barbara de Pinto,Activa,568,candidate_only
+rutas_fluvial_pasajeros:45,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:45,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,94,candidate_only
+rutas_fluvial_pasajeros:45,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,157,candidate_only
+rutas_fluvial_pasajeros:46,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,100,candidate_only
+rutas_fluvial_pasajeros:47,geometry_start,593,Punto de embarque embarcación La Lorenza de Transportes Luz,Montería,Activa,22,candidate_only
+rutas_fluvial_pasajeros:48,geometry_end,593,Punto de embarque embarcación La Lorenza de Transportes Luz,Montería,Activa,4,candidate_only
+rutas_fluvial_pasajeros:49,geometry_start,580,propiedad privada de la transportadora COOTRANSPIÑUÑA,Puerto Asís,Activa,71,candidate_only
+rutas_fluvial_pasajeros:49,geometry_start,581,Muelle móvil - Flotante transportadora COOTRANSPUERTO ASÍS LTDA.,Puerto Asís,Activa,289,candidate_only
+rutas_fluvial_pasajeros:50,geometry_start,527,MUELLE EL MATADERO,PUERTO LEGUIZAMO,Activa,206,candidate_only
+rutas_fluvial_pasajeros:50,geometry_start,869,MUELLE DE LA MAGDALENA,Puerto Leguizamó,Inactiva,393,candidate_only
+rutas_fluvial_pasajeros:50,geometry_start,865,MUELLE DE LA CALLE NOVENA,Puerto Leguizamó,Inactiva,665,candidate_only
+rutas_fluvial_pasajeros:52,geometry_start,580,propiedad privada de la transportadora COOTRANSPIÑUÑA,Puerto Asís,Activa,71,candidate_only
+rutas_fluvial_pasajeros:52,geometry_start,581,Muelle móvil - Flotante transportadora COOTRANSPUERTO ASÍS LTDA.,Puerto Asís,Activa,289,candidate_only
+rutas_fluvial_pasajeros:53,geometry_end,587,Puerto de la playa,Guaranda,Activa,13,candidate_only
+rutas_fluvial_pasajeros:53,geometry_end,808,Puerto Las Canoas,Guaranda,Activa,118,candidate_only
+rutas_fluvial_pasajeros:53,geometry_end,588,Muelle Flotante Cootrafluvsuc,Guaranda,Activa,140,candidate_only
+rutas_fluvial_pasajeros:54,geometry_start,580,propiedad privada de la transportadora COOTRANSPIÑUÑA,Puerto Asís,Activa,71,candidate_only
+rutas_fluvial_pasajeros:54,geometry_start,581,Muelle móvil - Flotante transportadora COOTRANSPUERTO ASÍS LTDA.,Puerto Asís,Activa,289,candidate_only
+rutas_fluvial_pasajeros:55,geometry_start,580,propiedad privada de la transportadora COOTRANSPIÑUÑA,Puerto Asís,Activa,71,candidate_only
+rutas_fluvial_pasajeros:55,geometry_start,581,Muelle móvil - Flotante transportadora COOTRANSPUERTO ASÍS LTDA.,Puerto Asís,Activa,289,candidate_only
+rutas_fluvial_pasajeros:56,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,8,candidate_only
+rutas_fluvial_pasajeros:56,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,125,candidate_only
+rutas_fluvial_pasajeros:56,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,249,candidate_only
+rutas_fluvial_pasajeros:57,geometry_start,580,propiedad privada de la transportadora COOTRANSPIÑUÑA,Puerto Asís,Activa,71,candidate_only
+rutas_fluvial_pasajeros:57,geometry_start,581,Muelle móvil - Flotante transportadora COOTRANSPUERTO ASÍS LTDA.,Puerto Asís,Activa,289,candidate_only
+rutas_fluvial_pasajeros:58,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,61,candidate_only
+rutas_fluvial_pasajeros:58,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,61,candidate_only
+rutas_fluvial_pasajeros:58,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,72,candidate_only
+rutas_fluvial_pasajeros:59,geometry_end,27,Puerto Platanero De Curillo,CURILLO,Activa,43,candidate_only
+rutas_fluvial_pasajeros:59,geometry_end,873,Puerto petróleo,Curillo,Activa,104,candidate_only
+rutas_fluvial_pasajeros:59,geometry_end,24,Estacionamiento De La Bomba De Nueva Esperanza,CURILLO,Activa,152,candidate_only
+rutas_fluvial_pasajeros:60,geometry_start,527,MUELLE EL MATADERO,PUERTO LEGUIZAMO,Activa,201,candidate_only
+rutas_fluvial_pasajeros:60,geometry_start,869,MUELLE DE LA MAGDALENA,Puerto Leguizamó,Inactiva,394,candidate_only
+rutas_fluvial_pasajeros:60,geometry_start,865,MUELLE DE LA CALLE NOVENA,Puerto Leguizamó,Inactiva,667,candidate_only
+rutas_fluvial_pasajeros:61,geometry_start,90,Estación de Combustible Misael de Solano,SOLANO,Activa,8,candidate_only
+rutas_fluvial_pasajeros:61,geometry_start,86,Muelle Principal de Solano,SOLANO,Activa,60,candidate_only
+rutas_fluvial_pasajeros:61,geometry_start,89,Muelle de Carga de Solano,SOLANO,Activa,80,candidate_only
+rutas_fluvial_pasajeros:62,geometry_start,869,MUELLE DE LA MAGDALENA,Puerto Leguizamó,Inactiva,49,candidate_only
+rutas_fluvial_pasajeros:62,geometry_start,865,MUELLE DE LA CALLE NOVENA,Puerto Leguizamó,Inactiva,235,candidate_only
+rutas_fluvial_pasajeros:62,geometry_start,526,MUELLE LINEA AMARILLA,PUERTO LEGUIZAMO,Activa,409,candidate_only
+rutas_fluvial_pasajeros:63,geometry_start,323,Puerto Murca,GACHALÁ,Activa,149,candidate_only
+rutas_fluvial_pasajeros:63,geometry_start,308,Puerto Santa Elena,GACHALÁ,Activa,740,candidate_only
+rutas_fluvial_pasajeros:63,geometry_start,320,Puerto conejo,GACHALÁ,Activa,965,candidate_only
+rutas_fluvial_pasajeros:63,geometry_end,323,Puerto Murca,GACHALÁ,Activa,171,candidate_only
+rutas_fluvial_pasajeros:63,geometry_end,308,Puerto Santa Elena,GACHALÁ,Activa,723,candidate_only
+rutas_fluvial_pasajeros:63,geometry_end,320,Puerto conejo,GACHALÁ,Activa,983,candidate_only
+rutas_fluvial_pasajeros:64,geometry_start,496,MUELLE FLOTANTE DE PASAJEROS,PUERTO NARIÑO,Activa,12,candidate_only
+rutas_fluvial_pasajeros:64,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,9,candidate_only
+rutas_fluvial_pasajeros:64,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,831,candidate_only
+rutas_fluvial_pasajeros:65,geometry_end,589,Muelle el Pescador,Riosucio,Activa,422,candidate_only
+rutas_fluvial_pasajeros:65,geometry_end,364,Muelle Bocachico,RIOSUCIO,Activa,428,candidate_only
+rutas_fluvial_pasajeros:65,geometry_end,362,Embarcadero Barrio Escolar - Riosucio Chocó,RIOSUCIO,Activa,645,candidate_only
+rutas_fluvial_pasajeros:68,geometry_start,4,Embarcadero Pachanga,NECHÍ,Activa,174,candidate_only
+rutas_fluvial_pasajeros:68,geometry_start,601,Muelles de Puerto Berrio,Puerto Berrío,Activa,197,candidate_only
+rutas_fluvial_pasajeros:68,geometry_start,602,El Muelle,Puerto Berrío,Activa,254,candidate_only
+rutas_fluvial_pasajeros:69,geometry_end,807,Sector el arenero o puerto arena,Puerto Wilches,Activa,174,candidate_only
+rutas_fluvial_pasajeros:70,geometry_start,150,Muelle Barranco de Loba,BARRANCO DE LOBA,Activa,172,candidate_only
+rutas_fluvial_pasajeros:70,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,51,candidate_only
+rutas_fluvial_pasajeros:70,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,51,candidate_only
+rutas_fluvial_pasajeros:70,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,58,candidate_only
+rutas_fluvial_pasajeros:71,geometry_end,434,Puerto Seboruco,CAMPOALEGRE,Activa,143,candidate_only
+rutas_fluvial_pasajeros:72,geometry_start,225,Muelle Cootraimag,MAGANGUÉ,Activa,59,candidate_only
+rutas_fluvial_pasajeros:72,geometry_start,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,73,candidate_only
+rutas_fluvial_pasajeros:72,geometry_start,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,162,candidate_only
+rutas_fluvial_pasajeros:73,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,2,candidate_only
+rutas_fluvial_pasajeros:73,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,136,candidate_only
+rutas_fluvial_pasajeros:73,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,251,candidate_only
+rutas_fluvial_pasajeros:75,geometry_start,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,3,candidate_only
+rutas_fluvial_pasajeros:75,geometry_start,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,823,candidate_only
+rutas_fluvial_pasajeros:75,geometry_end,496,MUELLE FLOTANTE DE PASAJEROS,PUERTO NARIÑO,Activa,13,candidate_only
+rutas_fluvial_pasajeros:76,geometry_start,495,PUERTO LOS JHONSON,VALDIVIA,Activa,183,candidate_only
+rutas_fluvial_pasajeros:77,geometry_start,193,Muelle los pescadores,PUERTO LLERAS,Activa,239,candidate_only
+rutas_fluvial_pasajeros:77,geometry_end,193,Muelle los pescadores,PUERTO LLERAS,Activa,674,candidate_only
+rutas_fluvial_pasajeros:79,geometry_start,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,39,candidate_only
+rutas_fluvial_pasajeros:79,geometry_start,225,Muelle Cootraimag,MAGANGUÉ,Activa,51,candidate_only
+rutas_fluvial_pasajeros:79,geometry_start,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,175,candidate_only
+rutas_fluvial_pasajeros:80,geometry_start,290,Malecón Ecoturístico de Sabanagrande,SABANAGRANDE,Activa,137,candidate_only
+rutas_fluvial_pasajeros:80,geometry_end,668,Puerto de Sabanagrande,SABANAGRANDE,Activa,243,candidate_only
+rutas_fluvial_pasajeros:80,geometry_end,667,Sin nombre,SABANAGRANDE,Activa,290,candidate_only
+rutas_fluvial_pasajeros:81,geometry_start,187,Puerto Betania,SAN VICENTE DEL CAGUÁN,Activa,9,candidate_only
+rutas_fluvial_pasajeros:81,geometry_end,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,9,candidate_only
+rutas_fluvial_pasajeros:81,geometry_end,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,116,candidate_only
+rutas_fluvial_pasajeros:81,geometry_end,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,140,candidate_only
+rutas_fluvial_pasajeros:82,geometry_start,682,Puerto de los Jhonson,Puerto Boyacá,Activa,87,candidate_only
+rutas_fluvial_pasajeros:82,geometry_start,681,Muelle Los Pescadores,Puerto Boyacá,Activa,646,candidate_only
+rutas_fluvial_pasajeros:82,geometry_start,615,Muelle Puerto Perales,Puerto Triunfo -  corregimiento Puerto Perales,Inactiva,907,candidate_only
+rutas_fluvial_pasajeros:82,geometry_end,616,Embarcadero el Ferry,Puerto Triunfo - Corregimiento de Puerto Perales,Activa,29,candidate_only
+rutas_fluvial_pasajeros:82,geometry_end,741,Sector el Ferry,Puerto Boyacá,Activa,646,candidate_only
+rutas_fluvial_pasajeros:82,geometry_end,615,Muelle Puerto Perales,Puerto Triunfo -  corregimiento Puerto Perales,Inactiva,816,candidate_only
+rutas_fluvial_pasajeros:83,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,27,candidate_only
+rutas_fluvial_pasajeros:83,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,125,candidate_only
+rutas_fluvial_pasajeros:83,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,242,candidate_only
+rutas_fluvial_pasajeros:84,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,30,candidate_only
+rutas_fluvial_pasajeros:84,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,101,candidate_only
+rutas_fluvial_pasajeros:84,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,221,candidate_only
+rutas_fluvial_pasajeros:84,geometry_end,870,LA TAGUA,Puerto Leguizamó,Activa,16,candidate_only
+rutas_fluvial_pasajeros:84,geometry_end,871,MUELLE DE TRANSFUVIAL CAQUETÁ,Puerto Leguizamó,Activa,50,candidate_only
+rutas_fluvial_pasajeros:84,geometry_end,872,MUELLE DE LA ESTACIÓN DE POLICÍA (LA TAGUA),Puerto Leguizamó,Inactiva,192,candidate_only
+rutas_fluvial_pasajeros:85,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,10,candidate_only
+rutas_fluvial_pasajeros:85,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,125,candidate_only
+rutas_fluvial_pasajeros:85,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,131,candidate_only
+rutas_fluvial_pasajeros:85,geometry_end,179,Muelle del Corregimiento de Río Negro,PUERTO RICO,Activa,7,candidate_only
+rutas_fluvial_pasajeros:86,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,35,candidate_only
+rutas_fluvial_pasajeros:86,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,100,candidate_only
+rutas_fluvial_pasajeros:86,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,158,candidate_only
+rutas_fluvial_pasajeros:86,geometry_end,188,Muelle Principal San Vicente del Caguán,SAN VICENTE DEL CAGUÁN,Activa,16,candidate_only
+rutas_fluvial_pasajeros:86,geometry_end,849,Asociación de Cocheros,San Vicente del Caguán,Activa,114,candidate_only
+rutas_fluvial_pasajeros:86,geometry_end,848,muelle fluvial del municipio de san Vicente del Caguán,San Vicente del Caguán,Activa,206,candidate_only
+rutas_fluvial_pasajeros:87,geometry_start,672,Embarcadero Cootraflucan,Caucasia,Inactiva,101,candidate_only
+rutas_fluvial_pasajeros:87,geometry_start,395,Puerto España,CAUCASIA,Activa,104,candidate_only
+rutas_fluvial_pasajeros:87,geometry_start,214,Puerto Los Plátanos,CAUCASIA,Activa,131,candidate_only
+rutas_fluvial_pasajeros:87,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,74,candidate_only
+rutas_fluvial_pasajeros:87,geometry_end,26,Puerto de Cootraflucan,NECHÍ,Activa,127,candidate_only
+rutas_fluvial_pasajeros:87,geometry_end,43,Puerto Las flores,NECHÍ,Activa,155,candidate_only
+rutas_fluvial_pasajeros:88,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,11,candidate_only
+rutas_fluvial_pasajeros:88,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,118,candidate_only
+rutas_fluvial_pasajeros:88,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,246,candidate_only
+rutas_fluvial_pasajeros:89,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,16,candidate_only
+rutas_fluvial_pasajeros:89,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,117,candidate_only
+rutas_fluvial_pasajeros:89,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,239,candidate_only
+rutas_fluvial_pasajeros:90,geometry_start,48,Puerto Colorado,NECHÍ,Inactiva,32,candidate_only
+rutas_fluvial_pasajeros:90,geometry_start,47,Zona de atraque de embarcaciones pesqueras,NECHÍ,Activa,293,candidate_only
+rutas_fluvial_pasajeros:90,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,105,candidate_only
+rutas_fluvial_pasajeros:90,geometry_end,26,Puerto de Cootraflucan,NECHÍ,Activa,121,candidate_only
+rutas_fluvial_pasajeros:90,geometry_end,43,Puerto Las flores,NECHÍ,Activa,188,candidate_only
+rutas_fluvial_pasajeros:91,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,62,candidate_only
+rutas_fluvial_pasajeros:91,geometry_end,26,Puerto de Cootraflucan,NECHÍ,Activa,131,candidate_only
+rutas_fluvial_pasajeros:91,geometry_end,43,Puerto Las flores,NECHÍ,Activa,141,candidate_only
+rutas_fluvial_pasajeros:92,geometry_start,162,Muelle de Chalupas o Zapatico Viejo de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,17,candidate_only
+rutas_fluvial_pasajeros:92,geometry_start,165,Muelle Principal de Cartagena del Chairá,CARTAGENA DEL CHAIRÁ,Activa,108,candidate_only
+rutas_fluvial_pasajeros:92,geometry_start,166,Embarcadero Quesillera,CARTAGENA DEL CHAIRÁ,Activa,233,candidate_only
+rutas_fluvial_pasajeros:93,geometry_start,164,Muelle Flotante de Asotaxi,CARTAGENA DEL CHAIRÁ,Activa,12,candidate_only
+rutas_fluvial_pasajeros:93,geometry_start,423,Puerto Madera,CARTAGENA DEL CHAIRÁ,Activa,32,candidate_only
+rutas_fluvial_pasajeros:93,geometry_start,163,Embarcadero Puerto Relleno,CARTAGENA DEL CHAIRÁ,Activa,131,candidate_only
+rutas_fluvial_pasajeros:94,geometry_start,190,Muelle Gamarra,GAMARRA,Activa,1,candidate_only
+rutas_fluvial_pasajeros:94,geometry_start,297,Embarcadero Los Aceitunos,GAMARRA,Activa,453,candidate_only
+rutas_fluvial_pasajeros:94,geometry_end,444,Puerto Bolívar,MORALES,Activa,23,candidate_only
+rutas_fluvial_pasajeros:94,geometry_end,297,Embarcadero Los Aceitunos,GAMARRA,Activa,771,candidate_only
+rutas_fluvial_pasajeros:95,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,15,candidate_only
+rutas_fluvial_pasajeros:95,geometry_end,155,MUELLE COOTRANSFLUCAP,EL BANCO,Activa,20,candidate_only
+rutas_fluvial_pasajeros:95,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,43,candidate_only
+rutas_fluvial_pasajeros:96,geometry_start,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,230,candidate_only
+rutas_fluvial_pasajeros:96,geometry_start,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,230,candidate_only
+rutas_fluvial_pasajeros:96,geometry_start,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,241,candidate_only
+rutas_fluvial_pasajeros:96,geometry_end,150,Muelle Barranco de Loba,BARRANCO DE LOBA,Activa,20,candidate_only
+rutas_fluvial_pasajeros:97,geometry_start,276,Embarcadero del Medio Baudó,MEDIO BAUDÓ,Activa,69,candidate_only
+rutas_fluvial_pasajeros:97,geometry_start,748,Muelle Mixto de Pto.Meluk-Medio Baudo,Medio Baudó,Activa,92,candidate_only
+rutas_fluvial_pasajeros:97,geometry_end,313,Muelle el Chino,BAJO BAUDÓ,Activa,637,candidate_only
+rutas_fluvial_pasajeros:97,geometry_end,317,Muelle de Santos,BAJO BAUDÓ,Activa,639,candidate_only
+rutas_fluvial_pasajeros:97,geometry_end,309,Malecón Pizarro,BAJO BAUDÓ,Activa,807,candidate_only
+rutas_fluvial_pasajeros:98,geometry_start,161,Puerto de Carga,FLORENCIA,Activa,7,candidate_only
+rutas_fluvial_pasajeros:98,geometry_start,159,Puerto Transfluvial del Sur,FLORENCIA,Activa,382,candidate_only
+rutas_fluvial_pasajeros:98,geometry_start,160,Muelle de Pasajeros Expreso Solano,FLORENCIA,Activa,640,candidate_only
+rutas_fluvial_pasajeros:98,geometry_end,147,Puerto La Pequeza,MILÁN,Activa,6,candidate_only
+rutas_fluvial_pasajeros:98,geometry_end,145,Muelle de San Antonio,MILÁN,Activa,12,candidate_only
+rutas_fluvial_pasajeros:99,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,24,candidate_only
+rutas_fluvial_pasajeros:101,geometry_start,466,PASO EL HATO,SUÁREZ,Activa,58,candidate_only
+rutas_fluvial_pasajeros:101,geometry_start,475,PASO SAN VICENTE,SUÁREZ,Activa,581,candidate_only
+rutas_fluvial_pasajeros:101,geometry_start,659,PASO EL PITA,SUAREZ,Activa,967,candidate_only
+rutas_fluvial_pasajeros:101,geometry_end,466,PASO EL HATO,SUÁREZ,Activa,19,candidate_only
+rutas_fluvial_pasajeros:101,geometry_end,475,PASO SAN VICENTE,SUÁREZ,Activa,556,candidate_only
+rutas_fluvial_pasajeros:101,geometry_end,659,PASO EL PITA,SUAREZ,Activa,915,candidate_only
+rutas_fluvial_pasajeros:102,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,438,candidate_only
+rutas_fluvial_pasajeros:102,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,438,candidate_only
+rutas_fluvial_pasajeros:102,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,449,candidate_only
+rutas_fluvial_pasajeros:103,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,37,candidate_only
+rutas_fluvial_pasajeros:103,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,44,candidate_only
+rutas_fluvial_pasajeros:103,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,44,candidate_only
+rutas_fluvial_pasajeros:104,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,42,candidate_only
+rutas_fluvial_pasajeros:104,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:104,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,57,candidate_only
+rutas_fluvial_pasajeros:105,geometry_start,231,Embarcadero Sector Naviera,MAGANGUÉ,Activa,10,candidate_only
+rutas_fluvial_pasajeros:105,geometry_start,652,La Marquetalia – Naviera Central S.A,MAGANGUE,Inactiva,22,candidate_only
+rutas_fluvial_pasajeros:105,geometry_start,650,MUELLE LA CANDELARIA,MAGANGUE,Activa,532,candidate_only
+rutas_fluvial_pasajeros:105,geometry_end,155,MUELLE COOTRANSFLUCAP,EL BANCO,Activa,311,candidate_only
+rutas_fluvial_pasajeros:105,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,326,candidate_only
+rutas_fluvial_pasajeros:105,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,349,candidate_only
+rutas_fluvial_pasajeros:106,geometry_start,125,Muelle Puerto Boca,TAMALAMEQUE,Activa,14,candidate_only
+rutas_fluvial_pasajeros:106,geometry_start,825,,,,480,candidate_only
+rutas_fluvial_pasajeros:106,geometry_start,826,,,,480,candidate_only
+rutas_fluvial_pasajeros:107,geometry_start,303,PUERTO LAS PALMAS,GACHALÁ,Activa,11,candidate_only
+rutas_fluvial_pasajeros:107,geometry_start,333,Puerto Tunjito,GACHALÁ,Activa,742,candidate_only
+rutas_fluvial_pasajeros:107,geometry_end,344,Puerto san pedro 2,UBALÁ,Activa,19,candidate_only
+rutas_fluvial_pasajeros:107,geometry_end,345,Puerto san pedro 1,UBALÁ,Activa,576,candidate_only
+rutas_fluvial_pasajeros:108,geometry_start,303,PUERTO LAS PALMAS,GACHALÁ,Activa,11,candidate_only
+rutas_fluvial_pasajeros:108,geometry_start,333,Puerto Tunjito,GACHALÁ,Activa,756,candidate_only
+rutas_fluvial_pasajeros:108,geometry_end,315,Puerto santa Barbara,GACHALÁ,Activa,27,candidate_only
+rutas_fluvial_pasajeros:108,geometry_end,319,Puerto mina,GACHALÁ,Activa,112,candidate_only
+rutas_fluvial_pasajeros:108,geometry_end,320,Puerto conejo,GACHALÁ,Activa,609,candidate_only
+rutas_fluvial_pasajeros:109,geometry_start,303,PUERTO LAS PALMAS,GACHALÁ,Activa,33,candidate_only
+rutas_fluvial_pasajeros:109,geometry_start,333,Puerto Tunjito,GACHALÁ,Activa,726,candidate_only
+rutas_fluvial_pasajeros:109,geometry_end,351,Puerto cueva oscura,UBALÁ,Activa,27,candidate_only
+rutas_fluvial_pasajeros:110,geometry_start,213,Puerto Principal de Mompóx,MOMPÓS,Activa,22,candidate_only
+rutas_fluvial_pasajeros:110,geometry_start,211,Muelle San Francisco de Mompóx,MOMPÓX,Activa,257,candidate_only
+rutas_fluvial_pasajeros:110,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,58,candidate_only
+rutas_fluvial_pasajeros:110,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,58,candidate_only
+rutas_fluvial_pasajeros:110,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,67,candidate_only
+rutas_fluvial_pasajeros:111,geometry_start,587,Puerto de la playa,Guaranda,Activa,24,candidate_only
+rutas_fluvial_pasajeros:111,geometry_start,809,Puerto Coca Cola,Guaranda,Activa,134,candidate_only
+rutas_fluvial_pasajeros:111,geometry_start,808,Puerto Las Canoas,Guaranda,Activa,135,candidate_only
+rutas_fluvial_pasajeros:111,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,83,candidate_only
+rutas_fluvial_pasajeros:111,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,84,candidate_only
+rutas_fluvial_pasajeros:111,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,142,candidate_only
+rutas_fluvial_pasajeros:112,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,65,candidate_only
+rutas_fluvial_pasajeros:112,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,119,candidate_only
+rutas_fluvial_pasajeros:112,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,179,candidate_only
+rutas_fluvial_pasajeros:113,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,52,candidate_only
+rutas_fluvial_pasajeros:113,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,89,candidate_only
+rutas_fluvial_pasajeros:113,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,135,candidate_only
+rutas_fluvial_pasajeros:114,geometry_start,587,Puerto de la playa,Guaranda,Activa,47,candidate_only
+rutas_fluvial_pasajeros:114,geometry_start,809,Puerto Coca Cola,Guaranda,Activa,110,candidate_only
+rutas_fluvial_pasajeros:114,geometry_start,808,Puerto Las Canoas,Guaranda,Activa,159,candidate_only
+rutas_fluvial_pasajeros:114,geometry_end,50,Muelle de Nechí o Puerto Libano,NECHÍ,Activa,94,candidate_only
+rutas_fluvial_pasajeros:114,geometry_end,43,Puerto Las flores,NECHÍ,Activa,150,candidate_only
+rutas_fluvial_pasajeros:114,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,238,candidate_only
+rutas_fluvial_pasajeros:115,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,77,candidate_only
+rutas_fluvial_pasajeros:115,geometry_end,43,Puerto Las flores,NECHÍ,Activa,146,candidate_only
+rutas_fluvial_pasajeros:115,geometry_end,26,Puerto de Cootraflucan,NECHÍ,Activa,149,candidate_only
+rutas_fluvial_pasajeros:116,geometry_start,680,Puerto Cerro de Burgos,Simití,Activa,149,candidate_only
+rutas_fluvial_pasajeros:116,geometry_end,297,Embarcadero Los Aceitunos,GAMARRA,Activa,60,candidate_only
+rutas_fluvial_pasajeros:116,geometry_end,190,Muelle Gamarra,GAMARRA,Activa,394,candidate_only
+rutas_fluvial_pasajeros:116,geometry_end,444,Puerto Bolívar,MORALES,Activa,823,candidate_only
+rutas_fluvial_pasajeros:117,geometry_start,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,25,candidate_only
+rutas_fluvial_pasajeros:117,geometry_start,225,Muelle Cootraimag,MAGANGUÉ,Activa,77,candidate_only
+rutas_fluvial_pasajeros:117,geometry_start,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,206,candidate_only
+rutas_fluvial_pasajeros:117,geometry_end,547,,Pinillos,,3,candidate_only
+rutas_fluvial_pasajeros:118,geometry_start,554,San Juan de Atacuarí,Leticia,,39,candidate_only
+rutas_fluvial_pasajeros:118,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,14,candidate_only
+rutas_fluvial_pasajeros:118,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,826,candidate_only
+rutas_fluvial_pasajeros:119,geometry_start,556,Guaitadó,Guaitadó,,17,candidate_only
+rutas_fluvial_pasajeros:119,geometry_end,557,,LLORO,,83,candidate_only
+rutas_fluvial_pasajeros:120,geometry_start,562,Tanela,Tanela,,41,candidate_only
+rutas_fluvial_pasajeros:121,geometry_start,563,Santa María,Santa María,,24,candidate_only
+rutas_fluvial_pasajeros:122,geometry_start,566,Paimado,Paimado,,9,candidate_only
+rutas_fluvial_pasajeros:122,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,666,candidate_only
+rutas_fluvial_pasajeros:122,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,863,candidate_only
+rutas_fluvial_pasajeros:123,geometry_start,559,Villa Claret,Acandí,,76,candidate_only
+rutas_fluvial_pasajeros:123,geometry_end,557,,LLORO,,79,candidate_only
+rutas_fluvial_pasajeros:124,geometry_start,557,,LLORO,,80,candidate_only
+rutas_fluvial_pasajeros:124,geometry_end,560,La Vuelta,Lloró,,2,candidate_only
+rutas_fluvial_pasajeros:125,geometry_start,560,La Vuelta,Lloró,,5,candidate_only
+rutas_fluvial_pasajeros:125,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,7,candidate_only
+rutas_fluvial_pasajeros:125,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,241,candidate_only
+rutas_fluvial_pasajeros:125,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,311,candidate_only
+rutas_fluvial_pasajeros:126,geometry_start,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,4,candidate_only
+rutas_fluvial_pasajeros:126,geometry_start,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,170,candidate_only
+rutas_fluvial_pasajeros:126,geometry_start,17,Malecón Jairo Varela,QUIBDÓ,Activa,474,candidate_only
+rutas_fluvial_pasajeros:127,geometry_start,568,San Isidro Río Quito,San Isidro,,115,candidate_only
+rutas_fluvial_pasajeros:127,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,1,candidate_only
+rutas_fluvial_pasajeros:127,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,248,candidate_only
+rutas_fluvial_pasajeros:127,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,304,candidate_only
+rutas_fluvial_pasajeros:128,geometry_start,557,,LLORO,,29,candidate_only
+rutas_fluvial_pasajeros:128,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,28,candidate_only
+rutas_fluvial_pasajeros:128,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,274,candidate_only
+rutas_fluvial_pasajeros:128,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,282,candidate_only
+rutas_fluvial_pasajeros:129,geometry_start,120,Muelle de Carga Unguía,UNGUÍA,Activa,176,candidate_only
+rutas_fluvial_pasajeros:129,geometry_start,122,Puerto de Pasajero de Unguía,UNGUÍA,Activa,252,candidate_only
+rutas_fluvial_pasajeros:129,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,2,candidate_only
+rutas_fluvial_pasajeros:129,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,172,candidate_only
+rutas_fluvial_pasajeros:129,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,476,candidate_only
+rutas_fluvial_pasajeros:130,geometry_start,120,Muelle de Carga Unguía,UNGUÍA,Activa,161,candidate_only
+rutas_fluvial_pasajeros:130,geometry_start,122,Puerto de Pasajero de Unguía,UNGUÍA,Activa,237,candidate_only
+rutas_fluvial_pasajeros:131,geometry_start,569,Yuto,Yuto,,1,candidate_only
+rutas_fluvial_pasajeros:131,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,12,candidate_only
+rutas_fluvial_pasajeros:131,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,257,candidate_only
+rutas_fluvial_pasajeros:131,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,293,candidate_only
+rutas_fluvial_pasajeros:132,geometry_start,570,Vigía del Fuerte,Vigía del Fuerte,,20,candidate_only
+rutas_fluvial_pasajeros:132,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,4,candidate_only
+rutas_fluvial_pasajeros:132,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,170,candidate_only
+rutas_fluvial_pasajeros:132,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,474,candidate_only
+rutas_fluvial_pasajeros:134,geometry_end,4,Embarcadero Pachanga,NECHÍ,Activa,76,candidate_only
+rutas_fluvial_pasajeros:134,geometry_end,664,Embarcadero San Bartolo,PUERTO BERRIO,Activa,80,candidate_only
+rutas_fluvial_pasajeros:134,geometry_end,601,Muelles de Puerto Berrio,Puerto Berrío,Activa,186,candidate_only
+rutas_fluvial_pasajeros:135,geometry_start,577,Muelle Turístico  Mabel,Puerto Gaitán,Activa,111,candidate_only
+rutas_fluvial_pasajeros:135,geometry_start,23,Embarcadero de Puerto Gaitán,PUERTO GAITÁN,Activa,117,candidate_only
+rutas_fluvial_pasajeros:135,geometry_start,844,Vaivén,Puerto Gaitán,Activa,122,candidate_only
+rutas_fluvial_pasajeros:135,geometry_end,408,Punto de descargue de Material de Arrastre (privado),PUERTO CARREÑO,Inactiva,9,candidate_only
+rutas_fluvial_pasajeros:135,geometry_end,219,Muelle Internacional INVÍAS,PUERTO CARREÑO,Inactiva,79,candidate_only
+rutas_fluvial_pasajeros:135,geometry_end,210,Punto de Carga Puerto Carreño,PUERTO CARREÑO,Activa,140,candidate_only
+rutas_fluvial_pasajeros:136,geometry_start,451,Muelle Cañandongo,RÍO VIEJO,Activa,11,candidate_only
+rutas_fluvial_pasajeros:136,geometry_start,450,Puerto de Carga,RÍO VIEJO,Activa,172,candidate_only
+rutas_fluvial_pasajeros:136,geometry_start,739,Puerto de Rio Viejo,Rio Viejo,Activa,246,candidate_only
+rutas_fluvial_pasajeros:136,geometry_end,441,Muelle La Gloria,LA GLORIA,Activa,43,candidate_only
+rutas_fluvial_pasajeros:137,geometry_start,257,Muelle de la primavera,LA PRIMAVERA,Activa,24,candidate_only
+rutas_fluvial_pasajeros:137,geometry_end,408,Punto de descargue de Material de Arrastre (privado),PUERTO CARREÑO,Inactiva,9,candidate_only
+rutas_fluvial_pasajeros:137,geometry_end,219,Muelle Internacional INVÍAS,PUERTO CARREÑO,Inactiva,64,candidate_only
+rutas_fluvial_pasajeros:137,geometry_end,210,Punto de Carga Puerto Carreño,PUERTO CARREÑO,Activa,122,candidate_only
+rutas_fluvial_pasajeros:138,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,25,candidate_only
+rutas_fluvial_pasajeros:138,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,194,candidate_only
+rutas_fluvial_pasajeros:138,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,498,candidate_only
+rutas_fluvial_pasajeros:139,geometry_start,120,Muelle de Carga Unguía,UNGUÍA,Activa,79,candidate_only
+rutas_fluvial_pasajeros:139,geometry_start,122,Puerto de Pasajero de Unguía,UNGUÍA,Activa,163,candidate_only
+rutas_fluvial_pasajeros:140,geometry_end,318,La Virgen,NÓVITA,Activa,3,candidate_only
+rutas_fluvial_pasajeros:140,geometry_end,860,El puerto,Novita,Activa,11,candidate_only
+rutas_fluvial_pasajeros:141,geometry_end,23,Embarcadero de Puerto Gaitán,PUERTO GAITÁN,Activa,66,candidate_only
+rutas_fluvial_pasajeros:141,geometry_end,577,Muelle Turístico  Mabel,Puerto Gaitán,Activa,148,candidate_only
+rutas_fluvial_pasajeros:141,geometry_end,844,Vaivén,Puerto Gaitán,Activa,165,candidate_only
+rutas_fluvial_pasajeros:142,geometry_start,510,EMBARCADERO PUERTO ROSARIO,PUERTO GUZMAN,Activa,52,candidate_only
+rutas_fluvial_pasajeros:142,geometry_end,90,Estación de Combustible Misael de Solano,SOLANO,Activa,26,candidate_only
+rutas_fluvial_pasajeros:142,geometry_end,86,Muelle Principal de Solano,SOLANO,Activa,47,candidate_only
+rutas_fluvial_pasajeros:142,geometry_end,89,Muelle de Carga de Solano,SOLANO,Activa,63,candidate_only
+rutas_fluvial_pasajeros:143,geometry_start,297,Embarcadero Los Aceitunos,GAMARRA,Activa,5,candidate_only
+rutas_fluvial_pasajeros:143,geometry_start,190,Muelle Gamarra,GAMARRA,Activa,459,candidate_only
+rutas_fluvial_pasajeros:143,geometry_start,444,Puerto Bolívar,MORALES,Activa,784,candidate_only
+rutas_fluvial_pasajeros:143,geometry_end,155,MUELLE COOTRANSFLUCAP,EL BANCO,Activa,23,candidate_only
+rutas_fluvial_pasajeros:143,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,27,candidate_only
+rutas_fluvial_pasajeros:143,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,31,candidate_only
+rutas_fluvial_pasajeros:144,geometry_start,680,Puerto Cerro de Burgos,Simití,Activa,135,candidate_only
+rutas_fluvial_pasajeros:144,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,10,candidate_only
+rutas_fluvial_pasajeros:145,geometry_start,510,EMBARCADERO PUERTO ROSARIO,PUERTO GUZMAN,Activa,16,candidate_only
+rutas_fluvial_pasajeros:145,geometry_end,127,Muelle Las Lajas,SOLITA,Activa,17,candidate_only
+rutas_fluvial_pasajeros:145,geometry_end,34,Muelle Principal De Solita,SOLITA,Activa,27,candidate_only
+rutas_fluvial_pasajeros:145,geometry_end,85,Muelle de la Estación de Servicio de la Esperanza,SOLITA,Activa,66,candidate_only
+rutas_fluvial_pasajeros:146,geometry_start,510,EMBARCADERO PUERTO ROSARIO,PUERTO GUZMAN,Activa,6,candidate_only
+rutas_fluvial_pasajeros:146,geometry_end,24,Estacionamiento De La Bomba De Nueva Esperanza,CURILLO,Activa,49,candidate_only
+rutas_fluvial_pasajeros:146,geometry_end,27,Puerto Platanero De Curillo,CURILLO,Activa,62,candidate_only
+rutas_fluvial_pasajeros:146,geometry_end,42,Muelle Principal De Curillo,CURILLO,Activa,176,candidate_only
+rutas_fluvial_pasajeros:147,geometry_start,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,46,candidate_only
+rutas_fluvial_pasajeros:147,geometry_end,526,MUELLE LINEA AMARILLA,PUERTO LEGUIZAMO,Activa,33,candidate_only
+rutas_fluvial_pasajeros:147,geometry_end,608,Muelle Principal,Puerto Leguizamo,Activa,81,candidate_only
+rutas_fluvial_pasajeros:147,geometry_end,865,MUELLE DE LA CALLE NOVENA,Puerto Leguizamó,Inactiva,151,candidate_only
+rutas_fluvial_pasajeros:148,geometry_end,680,Puerto Cerro de Burgos,Simití,Activa,145,candidate_only
+rutas_fluvial_pasajeros:149,geometry_end,190,Muelle Gamarra,GAMARRA,Activa,13,candidate_only
+rutas_fluvial_pasajeros:149,geometry_end,297,Embarcadero Los Aceitunos,GAMARRA,Activa,454,candidate_only
+rutas_fluvial_pasajeros:150,geometry_start,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,50,candidate_only
+rutas_fluvial_pasajeros:150,geometry_start,226,Muelle Informal de Pasajeros,MAGANGUÉ,Activa,123,candidate_only
+rutas_fluvial_pasajeros:150,geometry_start,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,165,candidate_only
+rutas_fluvial_pasajeros:150,geometry_end,811,Puerto La Gasolinera,Guarandá,Activa,347,candidate_only
+rutas_fluvial_pasajeros:150,geometry_end,809,Puerto Coca Cola,Guaranda,Activa,617,candidate_only
+rutas_fluvial_pasajeros:150,geometry_end,587,Puerto de la playa,Guaranda,Activa,769,candidate_only
+rutas_fluvial_pasajeros:151,geometry_start,120,Muelle de Carga Unguía,UNGUÍA,Activa,26,candidate_only
+rutas_fluvial_pasajeros:151,geometry_start,122,Puerto de Pasajero de Unguía,UNGUÍA,Activa,98,candidate_only
+rutas_fluvial_pasajeros:151,geometry_end,562,Tanela,Tanela,,3,candidate_only
+rutas_fluvial_pasajeros:152,geometry_start,159,Puerto Transfluvial del Sur,FLORENCIA,Activa,12,candidate_only
+rutas_fluvial_pasajeros:152,geometry_start,160,Muelle de Pasajeros Expreso Solano,FLORENCIA,Activa,248,candidate_only
+rutas_fluvial_pasajeros:152,geometry_start,161,Puerto de Carga,FLORENCIA,Activa,395,candidate_only
+rutas_fluvial_pasajeros:152,geometry_end,90,Estación de Combustible Misael de Solano,SOLANO,Activa,12,candidate_only
+rutas_fluvial_pasajeros:152,geometry_end,86,Muelle Principal de Solano,SOLANO,Activa,55,candidate_only
+rutas_fluvial_pasajeros:152,geometry_end,89,Muelle de Carga de Solano,SOLANO,Activa,74,candidate_only
+rutas_fluvial_pasajeros:153,geometry_start,120,Muelle de Carga Unguía,UNGUÍA,Activa,7,candidate_only
+rutas_fluvial_pasajeros:153,geometry_start,122,Puerto de Pasajero de Unguía,UNGUÍA,Activa,83,candidate_only
+rutas_fluvial_pasajeros:154,geometry_start,226,Muelle Informal de Pasajeros,MAGANGUÉ,Activa,12,candidate_only
+rutas_fluvial_pasajeros:154,geometry_start,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,172,candidate_only
+rutas_fluvial_pasajeros:154,geometry_start,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,293,candidate_only
+rutas_fluvial_pasajeros:154,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,459,candidate_only
+rutas_fluvial_pasajeros:154,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,459,candidate_only
+rutas_fluvial_pasajeros:154,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,469,candidate_only
+rutas_fluvial_pasajeros:155,geometry_start,510,EMBARCADERO PUERTO ROSARIO,PUERTO GUZMAN,Activa,4,candidate_only
+rutas_fluvial_pasajeros:155,geometry_end,79,Muelle de la Estación de Servicios de Sincelejo,SOLITA,Activa,8,candidate_only
+rutas_fluvial_pasajeros:155,geometry_end,85,Muelle de la Estación de Servicio de la Esperanza,SOLITA,Activa,10,candidate_only
+rutas_fluvial_pasajeros:155,geometry_end,87,Muelle el Balcón de Las Aguas,SOLITA,Activa,43,candidate_only
+rutas_fluvial_pasajeros:156,geometry_start,448,Muelle COOTRANSFLUTER,RÍO VIEJO,Activa,70,candidate_only
+rutas_fluvial_pasajeros:156,geometry_start,739,Puerto de Rio Viejo,Rio Viejo,Activa,72,candidate_only
+rutas_fluvial_pasajeros:156,geometry_start,451,Muelle Cañandongo,RÍO VIEJO,Activa,181,candidate_only
+rutas_fluvial_pasajeros:156,geometry_end,155,MUELLE COOTRANSFLUCAP,EL BANCO,Activa,21,candidate_only
+rutas_fluvial_pasajeros:156,geometry_end,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,31,candidate_only
+rutas_fluvial_pasajeros:156,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:157,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,72,candidate_only
+rutas_fluvial_pasajeros:157,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,94,candidate_only
+rutas_fluvial_pasajeros:157,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,206,candidate_only
+rutas_fluvial_pasajeros:158,geometry_start,582,Puerto de la Colechera,Calamar,Activa,56,candidate_only
+rutas_fluvial_pasajeros:158,geometry_start,646,Puerto De Calamar,Calamar,Inactiva,78,candidate_only
+rutas_fluvial_pasajeros:158,geometry_start,647,Puerto Calamar Lanchas Rio Arriba,Calamar,Activa,310,candidate_only
+rutas_fluvial_pasajeros:158,geometry_end,72,Muelle de Bazurto,CARTAGENA,Activa,15,candidate_only
+rutas_fluvial_pasajeros:159,geometry_start,313,Muelle el Chino,BAJO BAUDÓ,Activa,635,candidate_only
+rutas_fluvial_pasajeros:159,geometry_start,317,Muelle de Santos,BAJO BAUDÓ,Activa,638,candidate_only
+rutas_fluvial_pasajeros:159,geometry_start,309,Malecón Pizarro,BAJO BAUDÓ,Activa,806,candidate_only
+rutas_fluvial_pasajeros:159,geometry_end,549,Puerto Meluk,Puerto Meluk,,3,candidate_only
+rutas_fluvial_pasajeros:160,geometry_start,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,40,candidate_only
+rutas_fluvial_pasajeros:160,geometry_end,297,Embarcadero Los Aceitunos,GAMARRA,Activa,15,candidate_only
+rutas_fluvial_pasajeros:160,geometry_end,190,Muelle Gamarra,GAMARRA,Activa,439,candidate_only
+rutas_fluvial_pasajeros:160,geometry_end,444,Puerto Bolívar,MORALES,Activa,794,candidate_only
+rutas_fluvial_pasajeros:161,geometry_start,442,Puerto Buenavista,ARENAL,Activa,17,candidate_only
+rutas_fluvial_pasajeros:161,geometry_start,443,Puerto Las Palmas,ARENAL,Activa,1000,candidate_only
+rutas_fluvial_pasajeros:161,geometry_end,441,Muelle La Gloria,LA GLORIA,Activa,49,candidate_only
+rutas_fluvial_pasajeros:162,geometry_end,652,La Marquetalia – Naviera Central S.A,MAGANGUE,Inactiva,78,candidate_only
+rutas_fluvial_pasajeros:162,geometry_end,231,Embarcadero Sector Naviera,MAGANGUÉ,Activa,78,candidate_only
+rutas_fluvial_pasajeros:162,geometry_end,650,MUELLE LA CANDELARIA,MAGANGUE,Activa,558,candidate_only
+rutas_fluvial_pasajeros:163,geometry_end,549,Puerto Meluk,Puerto Meluk,,0,candidate_only
+rutas_fluvial_pasajeros:164,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,29,candidate_only
+rutas_fluvial_pasajeros:164,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,125,candidate_only
+rutas_fluvial_pasajeros:164,geometry_end,651,SECTOR LA PEÑA,MAGANGUE,Activa,139,candidate_only
+rutas_fluvial_pasajeros:165,geometry_end,651,SECTOR LA PEÑA,MAGANGUE,Activa,24,candidate_only
+rutas_fluvial_pasajeros:165,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,65,candidate_only
+rutas_fluvial_pasajeros:165,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,166,candidate_only
+rutas_fluvial_pasajeros:166,geometry_end,651,SECTOR LA PEÑA,MAGANGUE,Activa,60,candidate_only
+rutas_fluvial_pasajeros:166,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,98,candidate_only
+rutas_fluvial_pasajeros:166,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,160,candidate_only
+rutas_fluvial_pasajeros:167,geometry_end,226,Muelle Informal de Pasajeros,MAGANGUÉ,Activa,53,candidate_only
+rutas_fluvial_pasajeros:167,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,209,candidate_only
+rutas_fluvial_pasajeros:167,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,329,candidate_only
+rutas_fluvial_pasajeros:168,geometry_start,680,Puerto Cerro de Burgos,Simití,Activa,139,candidate_only
+rutas_fluvial_pasajeros:168,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,45,candidate_only
+rutas_fluvial_pasajeros:169,geometry_start,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,38,candidate_only
+rutas_fluvial_pasajeros:169,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,63,candidate_only
+rutas_fluvial_pasajeros:169,geometry_end,226,Muelle Informal de Pasajeros,MAGANGUÉ,Activa,101,candidate_only
+rutas_fluvial_pasajeros:169,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,183,candidate_only
+rutas_fluvial_pasajeros:170,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,194,candidate_only
+rutas_fluvial_pasajeros:170,geometry_end,226,Muelle Informal de Pasajeros,MAGANGUÉ,Activa,229,candidate_only
+rutas_fluvial_pasajeros:170,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,248,candidate_only
+rutas_fluvial_pasajeros:171,geometry_start,13,Puerto Principal De Sucre,SUCRE,Activa,87,candidate_only
+rutas_fluvial_pasajeros:171,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,36,candidate_only
+rutas_fluvial_pasajeros:171,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,95,candidate_only
+rutas_fluvial_pasajeros:171,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,100,candidate_only
+rutas_fluvial_pasajeros:172,geometry_start,204,Puerto de Cootranechí,EL BAGRE,Activa,82,candidate_only
+rutas_fluvial_pasajeros:172,geometry_start,203,Puerto de la Acción Comunal,EL BAGRE,Activa,205,candidate_only
+rutas_fluvial_pasajeros:172,geometry_start,392,Puerto del Ferry,EL BAGRE,Activa,304,candidate_only
+rutas_fluvial_pasajeros:172,geometry_end,43,Puerto Las flores,NECHÍ,Activa,102,candidate_only
+rutas_fluvial_pasajeros:172,geometry_end,50,Muelle de Nechí o Puerto Libano,NECHÍ,Activa,113,candidate_only
+rutas_fluvial_pasajeros:172,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,154,candidate_only
+rutas_fluvial_pasajeros:173,geometry_start,157,Puerto del El Bagre - Sector Las Piñas,ZARAGOZA,Activa,3,candidate_only
+rutas_fluvial_pasajeros:173,geometry_start,153,Puerto de Cootransunidos,ZARAGOZA,Activa,111,candidate_only
+rutas_fluvial_pasajeros:173,geometry_start,673,Embarcadero Coostransunidos - Sector Bomba Terpel,Zaragoza,Activa,178,candidate_only
+rutas_fluvial_pasajeros:173,geometry_end,206,Puerto Tigui,EL BAGRE,Activa,87,candidate_only
+rutas_fluvial_pasajeros:173,geometry_end,394,Embarcadero de Transtigui,EL BAGRE,Activa,181,candidate_only
+rutas_fluvial_pasajeros:173,geometry_end,203,Puerto de la Acción Comunal,EL BAGRE,Activa,199,candidate_only
+rutas_fluvial_pasajeros:174,geometry_end,392,Puerto del Ferry,EL BAGRE,Activa,24,candidate_only
+rutas_fluvial_pasajeros:174,geometry_end,204,Puerto de Cootranechí,EL BAGRE,Activa,331,candidate_only
+rutas_fluvial_pasajeros:174,geometry_end,203,Puerto de la Acción Comunal,EL BAGRE,Activa,489,candidate_only
+rutas_fluvial_pasajeros:175,geometry_end,203,Puerto de la Acción Comunal,EL BAGRE,Activa,45,candidate_only
+rutas_fluvial_pasajeros:175,geometry_end,204,Puerto de Cootranechí,EL BAGRE,Activa,141,candidate_only
+rutas_fluvial_pasajeros:175,geometry_end,206,Puerto Tigui,EL BAGRE,Activa,284,candidate_only
+rutas_fluvial_pasajeros:176,geometry_start,807,Sector el arenero o puerto arena,Puerto Wilches,Activa,258,candidate_only
+rutas_fluvial_pasajeros:176,geometry_end,238,Embarcadero Detrás de la Bomba de Gasolina,CANTAGALLO,Inactiva,36,candidate_only
+rutas_fluvial_pasajeros:176,geometry_end,800,Puerto Arena,Cantagallo,Activa,434,candidate_only
+rutas_fluvial_pasajeros:176,geometry_end,796,Río Luna,Cantagallo,Inactiva,909,candidate_only
+rutas_fluvial_pasajeros:177,geometry_start,364,Muelle Bocachico,RIOSUCIO,Activa,33,candidate_only
+rutas_fluvial_pasajeros:177,geometry_start,589,Muelle el Pescador,Riosucio,Activa,38,candidate_only
+rutas_fluvial_pasajeros:178,geometry_start,454,Muelle Regidor,REGIDOR,Activa,67,candidate_only
+rutas_fluvial_pasajeros:178,geometry_start,456,Puerto Ferri La Gloria,LA GLORIA,Activa,458,candidate_only
+rutas_fluvial_pasajeros:178,geometry_start,740,Puerto regidor,Regidor,Activa,622,candidate_only
+rutas_fluvial_pasajeros:178,geometry_end,441,Muelle La Gloria,LA GLORIA,Activa,50,candidate_only
+rutas_fluvial_pasajeros:179,geometry_start,570,Vigía del Fuerte,Vigía del Fuerte,,31,candidate_only
+rutas_fluvial_pasajeros:180,geometry_start,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,20,candidate_only
+rutas_fluvial_pasajeros:180,geometry_start,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,159,candidate_only
+rutas_fluvial_pasajeros:180,geometry_start,17,Malecón Jairo Varela,QUIBDÓ,Activa,319,candidate_only
+rutas_fluvial_pasajeros:181,geometry_start,120,Muelle de Carga Unguía,UNGUÍA,Activa,42,candidate_only
+rutas_fluvial_pasajeros:181,geometry_start,122,Puerto de Pasajero de Unguía,UNGUÍA,Activa,61,candidate_only
+rutas_fluvial_pasajeros:182,geometry_start,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,38,candidate_only
+rutas_fluvial_pasajeros:182,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,186,candidate_only
+rutas_fluvial_pasajeros:182,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,186,candidate_only
+rutas_fluvial_pasajeros:182,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,197,candidate_only
+rutas_fluvial_pasajeros:183,geometry_start,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,7,candidate_only
+rutas_fluvial_pasajeros:183,geometry_end,190,Muelle Gamarra,GAMARRA,Activa,21,candidate_only
+rutas_fluvial_pasajeros:183,geometry_end,297,Embarcadero Los Aceitunos,GAMARRA,Activa,434,candidate_only
+rutas_fluvial_pasajeros:184,geometry_start,664,Embarcadero San Bartolo,PUERTO BERRIO,Activa,40,candidate_only
+rutas_fluvial_pasajeros:184,geometry_start,4,Embarcadero Pachanga,NECHÍ,Activa,118,candidate_only
+rutas_fluvial_pasajeros:184,geometry_start,601,Muelles de Puerto Berrio,Puerto Berrío,Activa,229,candidate_only
+rutas_fluvial_pasajeros:184,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,32,candidate_only
+rutas_fluvial_pasajeros:185,geometry_start,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,34,candidate_only
+rutas_fluvial_pasajeros:186,geometry_start,680,Puerto Cerro de Burgos,Simití,Activa,130,candidate_only
+rutas_fluvial_pasajeros:186,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,15,candidate_only
+rutas_fluvial_pasajeros:187,geometry_start,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,30,candidate_only
+rutas_fluvial_pasajeros:187,geometry_end,238,Embarcadero Detrás de la Bomba de Gasolina,CANTAGALLO,Inactiva,16,candidate_only
+rutas_fluvial_pasajeros:187,geometry_end,800,Puerto Arena,Cantagallo,Activa,409,candidate_only
+rutas_fluvial_pasajeros:187,geometry_end,796,Río Luna,Cantagallo,Inactiva,922,candidate_only
+rutas_fluvial_pasajeros:188,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,25,candidate_only
+rutas_fluvial_pasajeros:189,geometry_start,807,Sector el arenero o puerto arena,Puerto Wilches,Activa,186,candidate_only
+rutas_fluvial_pasajeros:190,geometry_start,605,Embarcadero de Cootranspuertoasis o Balsas Azules,Puerto Leguizamo,Activa,51,candidate_only
+rutas_fluvial_pasajeros:190,geometry_start,608,Muelle Principal,Puerto Leguizamo,Activa,66,candidate_only
+rutas_fluvial_pasajeros:190,geometry_start,526,MUELLE LINEA AMARILLA,PUERTO LEGUIZAMO,Activa,116,candidate_only
+rutas_fluvial_pasajeros:190,geometry_end,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,18,candidate_only
+rutas_fluvial_pasajeros:191,geometry_end,153,Puerto de Cootransunidos,ZARAGOZA,Activa,7,candidate_only
+rutas_fluvial_pasajeros:191,geometry_end,673,Embarcadero Coostransunidos - Sector Bomba Terpel,Zaragoza,Activa,84,candidate_only
+rutas_fluvial_pasajeros:191,geometry_end,157,Puerto del El Bagre - Sector Las Piñas,ZARAGOZA,Activa,103,candidate_only
+rutas_fluvial_pasajeros:192,geometry_end,153,Puerto de Cootransunidos,ZARAGOZA,Activa,4,candidate_only
+rutas_fluvial_pasajeros:192,geometry_end,673,Embarcadero Coostransunidos - Sector Bomba Terpel,Zaragoza,Activa,81,candidate_only
+rutas_fluvial_pasajeros:192,geometry_end,157,Puerto del El Bagre - Sector Las Piñas,ZARAGOZA,Activa,106,candidate_only
+rutas_fluvial_pasajeros:193,geometry_start,257,Muelle de la primavera,LA PRIMAVERA,Activa,193,candidate_only
+rutas_fluvial_pasajeros:193,geometry_end,18,Muelle de Puerto Gaitán,PUERTO GAITÁN,Activa,56,candidate_only
+rutas_fluvial_pasajeros:193,geometry_end,577,Muelle Turístico  Mabel,Puerto Gaitán,Activa,153,candidate_only
+rutas_fluvial_pasajeros:193,geometry_end,844,Vaivén,Puerto Gaitán,Activa,179,candidate_only
+rutas_fluvial_pasajeros:194,geometry_start,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,4,candidate_only
+rutas_fluvial_pasajeros:194,geometry_end,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,968,candidate_only
+rutas_fluvial_pasajeros:195,geometry_start,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:195,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,167,candidate_only
+rutas_fluvial_pasajeros:196,geometry_start,18,Muelle de Puerto Gaitán,PUERTO GAITÁN,Activa,34,candidate_only
+rutas_fluvial_pasajeros:196,geometry_start,577,Muelle Turístico  Mabel,Puerto Gaitán,Activa,171,candidate_only
+rutas_fluvial_pasajeros:196,geometry_start,844,Vaivén,Puerto Gaitán,Activa,196,candidate_only
+rutas_fluvial_pasajeros:196,geometry_end,219,Muelle Internacional INVÍAS,PUERTO CARREÑO,Inactiva,57,candidate_only
+rutas_fluvial_pasajeros:196,geometry_end,408,Punto de descargue de Material de Arrastre (privado),PUERTO CARREÑO,Inactiva,57,candidate_only
+rutas_fluvial_pasajeros:196,geometry_end,210,Punto de Carga Puerto Carreño,PUERTO CARREÑO,Activa,76,candidate_only
+rutas_fluvial_pasajeros:197,geometry_start,257,Muelle de la primavera,LA PRIMAVERA,Activa,41,candidate_only
+rutas_fluvial_pasajeros:197,geometry_end,408,Punto de descargue de Material de Arrastre (privado),PUERTO CARREÑO,Inactiva,28,candidate_only
+rutas_fluvial_pasajeros:197,geometry_end,219,Muelle Internacional INVÍAS,PUERTO CARREÑO,Inactiva,95,candidate_only
+rutas_fluvial_pasajeros:197,geometry_end,210,Punto de Carga Puerto Carreño,PUERTO CARREÑO,Activa,158,candidate_only
+rutas_fluvial_pasajeros:198,geometry_end,226,Muelle Informal de Pasajeros,MAGANGUÉ,Activa,36,candidate_only
+rutas_fluvial_pasajeros:198,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,197,candidate_only
+rutas_fluvial_pasajeros:198,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,318,candidate_only
+rutas_fluvial_pasajeros:199,geometry_start,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,56,candidate_only
+rutas_fluvial_pasajeros:199,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,193,candidate_only
+rutas_fluvial_pasajeros:201,geometry_start,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,4,candidate_only
+rutas_fluvial_pasajeros:201,geometry_end,864,EMBARCADERO DEL BALASTRO o DE LOS BALASTREROS,Puerto Leguizamó,Activa,55,candidate_only
+rutas_fluvial_pasajeros:201,geometry_end,606,Estación de Combustible Andaluz,Puerto Leguizamo,Activa,86,candidate_only
+rutas_fluvial_pasajeros:201,geometry_end,605,Embarcadero de Cootranspuertoasis o Balsas Azules,Puerto Leguizamo,Activa,89,candidate_only
+rutas_fluvial_pasajeros:202,geometry_end,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,25,candidate_only
+rutas_fluvial_pasajeros:203,geometry_start,517,EMBARCADERO PIÑOÑA,PUERTO CAICEDO,Activa,7,candidate_only
+rutas_fluvial_pasajeros:203,geometry_end,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,5,candidate_only
+rutas_fluvial_pasajeros:204,geometry_start,566,Paimado,Paimado,,4,candidate_only
+rutas_fluvial_pasajeros:204,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,13,candidate_only
+rutas_fluvial_pasajeros:204,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,236,candidate_only
+rutas_fluvial_pasajeros:204,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,317,candidate_only
+rutas_fluvial_pasajeros:205,geometry_start,557,,LLORO,,16,candidate_only
+rutas_fluvial_pasajeros:205,geometry_end,566,Paimado,Paimado,,7,candidate_only
+rutas_fluvial_pasajeros:206,geometry_start,276,Embarcadero del Medio Baudó,MEDIO BAUDÓ,Activa,72,candidate_only
+rutas_fluvial_pasajeros:206,geometry_start,748,Muelle Mixto de Pto.Meluk-Medio Baudo,Medio Baudó,Activa,94,candidate_only
+rutas_fluvial_pasajeros:206,geometry_end,313,Muelle el Chino,BAJO BAUDÓ,Activa,636,candidate_only
+rutas_fluvial_pasajeros:206,geometry_end,317,Muelle de Santos,BAJO BAUDÓ,Activa,638,candidate_only
+rutas_fluvial_pasajeros:206,geometry_end,309,Malecón Pizarro,BAJO BAUDÓ,Activa,807,candidate_only
+rutas_fluvial_pasajeros:207,geometry_end,226,Muelle Informal de Pasajeros,MAGANGUÉ,Activa,166,candidate_only
+rutas_fluvial_pasajeros:207,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,238,candidate_only
+rutas_fluvial_pasajeros:207,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,300,candidate_only
+rutas_fluvial_pasajeros:208,geometry_end,13,Puerto Principal De Sucre,SUCRE,Activa,17,candidate_only
+rutas_fluvial_pasajeros:210,geometry_end,313,Muelle el Chino,BAJO BAUDÓ,Activa,638,candidate_only
+rutas_fluvial_pasajeros:210,geometry_end,317,Muelle de Santos,BAJO BAUDÓ,Activa,641,candidate_only
+rutas_fluvial_pasajeros:210,geometry_end,309,Malecón Pizarro,BAJO BAUDÓ,Activa,810,candidate_only
+rutas_fluvial_pasajeros:211,geometry_start,684,El Puerto,Puerto Boyacá,Activa,2,candidate_only
+rutas_fluvial_pasajeros:211,geometry_start,196,Muelle Puerto Serviez,PUERTO BOYACÁ,Activa,7,candidate_only
+rutas_fluvial_pasajeros:211,geometry_start,194,Embarcadero pesquero Puerto Serviez,PUERTO BOYACÁ,Activa,183,candidate_only
+rutas_fluvial_pasajeros:211,geometry_end,294,"Muelle Puerto Inmarco, Puerto Nare",PUERTO NARE,Activa,171,candidate_only
+rutas_fluvial_pasajeros:211,geometry_end,684,El Puerto,Puerto Boyacá,Activa,371,candidate_only
+rutas_fluvial_pasajeros:211,geometry_end,196,Muelle Puerto Serviez,PUERTO BOYACÁ,Activa,377,candidate_only
+rutas_fluvial_pasajeros:212,geometry_start,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,9,candidate_only
+rutas_fluvial_pasajeros:212,geometry_end,520,EMBARCADERO LA PLAYA HON KON,PUERTO ASIS,Activa,963,candidate_only
+rutas_fluvial_pasajeros:214,geometry_end,8,Embarcadero De Carga,SAN JOSÉ DEL GUAVIARE,Activa,36,candidate_only
+rutas_fluvial_pasajeros:214,geometry_end,905,Muelle de carga,SAN JOSÉ DEL GUAVIARE,Activa,73,candidate_only
+rutas_fluvial_pasajeros:214,geometry_end,603,Muelle de pasajeros,San José del Guaviare,Activa,172,candidate_only
+rutas_fluvial_pasajeros:215,geometry_start,8,Embarcadero De Carga,SAN JOSÉ DEL GUAVIARE,Activa,40,candidate_only
+rutas_fluvial_pasajeros:215,geometry_start,905,Muelle de carga,SAN JOSÉ DEL GUAVIARE,Activa,40,candidate_only
+rutas_fluvial_pasajeros:215,geometry_start,603,Muelle de pasajeros,San José del Guaviare,Activa,137,candidate_only
+rutas_fluvial_pasajeros:215,geometry_end,241,Segundo Embarcadero Agrícola de Mapiripán,MAPIRIPÁN,Activa,5,candidate_only
+rutas_fluvial_pasajeros:215,geometry_end,244,Embarcadero de Hidrocarburos Embarcaciones Mayores,MAPIRIPÁN,Activa,62,candidate_only
+rutas_fluvial_pasajeros:215,geometry_end,189,Embarcadero Principal Mapiripan,MAPIRIPÁN,Activa,82,candidate_only
+rutas_fluvial_pasajeros:216,geometry_start,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,428,candidate_only
+rutas_fluvial_pasajeros:216,geometry_end,553,Isla de los micos,Leticia,,268,candidate_only
+rutas_fluvial_pasajeros:217,geometry_start,496,MUELLE FLOTANTE DE PASAJEROS,PUERTO NARIÑO,Activa,214,candidate_only
+rutas_fluvial_pasajeros:217,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,242,candidate_only
+rutas_fluvial_pasajeros:218,geometry_start,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,488,candidate_only
+rutas_fluvial_pasajeros:218,geometry_end,496,MUELLE FLOTANTE DE PASAJEROS,PUERTO NARIÑO,Activa,138,candidate_only
+rutas_fluvial_pasajeros:219,geometry_start,550,Lago Tarapoto,Puerto Nariño,,0,candidate_only
+rutas_fluvial_pasajeros:219,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,21,candidate_only
+rutas_fluvial_pasajeros:219,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,805,candidate_only
+rutas_fluvial_pasajeros:220,geometry_start,550,Lago Tarapoto,Puerto Nariño,,168,candidate_only
+rutas_fluvial_pasajeros:220,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,72,candidate_only
+rutas_fluvial_pasajeros:220,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,819,candidate_only
+rutas_fluvial_pasajeros:221,geometry_start,557,,LLORO,,57,candidate_only
+rutas_fluvial_pasajeros:221,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,3,candidate_only
+rutas_fluvial_pasajeros:221,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,247,candidate_only
+rutas_fluvial_pasajeros:221,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,546,candidate_only
+rutas_fluvial_pasajeros:222,geometry_start,562,Tanela,Tanela,,13,candidate_only
+rutas_fluvial_pasajeros:223,geometry_start,120,Muelle de Carga Unguía,UNGUÍA,Activa,38,candidate_only
+rutas_fluvial_pasajeros:223,geometry_start,122,Puerto de Pasajero de Unguía,UNGUÍA,Activa,70,candidate_only
+rutas_fluvial_pasajeros:224,geometry_start,364,Muelle Bocachico,RIOSUCIO,Activa,99,candidate_only
+rutas_fluvial_pasajeros:224,geometry_start,589,Muelle el Pescador,Riosucio,Activa,103,candidate_only
+rutas_fluvial_pasajeros:225,geometry_start,563,Santa María,Santa María,,27,candidate_only
+rutas_fluvial_pasajeros:226,geometry_start,566,Paimado,Paimado,,1,candidate_only
+rutas_fluvial_pasajeros:226,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,5,candidate_only
+rutas_fluvial_pasajeros:226,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,245,candidate_only
+rutas_fluvial_pasajeros:226,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,543,candidate_only
+rutas_fluvial_pasajeros:227,geometry_start,570,Vigía del Fuerte,Vigía del Fuerte,,24,candidate_only
+rutas_fluvial_pasajeros:228,geometry_start,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,60,candidate_only
+rutas_fluvial_pasajeros:228,geometry_start,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,223,candidate_only
+rutas_fluvial_pasajeros:228,geometry_start,17,Malecón Jairo Varela,QUIBDÓ,Activa,525,candidate_only
+rutas_fluvial_pasajeros:229,geometry_start,168,Embarcadero de Pore,CARTAGENA DEL CHAIRÁ,Activa,51,candidate_only
+rutas_fluvial_pasajeros:229,geometry_end,167,Muelle de Santafé,CARTAGENA DEL CHAIRÁ,Activa,66,candidate_only
+rutas_fluvial_pasajeros:230,geometry_start,362,Embarcadero Barrio Escolar - Riosucio Chocó,RIOSUCIO,Activa,113,candidate_only
+rutas_fluvial_pasajeros:230,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,28,candidate_only
+rutas_fluvial_pasajeros:230,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,170,candidate_only
+rutas_fluvial_pasajeros:230,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,473,candidate_only
+rutas_fluvial_pasajeros:231,geometry_start,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,11,candidate_only
+rutas_fluvial_pasajeros:231,geometry_start,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,178,candidate_only
+rutas_fluvial_pasajeros:231,geometry_start,17,Malecón Jairo Varela,QUIBDÓ,Activa,482,candidate_only
+rutas_fluvial_pasajeros:232,geometry_start,570,Vigía del Fuerte,Vigía del Fuerte,,190,candidate_only
+rutas_fluvial_pasajeros:233,geometry_start,589,Muelle el Pescador,Riosucio,Activa,23,candidate_only
+rutas_fluvial_pasajeros:233,geometry_start,364,Muelle Bocachico,RIOSUCIO,Activa,29,candidate_only
+rutas_fluvial_pasajeros:234,geometry_start,570,Vigía del Fuerte,Vigía del Fuerte,,165,candidate_only
+rutas_fluvial_pasajeros:234,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,14,candidate_only
+rutas_fluvial_pasajeros:234,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,163,candidate_only
+rutas_fluvial_pasajeros:234,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,467,candidate_only
+rutas_fluvial_pasajeros:235,geometry_start,359,Puerto de Carmen del Darién,CARMEN DEL DARIÉN,Activa,592,candidate_only
+rutas_fluvial_pasajeros:235,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,20,candidate_only
+rutas_fluvial_pasajeros:235,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,192,candidate_only
+rutas_fluvial_pasajeros:235,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,496,candidate_only
+rutas_fluvial_pasajeros:236,geometry_start,122,Puerto de Pasajero de Unguía,UNGUÍA,Activa,59,candidate_only
+rutas_fluvial_pasajeros:236,geometry_start,120,Muelle de Carga Unguía,UNGUÍA,Activa,142,candidate_only
+rutas_fluvial_pasajeros:236,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,13,candidate_only
+rutas_fluvial_pasajeros:236,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,161,candidate_only
+rutas_fluvial_pasajeros:236,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,465,candidate_only
+rutas_fluvial_pasajeros:237,geometry_start,359,Puerto de Carmen del Darién,CARMEN DEL DARIÉN,Activa,621,candidate_only
+rutas_fluvial_pasajeros:238,geometry_start,142,Muelle Fluvial Santa Bárbara de Pinto,SANTA BÁRBARA DE PINTO,Activa,154,candidate_only
+rutas_fluvial_pasajeros:238,geometry_start,782,Puerto la manga,Santa Barbara de Pinto,Activa,234,candidate_only
+rutas_fluvial_pasajeros:238,geometry_start,840,Muelle principal santa barbara de pinto,Santa Barbara de Pinto,Inactiva,859,candidate_only
+rutas_fluvial_pasajeros:238,geometry_end,836,Muelle fluvial de Carga del el Banco Magdalena,El Banco,Inactiva,414,candidate_only
+rutas_fluvial_pasajeros:238,geometry_end,339,Muelle de Cormagdalena o Cootransflumag,EL BANCO,Inactiva,415,candidate_only
+rutas_fluvial_pasajeros:238,geometry_end,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,424,candidate_only
+rutas_fluvial_pasajeros:239,geometry_end,221,Puerto Pinillos,PINILLOS,Activa,24,candidate_only
+rutas_fluvial_pasajeros:240,geometry_start,442,Puerto Buenavista,ARENAL,Activa,89,candidate_only
+rutas_fluvial_pasajeros:240,geometry_start,443,Puerto Las Palmas,ARENAL,Activa,970,candidate_only
+rutas_fluvial_pasajeros:240,geometry_end,441,Muelle La Gloria,LA GLORIA,Activa,55,candidate_only
+rutas_fluvial_pasajeros:241,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,70,candidate_only
+rutas_fluvial_pasajeros:241,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,127,candidate_only
+rutas_fluvial_pasajeros:241,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,427,candidate_only
+rutas_fluvial_pasajeros:242,geometry_end,602,El Muelle,Puerto Berrío,Activa,28,candidate_only
+rutas_fluvial_pasajeros:242,geometry_end,601,Muelles de Puerto Berrio,Puerto Berrío,Activa,102,candidate_only
+rutas_fluvial_pasajeros:242,geometry_end,665,Muelle de CorMagdalena,PUERTO BERRIO,Inactiva,203,candidate_only
+rutas_fluvial_pasajeros:243,geometry_start,807,Sector el arenero o puerto arena,Puerto Wilches,Activa,214,candidate_only
+rutas_fluvial_pasajeros:243,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,4,candidate_only
+rutas_fluvial_pasajeros:244,geometry_start,238,Embarcadero Detrás de la Bomba de Gasolina,CANTAGALLO,Inactiva,52,candidate_only
+rutas_fluvial_pasajeros:244,geometry_start,800,Puerto Arena,Cantagallo,Activa,364,candidate_only
+rutas_fluvial_pasajeros:244,geometry_start,796,Río Luna,Cantagallo,Inactiva,962,candidate_only
+rutas_fluvial_pasajeros:244,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,42,candidate_only
+rutas_fluvial_pasajeros:245,geometry_start,190,Muelle Gamarra,GAMARRA,Activa,34,candidate_only
+rutas_fluvial_pasajeros:245,geometry_start,297,Embarcadero Los Aceitunos,GAMARRA,Activa,430,candidate_only
+rutas_fluvial_pasajeros:245,geometry_end,442,Puerto Buenavista,ARENAL,Activa,11,candidate_only
+rutas_fluvial_pasajeros:246,geometry_start,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,42,candidate_only
+rutas_fluvial_pasajeros:246,geometry_start,651,SECTOR LA PEÑA,MAGANGUE,Activa,71,candidate_only
+rutas_fluvial_pasajeros:246,geometry_start,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,151,candidate_only
+rutas_fluvial_pasajeros:246,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,83,candidate_only
+rutas_fluvial_pasajeros:247,geometry_start,576,Transporte Fluvial de Oriente,Puerto Gaitan,Activa,226,candidate_only
+rutas_fluvial_pasajeros:247,geometry_start,23,Embarcadero de Puerto Gaitán,PUERTO GAITÁN,Activa,241,candidate_only
+rutas_fluvial_pasajeros:247,geometry_start,575,El Boral,Puerto Gaitán,Activa,245,candidate_only
+rutas_fluvial_pasajeros:247,geometry_end,257,Muelle de la primavera,LA PRIMAVERA,Activa,215,candidate_only
+rutas_fluvial_pasajeros:248,geometry_start,257,Muelle de la primavera,LA PRIMAVERA,Activa,636,candidate_only
+rutas_fluvial_pasajeros:248,geometry_end,408,Punto de descargue de Material de Arrastre (privado),PUERTO CARREÑO,Inactiva,258,candidate_only
+rutas_fluvial_pasajeros:248,geometry_end,219,Muelle Internacional INVÍAS,PUERTO CARREÑO,Inactiva,320,candidate_only
+rutas_fluvial_pasajeros:248,geometry_end,210,Punto de Carga Puerto Carreño,PUERTO CARREÑO,Activa,324,candidate_only
+rutas_fluvial_pasajeros:249,geometry_start,578,Muelle de Pescadores,Puerto Gaitán,Activa,94,candidate_only
+rutas_fluvial_pasajeros:249,geometry_start,579,Muelle Panabú  S.A.S,Puerto Gaitán,Activa,101,candidate_only
+rutas_fluvial_pasajeros:249,geometry_start,576,Transporte Fluvial de Oriente,Puerto Gaitan,Activa,181,candidate_only
+rutas_fluvial_pasajeros:249,geometry_end,220,Embarcadero Rampa Vieja,PUERTO CARREÑO,Activa,221,candidate_only
+rutas_fluvial_pasajeros:250,geometry_start,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,113,candidate_only
+rutas_fluvial_pasajeros:250,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,167,candidate_only
+rutas_fluvial_pasajeros:251,geometry_start,174,Puerto la Vóragine,LA MACARENA,Activa,16,candidate_only
+rutas_fluvial_pasajeros:251,geometry_start,175,Puerto Nuevo Horizonte,LA MACARENA,Activa,109,candidate_only
+rutas_fluvial_pasajeros:251,geometry_start,123,Puerto Punto,LA MACARENA,Activa,179,candidate_only
+rutas_fluvial_pasajeros:251,geometry_end,603,Muelle de pasajeros,San José del Guaviare,Activa,36,candidate_only
+rutas_fluvial_pasajeros:251,geometry_end,905,Muelle de carga,SAN JOSÉ DEL GUAVIARE,Activa,86,candidate_only
+rutas_fluvial_pasajeros:251,geometry_end,9,Embarcadero De Los Plataneros,SAN JOSÉ DEL GUAVIARE,Activa,94,candidate_only
+rutas_fluvial_pasajeros:252,geometry_end,9,Embarcadero De Los Plataneros,SAN JOSÉ DEL GUAVIARE,Activa,40,candidate_only
+rutas_fluvial_pasajeros:252,geometry_end,908,Muelle Plataneros,SAN JOSÉ DEL GUAVIARE,Activa,48,candidate_only
+rutas_fluvial_pasajeros:252,geometry_end,372,Embarcadero de pescadores,SAN JOSÉ DEL GUAVIARE,Activa,61,candidate_only
+rutas_fluvial_pasajeros:253,geometry_start,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,93,candidate_only
+rutas_fluvial_pasajeros:253,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,62,candidate_only
+rutas_fluvial_pasajeros:254,geometry_start,486,PUERTO PRINCIPAL,BARRANCO MINAS,Activa,33,candidate_only
+rutas_fluvial_pasajeros:254,geometry_start,488,PUERTO DE LA BOMBA,BARRANCO MINAS,Activa,59,candidate_only
+rutas_fluvial_pasajeros:254,geometry_start,487,PUERTO DE LA MOTOBOMBA,BARRANCO MINAS,Activa,382,candidate_only
+rutas_fluvial_pasajeros:254,geometry_end,216,Embarcadero de Hidrocarburos,SAN JOSÉ DEL GUAVIARE,Activa,7,candidate_only
+rutas_fluvial_pasajeros:254,geometry_end,372,Embarcadero de pescadores,SAN JOSÉ DEL GUAVIARE,Activa,97,candidate_only
+rutas_fluvial_pasajeros:254,geometry_end,908,Muelle Plataneros,SAN JOSÉ DEL GUAVIARE,Activa,120,candidate_only
+rutas_fluvial_pasajeros:255,geometry_end,113,Paso Los Navegantes,ARAUQUITA,Activa,62,candidate_only
+rutas_fluvial_pasajeros:255,geometry_end,114,Punto Principal,ARAUQUITA,Activa,108,candidate_only
+rutas_fluvial_pasajeros:255,geometry_end,115,Punto de carga,ARAUQUITA,Activa,202,candidate_only
+rutas_fluvial_pasajeros:256,geometry_start,583,Muelle principal de Majagual,Majagual,Inactiva,16,candidate_only
+rutas_fluvial_pasajeros:256,geometry_start,812,Puero Majagual,Majagual,Inactiva,98,candidate_only
+rutas_fluvial_pasajeros:256,geometry_start,586,Puerto de las chalupas,Majagual,Inactiva,124,candidate_only
+rutas_fluvial_pasajeros:256,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,169,candidate_only
+rutas_fluvial_pasajeros:256,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,299,candidate_only
+rutas_fluvial_pasajeros:256,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,364,candidate_only
+rutas_fluvial_pasajeros:257,geometry_start,89,Muelle de Carga de Solano,SOLANO,Activa,149,candidate_only
+rutas_fluvial_pasajeros:257,geometry_start,90,Estación de Combustible Misael de Solano,SOLANO,Activa,149,candidate_only
+rutas_fluvial_pasajeros:257,geometry_start,861,Embarcadero las aguas negras del 5 de mayo,Solano,Activa,156,candidate_only
+rutas_fluvial_pasajeros:257,geometry_end,161,Puerto de Carga,FLORENCIA,Activa,23,candidate_only
+rutas_fluvial_pasajeros:257,geometry_end,159,Puerto Transfluvial del Sur,FLORENCIA,Activa,369,candidate_only
+rutas_fluvial_pasajeros:257,geometry_end,160,Muelle de Pasajeros Expreso Solano,FLORENCIA,Activa,626,candidate_only
+rutas_fluvial_pasajeros:258,geometry_end,314,El charquito,ISTMINA,Activa,12,candidate_only
+rutas_fluvial_pasajeros:258,geometry_end,316,no cuenta de infraestructura,ISTMINA,Activa,195,candidate_only
+rutas_fluvial_pasajeros:259,geometry_end,314,El charquito,ISTMINA,Activa,19,candidate_only
+rutas_fluvial_pasajeros:259,geometry_end,316,no cuenta de infraestructura,ISTMINA,Activa,166,candidate_only
+rutas_fluvial_pasajeros:260,geometry_end,483,PUERTO EL PAUJIL,INÍRIDA,Activa,153,candidate_only
+rutas_fluvial_pasajeros:260,geometry_end,839,MUELLE 3 ( MUELLE MINERO),Inirida,Activa,842,candidate_only
+rutas_fluvial_pasajeros:260,geometry_end,482,MUELLE DE PASAJEROS,INÍRIDA,Activa,947,candidate_only
+rutas_fluvial_pasajeros:261,geometry_start,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,109,candidate_only
+rutas_fluvial_pasajeros:261,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,136,candidate_only
+rutas_fluvial_pasajeros:262,geometry_start,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,85,candidate_only
+rutas_fluvial_pasajeros:262,geometry_end,33,Muelle Represa de Betania,YAGUARÁ,Inactiva,87,candidate_only
+rutas_fluvial_pasajeros:263,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,41,candidate_only
+rutas_fluvial_pasajeros:263,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,210,candidate_only
+rutas_fluvial_pasajeros:263,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,511,candidate_only
+rutas_fluvial_pasajeros:264,geometry_end,294,"Muelle Puerto Inmarco, Puerto Nare",PUERTO NARE,Activa,178,candidate_only
+rutas_fluvial_pasajeros:264,geometry_end,684,El Puerto,Puerto Boyacá,Activa,350,candidate_only
+rutas_fluvial_pasajeros:264,geometry_end,196,Muelle Puerto Serviez,PUERTO BOYACÁ,Activa,355,candidate_only
+rutas_fluvial_pasajeros:265,geometry_end,314,El charquito,ISTMINA,Activa,23,candidate_only
+rutas_fluvial_pasajeros:265,geometry_end,316,no cuenta de infraestructura,ISTMINA,Activa,166,candidate_only
+rutas_fluvial_pasajeros:266,geometry_end,316,no cuenta de infraestructura,ISTMINA,Activa,80,candidate_only
+rutas_fluvial_pasajeros:266,geometry_end,314,El charquito,ISTMINA,Activa,113,candidate_only
+rutas_fluvial_pasajeros:267,geometry_start,107,Puerto Los Guamos,GIRARDOT,Activa,3,candidate_only
+rutas_fluvial_pasajeros:268,geometry_start,549,Puerto Meluk,Puerto Meluk,,0,candidate_only
+rutas_fluvial_pasajeros:268,geometry_end,313,Muelle el Chino,BAJO BAUDÓ,Activa,646,candidate_only
+rutas_fluvial_pasajeros:268,geometry_end,317,Muelle de Santos,BAJO BAUDÓ,Activa,649,candidate_only
+rutas_fluvial_pasajeros:268,geometry_end,309,Malecón Pizarro,BAJO BAUDÓ,Activa,818,candidate_only
+rutas_fluvial_pasajeros:269,geometry_end,549,Puerto Meluk,Puerto Meluk,,19,candidate_only
+rutas_fluvial_pasajeros:270,geometry_end,314,El charquito,ISTMINA,Activa,10,candidate_only
+rutas_fluvial_pasajeros:270,geometry_end,316,no cuenta de infraestructura,ISTMINA,Activa,185,candidate_only
+rutas_fluvial_pasajeros:271,geometry_end,495,PUERTO LOS JHONSON,VALDIVIA,Activa,44,candidate_only
+rutas_fluvial_turismo:274,geometry_end,796,Río Luna,Cantagallo,Inactiva,703,candidate_only
+rutas_fluvial_turismo:276,geometry_start,432,Muelle Villavieja,VILLAVIEJA,Activa,24,candidate_only
+rutas_fluvial_turismo:276,geometry_end,432,Muelle Villavieja,VILLAVIEJA,Activa,905,candidate_only
+rutas_fluvial_turismo:277,geometry_start,432,Muelle Villavieja,VILLAVIEJA,Activa,24,candidate_only
+rutas_fluvial_turismo:278,geometry_start,432,Muelle Villavieja,VILLAVIEJA,Activa,24,candidate_only
+rutas_fluvial_turismo:279,geometry_start,432,Muelle Villavieja,VILLAVIEJA,Activa,24,candidate_only
+rutas_fluvial_turismo:281,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,20,candidate_only
+rutas_fluvial_turismo:282,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,178,candidate_only
+rutas_fluvial_turismo:282,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,209,candidate_only
+rutas_fluvial_turismo:282,geometry_start,591,Aguatapé,Guatapé,Activa,219,candidate_only
+rutas_fluvial_turismo:282,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,208,candidate_only
+rutas_fluvial_turismo:282,geometry_end,591,Aguatapé,Guatapé,Activa,245,candidate_only
+rutas_fluvial_turismo:282,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,248,candidate_only
+rutas_fluvial_turismo:283,geometry_end,26,Puerto de Cootraflucan,NECHÍ,Activa,265,candidate_only
+rutas_fluvial_turismo:283,geometry_end,11,Puerto El Migue,NECHÍ,Activa,335,candidate_only
+rutas_fluvial_turismo:283,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,397,candidate_only
+rutas_fluvial_turismo:284,geometry_start,73,Muelle del Club Militar de Oficiales del Lago Sochagota,PAIPA,Activa,11,candidate_only
+rutas_fluvial_turismo:284,geometry_end,73,Muelle del Club Militar de Oficiales del Lago Sochagota,PAIPA,Activa,12,candidate_only
+rutas_fluvial_turismo:285,geometry_start,809,Puerto Coca Cola,Guaranda,Activa,118,candidate_only
+rutas_fluvial_turismo:285,geometry_start,811,Puerto La Gasolinera,Guarandá,Activa,165,candidate_only
+rutas_fluvial_turismo:285,geometry_start,587,Puerto de la playa,Guaranda,Activa,261,candidate_only
+rutas_fluvial_turismo:285,geometry_end,595,Terminal de Transporte Multimodal de Magangué,Magangué,Inactiva,56,candidate_only
+rutas_fluvial_turismo:285,geometry_end,225,Muelle Cootraimag,MAGANGUÉ,Activa,95,candidate_only
+rutas_fluvial_turismo:285,geometry_end,227,Embarcadero Informal de Carga,MAGANGUÉ,Activa,157,candidate_only
+rutas_fluvial_turismo:286,geometry_start,55,Muelle Guatape Cruises,GUATAPÉ,Activa,45,candidate_only
+rutas_fluvial_turismo:286,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,174,candidate_only
+rutas_fluvial_turismo:286,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,241,candidate_only
+rutas_fluvial_turismo:286,geometry_end,55,Muelle Guatape Cruises,GUATAPÉ,Activa,43,candidate_only
+rutas_fluvial_turismo:286,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,137,candidate_only
+rutas_fluvial_turismo:286,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,203,candidate_only
+rutas_fluvial_turismo:287,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,49,candidate_only
+rutas_fluvial_turismo:287,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,107,candidate_only
+rutas_fluvial_turismo:287,geometry_start,55,Muelle Guatape Cruises,GUATAPÉ,Activa,117,candidate_only
+rutas_fluvial_turismo:287,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,60,candidate_only
+rutas_fluvial_turismo:287,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,90,candidate_only
+rutas_fluvial_turismo:287,geometry_end,591,Aguatapé,Guatapé,Activa,137,candidate_only
+rutas_fluvial_turismo:288,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,41,candidate_only
+rutas_fluvial_turismo:288,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,853,candidate_only
+rutas_fluvial_turismo:289,geometry_start,537,Puerto,Ibagué,,36,candidate_only
+rutas_fluvial_turismo:289,geometry_start,830,Muelle de los pescadores,Prado,Activa,429,candidate_only
+rutas_fluvial_turismo:289,geometry_start,833,Tomogo,Prado,Activa,526,candidate_only
+rutas_fluvial_turismo:290,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,130,candidate_only
+rutas_fluvial_turismo:290,geometry_start,591,Aguatapé,Guatapé,Activa,157,candidate_only
+rutas_fluvial_turismo:290,geometry_start,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,168,candidate_only
+rutas_fluvial_turismo:290,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,152,candidate_only
+rutas_fluvial_turismo:290,geometry_end,591,Aguatapé,Guatapé,Activa,174,candidate_only
+rutas_fluvial_turismo:290,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,184,candidate_only
+rutas_fluvial_turismo:292,geometry_end,27,Puerto Platanero De Curillo,CURILLO,Activa,49,candidate_only
+rutas_fluvial_turismo:292,geometry_end,873,Puerto petróleo,Curillo,Activa,98,candidate_only
+rutas_fluvial_turismo:292,geometry_end,29,Puerto De Don Rosendo,CURILLO,Activa,149,candidate_only
+rutas_fluvial_turismo:293,geometry_start,447,Puerto Morales,MORALES,Inactiva,13,candidate_only
+rutas_fluvial_turismo:293,geometry_start,446,Muelle Cootransmor Ltda,MORALES,Activa,200,candidate_only
+rutas_fluvial_turismo:293,geometry_start,445,Puerto Moralito,MORALES,Activa,853,candidate_only
+rutas_fluvial_turismo:293,geometry_end,445,Puerto Moralito,MORALES,Activa,5,candidate_only
+rutas_fluvial_turismo:293,geometry_end,775,,,,18,candidate_only
+rutas_fluvial_turismo:293,geometry_end,446,Muelle Cootransmor Ltda,MORALES,Activa,651,candidate_only
+rutas_fluvial_turismo:294,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,37,candidate_only
+rutas_fluvial_turismo:294,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,50,candidate_only
+rutas_fluvial_turismo:294,geometry_start,591,Aguatapé,Guatapé,Activa,91,candidate_only
+rutas_fluvial_turismo:294,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,37,candidate_only
+rutas_fluvial_turismo:294,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,50,candidate_only
+rutas_fluvial_turismo:294,geometry_end,591,Aguatapé,Guatapé,Activa,91,candidate_only
+rutas_fluvial_turismo:295,geometry_end,202,Puerto El Limón,CICUCO,Activa,913,candidate_only
+rutas_fluvial_turismo:295,geometry_end,649,MUELLE DE LOS PESCADORES,CICUCO,Activa,958,candidate_only
+rutas_fluvial_turismo:296,geometry_start,483,PUERTO EL PAUJIL,INÍRIDA,Activa,404,candidate_only
+rutas_fluvial_turismo:296,geometry_start,839,MUELLE 3 ( MUELLE MINERO),Inirida,Activa,540,candidate_only
+rutas_fluvial_turismo:296,geometry_start,482,MUELLE DE PASAJEROS,INÍRIDA,Activa,672,candidate_only
+rutas_fluvial_turismo:297,geometry_start,483,PUERTO EL PAUJIL,INÍRIDA,Activa,394,candidate_only
+rutas_fluvial_turismo:297,geometry_start,839,MUELLE 3 ( MUELLE MINERO),Inirida,Activa,540,candidate_only
+rutas_fluvial_turismo:297,geometry_start,482,MUELLE DE PASAJEROS,INÍRIDA,Activa,670,candidate_only
+rutas_fluvial_turismo:298,geometry_start,337,MUELLE COMFANDI,CALIMA,Activa,166,candidate_only
+rutas_fluvial_turismo:298,geometry_end,337,MUELLE COMFANDI,CALIMA,Activa,157,candidate_only
+rutas_fluvial_turismo:299,geometry_start,155,MUELLE COOTRANSFLUCAP,EL BANCO,Activa,283,candidate_only
+rutas_fluvial_turismo:299,geometry_start,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,302,candidate_only
+rutas_fluvial_turismo:299,geometry_start,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,318,candidate_only
+rutas_fluvial_turismo:300,geometry_start,348,"BOYAPESCA, Asociación Boyacense de Pscicultura y Pesca, muelle privado, municipio de Aquitania Boyacá",AQUITANIA,Inactiva,8,candidate_only
+rutas_fluvial_turismo:300,geometry_start,343,muelle del hotel santa ines,AQUITANIA,Inactiva,8,candidate_only
+rutas_fluvial_turismo:300,geometry_start,64,Playa Blanca,TOTA,Inactiva,480,candidate_only
+rutas_fluvial_turismo:300,geometry_end,348,"BOYAPESCA, Asociación Boyacense de Pscicultura y Pesca, muelle privado, municipio de Aquitania Boyacá",AQUITANIA,Inactiva,41,candidate_only
+rutas_fluvial_turismo:300,geometry_end,343,muelle del hotel santa ines,AQUITANIA,Inactiva,41,candidate_only
+rutas_fluvial_turismo:300,geometry_end,64,Playa Blanca,TOTA,Inactiva,499,candidate_only
+rutas_fluvial_turismo:301,geometry_start,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,78,candidate_only
+rutas_fluvial_turismo:301,geometry_start,64,Playa Blanca,TOTA,Inactiva,83,candidate_only
+rutas_fluvial_turismo:301,geometry_start,350,muelle finca los Alpes,AQUITANIA,Activa,83,candidate_only
+rutas_fluvial_turismo:301,geometry_end,64,Playa Blanca,TOTA,Inactiva,52,candidate_only
+rutas_fluvial_turismo:301,geometry_end,350,muelle finca los Alpes,AQUITANIA,Activa,52,candidate_only
+rutas_fluvial_turismo:301,geometry_end,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,75,candidate_only
+rutas_fluvial_turismo:303,geometry_start,89,Muelle de Carga de Solano,SOLANO,Activa,449,candidate_only
+rutas_fluvial_turismo:303,geometry_start,861,Embarcadero las aguas negras del 5 de mayo,Solano,Activa,450,candidate_only
+rutas_fluvial_turismo:303,geometry_start,90,Estación de Combustible Misael de Solano,SOLANO,Activa,465,candidate_only
+rutas_fluvial_turismo:303,geometry_end,96,Embarcadero al lado de la Tienda el Campo,SOLITA,Activa,16,candidate_only
+rutas_fluvial_turismo:303,geometry_end,87,Muelle el Balcón de Las Aguas,SOLITA,Activa,24,candidate_only
+rutas_fluvial_turismo:303,geometry_end,131,Muelle de La Proveedora,SOLITA,Inactiva,64,candidate_only
+rutas_fluvial_turismo:304,geometry_start,661,MUELLE LA GAITANA,NEIVA,Activa,81,candidate_only
+rutas_fluvial_turismo:304,geometry_start,2,Muelle Flotante,NEIVA,Inactiva,129,candidate_only
+rutas_fluvial_turismo:304,geometry_start,16,Puerto de Las Damas,NEIVA,Activa,232,candidate_only
+rutas_fluvial_turismo:304,geometry_end,661,MUELLE LA GAITANA,NEIVA,Activa,536,candidate_only
+rutas_fluvial_turismo:304,geometry_end,2,Muelle Flotante,NEIVA,Inactiva,572,candidate_only
+rutas_fluvial_turismo:304,geometry_end,16,Puerto de Las Damas,NEIVA,Activa,810,candidate_only
+rutas_fluvial_turismo:305,geometry_start,661,MUELLE LA GAITANA,NEIVA,Activa,78,candidate_only
+rutas_fluvial_turismo:305,geometry_start,2,Muelle Flotante,NEIVA,Inactiva,126,candidate_only
+rutas_fluvial_turismo:305,geometry_start,16,Puerto de Las Damas,NEIVA,Activa,235,candidate_only
+rutas_fluvial_turismo:306,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,88,candidate_only
+rutas_fluvial_turismo:306,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,104,candidate_only
+rutas_fluvial_turismo:306,geometry_start,591,Aguatapé,Guatapé,Activa,137,candidate_only
+rutas_fluvial_turismo:306,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,95,candidate_only
+rutas_fluvial_turismo:306,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,126,candidate_only
+rutas_fluvial_turismo:306,geometry_end,591,Aguatapé,Guatapé,Activa,141,candidate_only
+rutas_fluvial_turismo:307,geometry_start,483,PUERTO EL PAUJIL,INÍRIDA,Activa,404,candidate_only
+rutas_fluvial_turismo:307,geometry_start,839,MUELLE 3 ( MUELLE MINERO),Inirida,Activa,540,candidate_only
+rutas_fluvial_turismo:307,geometry_start,482,MUELLE DE PASAJEROS,INÍRIDA,Activa,672,candidate_only
+rutas_fluvial_turismo:309,geometry_start,661,MUELLE LA GAITANA,NEIVA,Activa,74,candidate_only
+rutas_fluvial_turismo:309,geometry_start,2,Muelle Flotante,NEIVA,Inactiva,126,candidate_only
+rutas_fluvial_turismo:309,geometry_start,16,Puerto de Las Damas,NEIVA,Activa,238,candidate_only
+rutas_fluvial_turismo:309,geometry_end,16,Puerto de Las Damas,NEIVA,Activa,409,candidate_only
+rutas_fluvial_turismo:309,geometry_end,2,Muelle Flotante,NEIVA,Inactiva,620,candidate_only
+rutas_fluvial_turismo:309,geometry_end,661,MUELLE LA GAITANA,NEIVA,Activa,636,candidate_only
+rutas_fluvial_turismo:310,geometry_start,661,MUELLE LA GAITANA,NEIVA,Activa,75,candidate_only
+rutas_fluvial_turismo:310,geometry_start,2,Muelle Flotante,NEIVA,Inactiva,125,candidate_only
+rutas_fluvial_turismo:310,geometry_start,16,Puerto de Las Damas,NEIVA,Activa,237,candidate_only
+rutas_fluvial_turismo:311,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,56,candidate_only
+rutas_fluvial_turismo:311,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,74,candidate_only
+rutas_fluvial_turismo:311,geometry_start,591,Aguatapé,Guatapé,Activa,121,candidate_only
+rutas_fluvial_turismo:311,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,87,candidate_only
+rutas_fluvial_turismo:311,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,97,candidate_only
+rutas_fluvial_turismo:311,geometry_end,591,Aguatapé,Guatapé,Activa,146,candidate_only
+rutas_fluvial_turismo:312,geometry_start,648,Puerto de Calamar Rio Abajo,Calamar,Activa,136,candidate_only
+rutas_fluvial_turismo:312,geometry_start,647,Puerto Calamar Lanchas Rio Arriba,Calamar,Activa,283,candidate_only
+rutas_fluvial_turismo:312,geometry_start,582,Puerto de la Colechera,Calamar,Activa,599,candidate_only
+rutas_fluvial_turismo:312,geometry_end,72,Muelle de Bazurto,CARTAGENA,Activa,7,candidate_only
+rutas_fluvial_turismo:313,geometry_end,72,Muelle de Bazurto,CARTAGENA,Activa,87,candidate_only
+rutas_fluvial_turismo:315,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,81,candidate_only
+rutas_fluvial_turismo:315,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,86,candidate_only
+rutas_fluvial_turismo:315,geometry_start,591,Aguatapé,Guatapé,Activa,130,candidate_only
+rutas_fluvial_turismo:315,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,69,candidate_only
+rutas_fluvial_turismo:315,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,113,candidate_only
+rutas_fluvial_turismo:315,geometry_end,591,Aguatapé,Guatapé,Activa,114,candidate_only
+rutas_fluvial_turismo:316,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,42,candidate_only
+rutas_fluvial_turismo:316,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,826,candidate_only
+rutas_fluvial_turismo:317,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,152,candidate_only
+rutas_fluvial_turismo:317,geometry_start,591,Aguatapé,Guatapé,Activa,192,candidate_only
+rutas_fluvial_turismo:317,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,192,candidate_only
+rutas_fluvial_turismo:317,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,185,candidate_only
+rutas_fluvial_turismo:317,geometry_end,591,Aguatapé,Guatapé,Activa,216,candidate_only
+rutas_fluvial_turismo:317,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,228,candidate_only
+rutas_fluvial_turismo:318,geometry_start,429,Planchon Villa Nueva calle 22 margen Izquierda,MONTERÍA,Inactiva,39,candidate_only
+rutas_fluvial_turismo:318,geometry_start,426,Planchon Villa Nueva calle 22 margen derecha,MONTERÍA,Activa,39,candidate_only
+rutas_fluvial_turismo:318,geometry_start,699,Planchon la Bonga en el punto de villanueva. Margen derecha del río,Montería,Activa,115,candidate_only
+rutas_fluvial_turismo:319,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,119,candidate_only
+rutas_fluvial_turismo:319,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,154,candidate_only
+rutas_fluvial_turismo:319,geometry_start,591,Aguatapé,Guatapé,Activa,162,candidate_only
+rutas_fluvial_turismo:319,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,133,candidate_only
+rutas_fluvial_turismo:319,geometry_end,591,Aguatapé,Guatapé,Activa,173,candidate_only
+rutas_fluvial_turismo:319,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,176,candidate_only
+rutas_fluvial_turismo:320,geometry_end,457,Embarcadero de Pasajeros Casa Flotante Casuarito,PUERTO CARREÑO,Activa,36,candidate_only
+rutas_fluvial_turismo:320,geometry_end,265,Paso Dagua,PUERTO CARREÑO,Activa,344,candidate_only
+rutas_fluvial_turismo:320,geometry_end,224,Muelle de Casuarito,PUERTO CARREÑO,Inactiva,344,candidate_only
+rutas_fluvial_turismo:321,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,278,candidate_only
+rutas_fluvial_turismo:321,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,306,candidate_only
+rutas_fluvial_turismo:321,geometry_start,591,Aguatapé,Guatapé,Activa,318,candidate_only
+rutas_fluvial_turismo:321,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,290,candidate_only
+rutas_fluvial_turismo:321,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,322,candidate_only
+rutas_fluvial_turismo:321,geometry_end,591,Aguatapé,Guatapé,Activa,329,candidate_only
+rutas_fluvial_turismo:322,geometry_start,661,MUELLE LA GAITANA,NEIVA,Activa,82,candidate_only
+rutas_fluvial_turismo:322,geometry_start,2,Muelle Flotante,NEIVA,Inactiva,129,candidate_only
+rutas_fluvial_turismo:322,geometry_start,16,Puerto de Las Damas,NEIVA,Activa,231,candidate_only
+rutas_fluvial_turismo:322,geometry_end,367,Embarcadero el Pata,AIPE,Activa,19,candidate_only
+rutas_fluvial_turismo:323,geometry_start,343,muelle del hotel santa ines,AQUITANIA,Inactiva,35,candidate_only
+rutas_fluvial_turismo:323,geometry_start,348,"BOYAPESCA, Asociación Boyacense de Pscicultura y Pesca, muelle privado, municipio de Aquitania Boyacá",AQUITANIA,Inactiva,35,candidate_only
+rutas_fluvial_turismo:323,geometry_start,64,Playa Blanca,TOTA,Inactiva,452,candidate_only
+rutas_fluvial_turismo:323,geometry_end,348,"BOYAPESCA, Asociación Boyacense de Pscicultura y Pesca, muelle privado, municipio de Aquitania Boyacá",AQUITANIA,Inactiva,19,candidate_only
+rutas_fluvial_turismo:323,geometry_end,343,muelle del hotel santa ines,AQUITANIA,Inactiva,19,candidate_only
+rutas_fluvial_turismo:323,geometry_end,64,Playa Blanca,TOTA,Inactiva,477,candidate_only
+rutas_fluvial_turismo:324,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,85,candidate_only
+rutas_fluvial_turismo:324,geometry_start,591,Aguatapé,Guatapé,Activa,99,candidate_only
+rutas_fluvial_turismo:324,geometry_start,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,108,candidate_only
+rutas_fluvial_turismo:324,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,91,candidate_only
+rutas_fluvial_turismo:324,geometry_end,591,Aguatapé,Guatapé,Activa,123,candidate_only
+rutas_fluvial_turismo:324,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,135,candidate_only
+rutas_fluvial_turismo:325,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,41,candidate_only
+rutas_fluvial_turismo:325,geometry_start,591,Aguatapé,Guatapé,Activa,86,candidate_only
+rutas_fluvial_turismo:325,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,98,candidate_only
+rutas_fluvial_turismo:325,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,83,candidate_only
+rutas_fluvial_turismo:325,geometry_end,591,Aguatapé,Guatapé,Activa,111,candidate_only
+rutas_fluvial_turismo:325,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,123,candidate_only
+rutas_fluvial_turismo:326,geometry_start,234,El Arriero Paisa,CALIMA,Activa,471,candidate_only
+rutas_fluvial_turismo:326,geometry_start,240,Muelle Calimarina,CALIMA,Activa,525,candidate_only
+rutas_fluvial_turismo:326,geometry_start,249,Muelle el Ferry,CALIMA,Activa,574,candidate_only
+rutas_fluvial_turismo:326,geometry_end,234,El Arriero Paisa,CALIMA,Activa,460,candidate_only
+rutas_fluvial_turismo:326,geometry_end,240,Muelle Calimarina,CALIMA,Activa,513,candidate_only
+rutas_fluvial_turismo:326,geometry_end,249,Muelle el Ferry,CALIMA,Activa,562,candidate_only
+rutas_fluvial_turismo:327,geometry_start,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,59,candidate_only
+rutas_fluvial_turismo:327,geometry_start,64,Playa Blanca,TOTA,Inactiva,92,candidate_only
+rutas_fluvial_turismo:327,geometry_start,350,muelle finca los Alpes,AQUITANIA,Activa,92,candidate_only
+rutas_fluvial_turismo:327,geometry_end,64,Playa Blanca,TOTA,Inactiva,70,candidate_only
+rutas_fluvial_turismo:327,geometry_end,350,muelle finca los Alpes,AQUITANIA,Activa,70,candidate_only
+rutas_fluvial_turismo:327,geometry_end,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,94,candidate_only
+rutas_fluvial_turismo:329,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,98,candidate_only
+rutas_fluvial_turismo:329,geometry_start,591,Aguatapé,Guatapé,Activa,126,candidate_only
+rutas_fluvial_turismo:329,geometry_start,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,137,candidate_only
+rutas_fluvial_turismo:329,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,129,candidate_only
+rutas_fluvial_turismo:329,geometry_end,591,Aguatapé,Guatapé,Activa,150,candidate_only
+rutas_fluvial_turismo:329,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,160,candidate_only
+rutas_fluvial_turismo:331,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,185,candidate_only
+rutas_fluvial_turismo:331,geometry_start,591,Aguatapé,Guatapé,Activa,220,candidate_only
+rutas_fluvial_turismo:331,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,230,candidate_only
+rutas_fluvial_turismo:331,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,186,candidate_only
+rutas_fluvial_turismo:331,geometry_end,591,Aguatapé,Guatapé,Activa,221,candidate_only
+rutas_fluvial_turismo:331,geometry_end,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,233,candidate_only
+rutas_fluvial_turismo:332,geometry_start,234,El Arriero Paisa,CALIMA,Activa,357,candidate_only
+rutas_fluvial_turismo:332,geometry_start,240,Muelle Calimarina,CALIMA,Activa,385,candidate_only
+rutas_fluvial_turismo:332,geometry_start,249,Muelle el Ferry,CALIMA,Activa,429,candidate_only
+rutas_fluvial_turismo:332,geometry_end,234,El Arriero Paisa,CALIMA,Activa,339,candidate_only
+rutas_fluvial_turismo:332,geometry_end,240,Muelle Calimarina,CALIMA,Activa,369,candidate_only
+rutas_fluvial_turismo:332,geometry_end,249,Muelle el Ferry,CALIMA,Activa,413,candidate_only
+rutas_fluvial_turismo:333,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,153,candidate_only
+rutas_fluvial_turismo:333,geometry_start,591,Aguatapé,Guatapé,Activa,183,candidate_only
+rutas_fluvial_turismo:333,geometry_start,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,194,candidate_only
+rutas_fluvial_turismo:333,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,167,candidate_only
+rutas_fluvial_turismo:333,geometry_end,591,Aguatapé,Guatapé,Activa,195,candidate_only
+rutas_fluvial_turismo:333,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,205,candidate_only
+rutas_fluvial_turismo:334,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,19,candidate_only
+rutas_fluvial_turismo:335,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,187,candidate_only
+rutas_fluvial_turismo:335,geometry_start,51,Muelle Luxury Yates Guatape,GUATAPÉ,Activa,225,candidate_only
+rutas_fluvial_turismo:335,geometry_start,591,Aguatapé,Guatapé,Activa,226,candidate_only
+rutas_fluvial_turismo:335,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,224,candidate_only
+rutas_fluvial_turismo:335,geometry_end,591,Aguatapé,Guatapé,Activa,257,candidate_only
+rutas_fluvial_turismo:335,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,269,candidate_only
+rutas_fluvial_turismo:337,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,49,candidate_only
+rutas_fluvial_turismo:337,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,858,candidate_only
+rutas_fluvial_turismo:338,geometry_start,265,Paso Dagua,PUERTO CARREÑO,Activa,36,candidate_only
+rutas_fluvial_turismo:338,geometry_start,224,Muelle de Casuarito,PUERTO CARREÑO,Inactiva,40,candidate_only
+rutas_fluvial_turismo:338,geometry_start,457,Embarcadero de Pasajeros Casa Flotante Casuarito,PUERTO CARREÑO,Activa,283,candidate_only
+rutas_fluvial_turismo:339,geometry_start,457,Embarcadero de Pasajeros Casa Flotante Casuarito,PUERTO CARREÑO,Activa,83,candidate_only
+rutas_fluvial_turismo:339,geometry_start,265,Paso Dagua,PUERTO CARREÑO,Activa,240,candidate_only
+rutas_fluvial_turismo:339,geometry_start,224,Muelle de Casuarito,PUERTO CARREÑO,Inactiva,242,candidate_only
+rutas_fluvial_turismo:340,geometry_end,457,Embarcadero de Pasajeros Casa Flotante Casuarito,PUERTO CARREÑO,Activa,130,candidate_only
+rutas_fluvial_turismo:340,geometry_end,265,Paso Dagua,PUERTO CARREÑO,Activa,207,candidate_only
+rutas_fluvial_turismo:340,geometry_end,224,Muelle de Casuarito,PUERTO CARREÑO,Inactiva,209,candidate_only
+rutas_fluvial_turismo:341,geometry_start,537,Puerto,Ibagué,,13,candidate_only
+rutas_fluvial_turismo:341,geometry_start,830,Muelle de los pescadores,Prado,Activa,407,candidate_only
+rutas_fluvial_turismo:341,geometry_start,833,Tomogo,Prado,Activa,505,candidate_only
+rutas_fluvial_turismo:341,geometry_end,538,Cascada del Amor,Prado,Activa,7,candidate_only
+rutas_fluvial_turismo:342,geometry_start,457,Embarcadero de Pasajeros Casa Flotante Casuarito,PUERTO CARREÑO,Activa,31,candidate_only
+rutas_fluvial_turismo:342,geometry_start,265,Paso Dagua,PUERTO CARREÑO,Activa,342,candidate_only
+rutas_fluvial_turismo:342,geometry_start,224,Muelle de Casuarito,PUERTO CARREÑO,Inactiva,342,candidate_only
+rutas_fluvial_turismo:342,geometry_end,408,Punto de descargue de Material de Arrastre (privado),PUERTO CARREÑO,Inactiva,33,candidate_only
+rutas_fluvial_turismo:342,geometry_end,219,Muelle Internacional INVÍAS,PUERTO CARREÑO,Inactiva,81,candidate_only
+rutas_fluvial_turismo:342,geometry_end,210,Punto de Carga Puerto Carreño,PUERTO CARREÑO,Activa,115,candidate_only
+rutas_fluvial_turismo:343,geometry_end,457,Embarcadero de Pasajeros Casa Flotante Casuarito,PUERTO CARREÑO,Activa,27,candidate_only
+rutas_fluvial_turismo:343,geometry_end,265,Paso Dagua,PUERTO CARREÑO,Activa,332,candidate_only
+rutas_fluvial_turismo:343,geometry_end,224,Muelle de Casuarito,PUERTO CARREÑO,Inactiva,332,candidate_only
+rutas_fluvial_turismo:344,geometry_start,457,Embarcadero de Pasajeros Casa Flotante Casuarito,PUERTO CARREÑO,Activa,15,candidate_only
+rutas_fluvial_turismo:344,geometry_start,265,Paso Dagua,PUERTO CARREÑO,Activa,310,candidate_only
+rutas_fluvial_turismo:344,geometry_start,224,Muelle de Casuarito,PUERTO CARREÑO,Inactiva,311,candidate_only
+rutas_fluvial_turismo:344,geometry_end,210,Punto de Carga Puerto Carreño,PUERTO CARREÑO,Activa,49,candidate_only
+rutas_fluvial_turismo:344,geometry_end,219,Muelle Internacional INVÍAS,PUERTO CARREÑO,Inactiva,116,candidate_only
+rutas_fluvial_turismo:344,geometry_end,408,Punto de descargue de Material de Arrastre (privado),PUERTO CARREÑO,Inactiva,134,candidate_only
+rutas_fluvial_turismo:345,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,82,candidate_only
+rutas_fluvial_turismo:345,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,99,candidate_only
+rutas_fluvial_turismo:345,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,104,candidate_only
+rutas_fluvial_turismo:345,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,87,candidate_only
+rutas_fluvial_turismo:345,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,130,candidate_only
+rutas_fluvial_turismo:345,geometry_end,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,133,candidate_only
+rutas_fluvial_turismo:346,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,21,candidate_only
+rutas_fluvial_turismo:346,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,65,candidate_only
+rutas_fluvial_turismo:346,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,94,candidate_only
+rutas_fluvial_turismo:346,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,46,candidate_only
+rutas_fluvial_turismo:346,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,48,candidate_only
+rutas_fluvial_turismo:346,geometry_end,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,125,candidate_only
+rutas_fluvial_turismo:347,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,41,candidate_only
+rutas_fluvial_turismo:347,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,118,candidate_only
+rutas_fluvial_turismo:347,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,166,candidate_only
+rutas_fluvial_turismo:347,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,109,candidate_only
+rutas_fluvial_turismo:347,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,121,candidate_only
+rutas_fluvial_turismo:347,geometry_end,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,189,candidate_only
+rutas_fluvial_turismo:348,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,57,candidate_only
+rutas_fluvial_turismo:348,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,66,candidate_only
+rutas_fluvial_turismo:348,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,72,candidate_only
+rutas_fluvial_turismo:348,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,13,candidate_only
+rutas_fluvial_turismo:348,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,79,candidate_only
+rutas_fluvial_turismo:348,geometry_end,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,95,candidate_only
+rutas_fluvial_turismo:349,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,65,candidate_only
+rutas_fluvial_turismo:349,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,82,candidate_only
+rutas_fluvial_turismo:349,geometry_start,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,140,candidate_only
+rutas_fluvial_turismo:349,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,77,candidate_only
+rutas_fluvial_turismo:349,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,110,candidate_only
+rutas_fluvial_turismo:349,geometry_end,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,191,candidate_only
+rutas_fluvial_turismo:350,geometry_start,36,Muelle Empresa Cooperativa Multiactiva de Lancheros de Guatape,GUATAPÉ,Activa,16,candidate_only
+rutas_fluvial_turismo:350,geometry_start,37,Muelle empresa Aquapark Guatape.SAS,GUATAPÉ,Activa,35,candidate_only
+rutas_fluvial_turismo:350,geometry_start,35,Muelle empresa Barcassas y Yates de Colombia,GUATAPÉ,Activa,38,candidate_only
+rutas_fluvial_turismo:350,geometry_end,591,Aguatapé,Guatapé,Activa,79,candidate_only
+rutas_fluvial_turismo:350,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,80,candidate_only
+rutas_fluvial_turismo:350,geometry_end,37,Muelle empresa Aquapark Guatape.SAS,GUATAPÉ,Activa,84,candidate_only
+rutas_fluvial_turismo:351,geometry_start,537,Puerto,Ibagué,,50,candidate_only
+rutas_fluvial_turismo:351,geometry_start,830,Muelle de los pescadores,Prado,Activa,441,candidate_only
+rutas_fluvial_turismo:351,geometry_start,833,Tomogo,Prado,Activa,543,candidate_only
+rutas_fluvial_turismo:352,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,143,candidate_only
+rutas_fluvial_turismo:352,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,192,candidate_only
+rutas_fluvial_turismo:352,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,270,candidate_only
+rutas_fluvial_turismo:352,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,105,candidate_only
+rutas_fluvial_turismo:352,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,157,candidate_only
+rutas_fluvial_turismo:352,geometry_end,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,234,candidate_only
+rutas_fluvial_turismo:353,geometry_start,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,92,candidate_only
+rutas_fluvial_turismo:353,geometry_start,590,Aguaventura,Guatapé,Activa,93,candidate_only
+rutas_fluvial_turismo:353,geometry_start,36,Muelle Empresa Cooperativa Multiactiva de Lancheros de Guatape,GUATAPÉ,Activa,101,candidate_only
+rutas_fluvial_turismo:353,geometry_end,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,74,candidate_only
+rutas_fluvial_turismo:353,geometry_end,590,Aguaventura,Guatapé,Activa,77,candidate_only
+rutas_fluvial_turismo:353,geometry_end,35,Muelle empresa Barcassas y Yates de Colombia,GUATAPÉ,Activa,94,candidate_only
+rutas_fluvial_turismo:354,geometry_start,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,128,candidate_only
+rutas_fluvial_turismo:354,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,134,candidate_only
+rutas_fluvial_turismo:354,geometry_start,590,Aguaventura,Guatapé,Activa,135,candidate_only
+rutas_fluvial_turismo:354,geometry_end,37,Muelle empresa Aquapark Guatape.SAS,GUATAPÉ,Activa,281,candidate_only
+rutas_fluvial_turismo:354,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,281,candidate_only
+rutas_fluvial_turismo:354,geometry_end,591,Aguatapé,Guatapé,Activa,292,candidate_only
+rutas_fluvial_turismo:355,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,106,candidate_only
+rutas_fluvial_turismo:355,geometry_start,591,Aguatapé,Guatapé,Activa,126,candidate_only
+rutas_fluvial_turismo:355,geometry_start,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,136,candidate_only
+rutas_fluvial_turismo:355,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,102,candidate_only
+rutas_fluvial_turismo:355,geometry_end,591,Aguatapé,Guatapé,Activa,121,candidate_only
+rutas_fluvial_turismo:355,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,130,candidate_only
+rutas_fluvial_turismo:356,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,129,candidate_only
+rutas_fluvial_turismo:356,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,129,candidate_only
+rutas_fluvial_turismo:356,geometry_start,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,183,candidate_only
+rutas_fluvial_turismo:356,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,137,candidate_only
+rutas_fluvial_turismo:356,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,161,candidate_only
+rutas_fluvial_turismo:356,geometry_end,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,230,candidate_only
+rutas_fluvial_turismo:357,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,127,candidate_only
+rutas_fluvial_turismo:357,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,204,candidate_only
+rutas_fluvial_turismo:357,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,258,candidate_only
+rutas_fluvial_turismo:357,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,103,candidate_only
+rutas_fluvial_turismo:357,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,175,candidate_only
+rutas_fluvial_turismo:357,geometry_end,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,238,candidate_only
+rutas_fluvial_turismo:358,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,328,candidate_only
+rutas_fluvial_turismo:358,geometry_start,591,Aguatapé,Guatapé,Activa,357,candidate_only
+rutas_fluvial_turismo:358,geometry_start,37,Muelle empresa Aquapark Guatape.SAS,GUATAPÉ,Activa,366,candidate_only
+rutas_fluvial_turismo:358,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,388,candidate_only
+rutas_fluvial_turismo:358,geometry_end,591,Aguatapé,Guatapé,Activa,419,candidate_only
+rutas_fluvial_turismo:358,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,429,candidate_only
+rutas_fluvial_turismo:359,geometry_start,537,Puerto,Ibagué,,35,candidate_only
+rutas_fluvial_turismo:359,geometry_start,830,Muelle de los pescadores,Prado,Activa,428,candidate_only
+rutas_fluvial_turismo:359,geometry_start,833,Tomogo,Prado,Activa,525,candidate_only
+rutas_fluvial_turismo:360,geometry_start,37,Muelle empresa Aquapark Guatape.SAS,GUATAPÉ,Activa,27,candidate_only
+rutas_fluvial_turismo:360,geometry_start,36,Muelle Empresa Cooperativa Multiactiva de Lancheros de Guatape,GUATAPÉ,Activa,51,candidate_only
+rutas_fluvial_turismo:360,geometry_start,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,51,candidate_only
+rutas_fluvial_turismo:360,geometry_end,37,Muelle empresa Aquapark Guatape.SAS,GUATAPÉ,Activa,17,candidate_only
+rutas_fluvial_turismo:360,geometry_end,36,Muelle Empresa Cooperativa Multiactiva de Lancheros de Guatape,GUATAPÉ,Activa,40,candidate_only
+rutas_fluvial_turismo:360,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,51,candidate_only
+rutas_fluvial_turismo:361,geometry_start,821,Paso San Martin,Morales,Activa,255,candidate_only
+rutas_fluvial_turismo:361,geometry_start,475,PASO SAN VICENTE,SUÁREZ,Activa,799,candidate_only
+rutas_fluvial_turismo:361,geometry_start,466,PASO EL HATO,SUÁREZ,Activa,949,candidate_only
+rutas_fluvial_turismo:361,geometry_end,821,Paso San Martin,Morales,Activa,262,candidate_only
+rutas_fluvial_turismo:361,geometry_end,475,PASO SAN VICENTE,SUÁREZ,Activa,789,candidate_only
+rutas_fluvial_turismo:361,geometry_end,466,PASO EL HATO,SUÁREZ,Activa,944,candidate_only
+rutas_fluvial_turismo:365,geometry_start,790,MUELLE EL TABLAZO,San Vicente de Chucurí,Activa,324,candidate_only
+rutas_fluvial_turismo:365,geometry_start,791,MUELLE EL TABLAZO,San Vicente de Chucurí,Inactiva,350,candidate_only
+rutas_fluvial_turismo:365,geometry_start,797,MUELLE EL TABLAZO,San Vicente de Chucurí,Activa,393,candidate_only
+rutas_fluvial_turismo:368,geometry_start,91,Muelles Flotantes Aquapesa,COGUA,Inactiva,10,candidate_only
+rutas_fluvial_turismo:368,geometry_start,92,Embalse el Neusa,COGUA,Inactiva,170,candidate_only
+rutas_fluvial_turismo:368,geometry_end,91,Muelles Flotantes Aquapesa,COGUA,Inactiva,9,candidate_only
+rutas_fluvial_turismo:368,geometry_end,92,Embalse el Neusa,COGUA,Inactiva,176,candidate_only
+rutas_fluvial_turismo:369,geometry_start,805,,,,42,candidate_only
+rutas_fluvial_turismo:369,geometry_start,243,Puerto de moscovita,NORCASIA,Activa,128,candidate_only
+rutas_fluvial_turismo:369,geometry_start,766,Puerto de planes,Norcasía,Activa,355,candidate_only
+rutas_fluvial_turismo:369,geometry_end,805,,,,42,candidate_only
+rutas_fluvial_turismo:369,geometry_end,243,Puerto de moscovita,NORCASIA,Activa,128,candidate_only
+rutas_fluvial_turismo:369,geometry_end,766,Puerto de planes,Norcasía,Activa,355,candidate_only
+rutas_fluvial_turismo:370,geometry_start,243,Puerto de moscovita,NORCASIA,Activa,54,candidate_only
+rutas_fluvial_turismo:370,geometry_start,805,,,,88,candidate_only
+rutas_fluvial_turismo:370,geometry_start,535,Puerto Mirador,Norcasia,,343,candidate_only
+rutas_fluvial_turismo:370,geometry_end,243,Puerto de moscovita,NORCASIA,Activa,54,candidate_only
+rutas_fluvial_turismo:370,geometry_end,805,,,,88,candidate_only
+rutas_fluvial_turismo:370,geometry_end,535,Puerto Mirador,Norcasia,,343,candidate_only
+rutas_fluvial_turismo:371,geometry_start,376,Muelle Puerto Momico,HOBO,Inactiva,74,candidate_only
+rutas_fluvial_turismo:371,geometry_end,376,Muelle Puerto Momico,HOBO,Inactiva,74,candidate_only
+rutas_fluvial_turismo:372,geometry_start,256,Puerto Bata 1,MACANAL,Activa,47,candidate_only
+rutas_fluvial_turismo:372,geometry_end,256,Puerto Bata 1,MACANAL,Activa,7,candidate_only
+rutas_fluvial_turismo:373,geometry_start,243,Puerto de moscovita,NORCASIA,Activa,3,candidate_only
+rutas_fluvial_turismo:373,geometry_start,805,,,,84,candidate_only
+rutas_fluvial_turismo:373,geometry_start,535,Puerto Mirador,Norcasia,,391,candidate_only
+rutas_fluvial_turismo:373,geometry_end,534,Confines,NORCASIA,,3,candidate_only
+rutas_fluvial_turismo:373,geometry_end,535,Puerto Mirador,Norcasia,,615,candidate_only
+rutas_fluvial_turismo:373,geometry_end,805,,,,929,candidate_only
+rutas_fluvial_turismo:374,geometry_start,243,Puerto de moscovita,NORCASIA,Activa,1,candidate_only
+rutas_fluvial_turismo:374,geometry_start,805,,,,87,candidate_only
+rutas_fluvial_turismo:374,geometry_start,535,Puerto Mirador,Norcasia,,393,candidate_only
+rutas_fluvial_turismo:374,geometry_end,535,Puerto Mirador,Norcasia,,2,candidate_only
+rutas_fluvial_turismo:374,geometry_end,243,Puerto de moscovita,NORCASIA,Activa,390,candidate_only
+rutas_fluvial_turismo:374,geometry_end,805,,,,409,candidate_only
+rutas_fluvial_turismo:375,geometry_start,243,Puerto de moscovita,NORCASIA,Activa,2,candidate_only
+rutas_fluvial_turismo:375,geometry_start,805,,,,90,candidate_only
+rutas_fluvial_turismo:375,geometry_start,535,Puerto Mirador,Norcasia,,392,candidate_only
+rutas_fluvial_turismo:375,geometry_end,534,Confines,NORCASIA,,5,candidate_only
+rutas_fluvial_turismo:375,geometry_end,535,Puerto Mirador,Norcasia,,619,candidate_only
+rutas_fluvial_turismo:375,geometry_end,805,,,,933,candidate_only
+rutas_fluvial_turismo:376,geometry_start,542,Río Negro,Prado,,1,candidate_only
+rutas_fluvial_turismo:376,geometry_end,537,Puerto,Ibagué,,9,candidate_only
+rutas_fluvial_turismo:376,geometry_end,830,Muelle de los pescadores,Prado,Activa,392,candidate_only
+rutas_fluvial_turismo:376,geometry_end,833,Tomogo,Prado,Activa,489,candidate_only
+rutas_fluvial_turismo:377,geometry_start,69,Hotel Arca de Noha en Playa Blanca,TOTA,Inactiva,21,candidate_only
+rutas_fluvial_turismo:377,geometry_end,69,Hotel Arca de Noha en Playa Blanca,TOTA,Inactiva,8,candidate_only
+rutas_fluvial_turismo:378,geometry_start,101,Puerto Arrancaplumas,HONDA,Activa,29,candidate_only
+rutas_fluvial_turismo:378,geometry_end,530,,Pericongo,,50,candidate_only
+rutas_fluvial_turismo:379,geometry_start,537,Puerto,Ibagué,,43,candidate_only
+rutas_fluvial_turismo:379,geometry_start,830,Muelle de los pescadores,Prado,Activa,402,candidate_only
+rutas_fluvial_turismo:379,geometry_start,833,Tomogo,Prado,Activa,488,candidate_only
+rutas_fluvial_turismo:379,geometry_end,538,Cascada del Amor,Prado,Activa,23,candidate_only
+rutas_fluvial_turismo:380,geometry_start,837,ATV Nautica,Calima El Darién,Activa,211,candidate_only
+rutas_fluvial_turismo:380,geometry_start,240,Muelle Calimarina,CALIMA,Activa,235,candidate_only
+rutas_fluvial_turismo:380,geometry_start,249,Muelle el Ferry,CALIMA,Activa,252,candidate_only
+rutas_fluvial_turismo:380,geometry_end,837,ATV Nautica,Calima El Darién,Activa,215,candidate_only
+rutas_fluvial_turismo:380,geometry_end,240,Muelle Calimarina,CALIMA,Activa,217,candidate_only
+rutas_fluvial_turismo:380,geometry_end,234,El Arriero Paisa,CALIMA,Activa,234,candidate_only
+rutas_fluvial_turismo:381,geometry_start,337,MUELLE COMFANDI,CALIMA,Activa,132,candidate_only
+rutas_fluvial_turismo:381,geometry_end,337,MUELLE COMFANDI,CALIMA,Activa,108,candidate_only
+rutas_fluvial_turismo:382,geometry_start,349,hotel refugio pozo azul,AQUITANIA,Activa,3,candidate_only
+rutas_fluvial_turismo:382,geometry_end,64,Playa Blanca,TOTA,Inactiva,10,candidate_only
+rutas_fluvial_turismo:382,geometry_end,350,muelle finca los Alpes,AQUITANIA,Activa,10,candidate_only
+rutas_fluvial_turismo:382,geometry_end,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,41,candidate_only
+rutas_fluvial_turismo:384,geometry_start,537,Puerto,Ibagué,,24,candidate_only
+rutas_fluvial_turismo:384,geometry_start,830,Muelle de los pescadores,Prado,Activa,391,candidate_only
+rutas_fluvial_turismo:384,geometry_start,833,Tomogo,Prado,Activa,497,candidate_only
+rutas_fluvial_turismo:384,geometry_end,537,Puerto,Ibagué,,24,candidate_only
+rutas_fluvial_turismo:384,geometry_end,830,Muelle de los pescadores,Prado,Activa,391,candidate_only
+rutas_fluvial_turismo:384,geometry_end,833,Tomogo,Prado,Activa,497,candidate_only
+rutas_fluvial_turismo:385,geometry_start,537,Puerto,Ibagué,,119,candidate_only
+rutas_fluvial_turismo:385,geometry_start,830,Muelle de los pescadores,Prado,Activa,376,candidate_only
+rutas_fluvial_turismo:385,geometry_start,833,Tomogo,Prado,Activa,507,candidate_only
+rutas_fluvial_turismo:385,geometry_end,540,ACO,PRADO,,13,candidate_only
+rutas_fluvial_turismo:385,geometry_end,831,Puerto Limón,Prado,Activa,450,candidate_only
+rutas_fluvial_turismo:385,geometry_end,832,Puerto Cementerio,Prado,Activa,760,candidate_only
+rutas_fluvial_turismo:386,geometry_start,541,Lozanía,Prado,,41,candidate_only
+rutas_fluvial_turismo:386,geometry_end,537,Puerto,Ibagué,,18,candidate_only
+rutas_fluvial_turismo:386,geometry_end,830,Muelle de los pescadores,Prado,Activa,376,candidate_only
+rutas_fluvial_turismo:386,geometry_end,833,Tomogo,Prado,Activa,475,candidate_only
+rutas_fluvial_turismo:387,geometry_start,421,Malecón de Honda,HONDA,Inactiva,44,candidate_only
+rutas_fluvial_turismo:387,geometry_end,543,Natagaima,Natagaima,,19,candidate_only
+rutas_fluvial_turismo:388,geometry_start,537,Puerto,Ibagué,,42,candidate_only
+rutas_fluvial_turismo:388,geometry_start,830,Muelle de los pescadores,Prado,Activa,430,candidate_only
+rutas_fluvial_turismo:388,geometry_start,833,Tomogo,Prado,Activa,522,candidate_only
+rutas_fluvial_turismo:388,geometry_end,539,TOMOGO,Prado,,34,candidate_only
+rutas_fluvial_turismo:389,geometry_start,537,Puerto,Ibagué,,33,candidate_only
+rutas_fluvial_turismo:389,geometry_start,830,Muelle de los pescadores,Prado,Activa,398,candidate_only
+rutas_fluvial_turismo:389,geometry_start,833,Tomogo,Prado,Activa,487,candidate_only
+rutas_fluvial_turismo:389,geometry_end,538,Cascada del Amor,Prado,Activa,15,candidate_only
+rutas_fluvial_turismo:390,geometry_start,537,Puerto,Ibagué,,26,candidate_only
+rutas_fluvial_turismo:390,geometry_start,830,Muelle de los pescadores,Prado,Activa,371,candidate_only
+rutas_fluvial_turismo:390,geometry_start,833,Tomogo,Prado,Activa,475,candidate_only
+rutas_fluvial_turismo:390,geometry_end,538,Cascada del Amor,Prado,Activa,22,candidate_only
+rutas_fluvial_turismo:391,geometry_start,537,Puerto,Ibagué,,49,candidate_only
+rutas_fluvial_turismo:391,geometry_start,830,Muelle de los pescadores,Prado,Activa,442,candidate_only
+rutas_fluvial_turismo:391,geometry_start,833,Tomogo,Prado,Activa,542,candidate_only
+rutas_fluvial_turismo:392,geometry_start,496,MUELLE FLOTANTE DE PASAJEROS,PUERTO NARIÑO,Activa,108,candidate_only
+rutas_fluvial_turismo:392,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,59,candidate_only
+rutas_fluvial_turismo:392,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,767,candidate_only
+rutas_fluvial_turismo:393,geometry_start,35,Muelle empresa Barcassas y Yates de Colombia,GUATAPÉ,Activa,20,candidate_only
+rutas_fluvial_turismo:393,geometry_start,36,Muelle Empresa Cooperativa Multiactiva de Lancheros de Guatape,GUATAPÉ,Activa,21,candidate_only
+rutas_fluvial_turismo:393,geometry_start,37,Muelle empresa Aquapark Guatape.SAS,GUATAPÉ,Activa,47,candidate_only
+rutas_fluvial_turismo:393,geometry_end,35,Muelle empresa Barcassas y Yates de Colombia,GUATAPÉ,Activa,8,candidate_only
+rutas_fluvial_turismo:393,geometry_end,590,Aguaventura,Guatapé,Activa,26,candidate_only
+rutas_fluvial_turismo:393,geometry_end,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,44,candidate_only
+rutas_fluvial_turismo:394,geometry_end,766,Puerto de planes,Norcasía,Activa,166,candidate_only
+rutas_fluvial_turismo:394,geometry_end,805,,,,436,candidate_only
+rutas_fluvial_turismo:394,geometry_end,765,Embarcadero confines viejo,Norcasía,Activa,496,candidate_only
+rutas_fluvial_turismo:395,geometry_start,543,Natagaima,Natagaima,,110,candidate_only
+rutas_fluvial_turismo:395,geometry_end,421,Malecón de Honda,HONDA,Inactiva,74,candidate_only
+rutas_fluvial_turismo:396,geometry_start,550,Lago Tarapoto,Puerto Nariño,,11,candidate_only
+rutas_fluvial_turismo:396,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,21,candidate_only
+rutas_fluvial_turismo:396,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,805,candidate_only
+rutas_fluvial_turismo:397,geometry_start,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,24,candidate_only
+rutas_fluvial_turismo:397,geometry_start,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,849,candidate_only
+rutas_fluvial_turismo:398,geometry_start,551,Victoria Regia,Leticia,,24,candidate_only
+rutas_fluvial_turismo:398,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,19,candidate_only
+rutas_fluvial_turismo:398,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,807,candidate_only
+rutas_fluvial_turismo:399,geometry_start,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,26,candidate_only
+rutas_fluvial_turismo:399,geometry_start,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,846,candidate_only
+rutas_fluvial_turismo:399,geometry_end,552,Isla Santa Rosa,Leticia,,26,candidate_only
+rutas_fluvial_turismo:399,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,881,candidate_only
+rutas_fluvial_turismo:400,geometry_start,553,Isla de los micos,Leticia,,19,candidate_only
+rutas_fluvial_turismo:400,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,6,candidate_only
+rutas_fluvial_turismo:400,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,832,candidate_only
+rutas_fluvial_turismo:401,geometry_end,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,15,candidate_only
+rutas_fluvial_turismo:401,geometry_end,590,Aguaventura,Guatapé,Activa,28,candidate_only
+rutas_fluvial_turismo:401,geometry_end,35,Muelle empresa Barcassas y Yates de Colombia,GUATAPÉ,Activa,60,candidate_only
+rutas_fluvial_turismo:402,geometry_start,550,Lago Tarapoto,Puerto Nariño,,38,candidate_only
+rutas_fluvial_turismo:402,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,34,candidate_only
+rutas_fluvial_turismo:402,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,792,candidate_only
+rutas_fluvial_turismo:403,geometry_start,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,49,candidate_only
+rutas_fluvial_turismo:403,geometry_start,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,871,candidate_only
+rutas_fluvial_turismo:404,geometry_start,554,San Juan de Atacuarí,Leticia,,34,candidate_only
+rutas_fluvial_turismo:404,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,22,candidate_only
+rutas_fluvial_turismo:404,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,847,candidate_only
+rutas_fluvial_turismo:405,geometry_start,555,Macedonia,Puerto Nariño,,6,candidate_only
+rutas_fluvial_turismo:405,geometry_end,550,Lago Tarapoto,Puerto Nariño,,43,candidate_only
+rutas_fluvial_turismo:406,geometry_start,496,MUELLE FLOTANTE DE PASAJEROS,PUERTO NARIÑO,Activa,255,candidate_only
+rutas_fluvial_turismo:406,geometry_end,553,Isla de los micos,Leticia,,101,candidate_only
+rutas_fluvial_turismo:407,geometry_start,496,MUELLE FLOTANTE DE PASAJEROS,PUERTO NARIÑO,Activa,117,candidate_only
+rutas_fluvial_turismo:407,geometry_end,497,MELECON TURISTICO DE LETICIA,LETICIA,Activa,24,candidate_only
+rutas_fluvial_turismo:407,geometry_end,498,MUELLE INTERNACIONAL VICTORIA REGIA,LETICIA,Activa,802,candidate_only
+rutas_fluvial_turismo:408,geometry_start,807,Sector el arenero o puerto arena,Puerto Wilches,Activa,343,candidate_only
+rutas_fluvial_turismo:409,geometry_start,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,2,candidate_only
+rutas_fluvial_turismo:409,geometry_start,591,Aguatapé,Guatapé,Activa,51,candidate_only
+rutas_fluvial_turismo:409,geometry_start,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,68,candidate_only
+rutas_fluvial_turismo:409,geometry_end,39,Muelle Asociación de Botes de Guatape ABOGUA,GUATAPÉ,Activa,2,candidate_only
+rutas_fluvial_turismo:409,geometry_end,591,Aguatapé,Guatapé,Activa,52,candidate_only
+rutas_fluvial_turismo:409,geometry_end,38,Muelle Asociación Náutica de Guatape ASONAGUA,GUATAPÉ,Activa,68,candidate_only
+rutas_fluvial_turismo:410,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,39,candidate_only
+rutas_fluvial_turismo:411,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,22,candidate_only
+rutas_fluvial_turismo:412,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,9,candidate_only
+rutas_fluvial_turismo:414,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,7,candidate_only
+rutas_fluvial_turismo:415,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,12,candidate_only
+rutas_fluvial_turismo:416,geometry_end,284,EMBARCADERO,PUERTO NARE,Activa,102,candidate_only
+rutas_fluvial_turismo:416,geometry_end,292,"Embarcadero Malecón, Puerto Nare",PUERTO NARE,Activa,107,candidate_only
+rutas_fluvial_turismo:417,geometry_start,616,Embarcadero el Ferry,Puerto Triunfo - Corregimiento de Puerto Perales,Activa,25,candidate_only
+rutas_fluvial_turismo:417,geometry_start,741,Sector el Ferry,Puerto Boyacá,Activa,649,candidate_only
+rutas_fluvial_turismo:417,geometry_start,615,Muelle Puerto Perales,Puerto Triunfo -  corregimiento Puerto Perales,Inactiva,813,candidate_only
+rutas_fluvial_turismo:417,geometry_end,682,Puerto de los Jhonson,Puerto Boyacá,Activa,76,candidate_only
+rutas_fluvial_turismo:417,geometry_end,681,Muelle Los Pescadores,Puerto Boyacá,Activa,628,candidate_only
+rutas_fluvial_turismo:417,geometry_end,615,Muelle Puerto Perales,Puerto Triunfo -  corregimiento Puerto Perales,Inactiva,925,candidate_only
+rutas_fluvial_turismo:418,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,6,candidate_only
+rutas_fluvial_turismo:418,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,78,candidate_only
+rutas_fluvial_turismo:418,geometry_start,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,113,candidate_only
+rutas_fluvial_turismo:418,geometry_end,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,3,candidate_only
+rutas_fluvial_turismo:418,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,85,candidate_only
+rutas_fluvial_turismo:418,geometry_end,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,117,candidate_only
+rutas_fluvial_turismo:419,geometry_start,18,Muelle de Puerto Gaitán,PUERTO GAITÁN,Activa,41,candidate_only
+rutas_fluvial_turismo:419,geometry_start,577,Muelle Turístico  Mabel,Puerto Gaitán,Activa,165,candidate_only
+rutas_fluvial_turismo:419,geometry_start,844,Vaivén,Puerto Gaitán,Activa,191,candidate_only
+rutas_fluvial_turismo:421,geometry_end,43,Puerto Las flores,NECHÍ,Activa,103,candidate_only
+rutas_fluvial_turismo:421,geometry_end,50,Muelle de Nechí o Puerto Libano,NECHÍ,Activa,116,candidate_only
+rutas_fluvial_turismo:421,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,153,candidate_only
+rutas_fluvial_turismo:422,geometry_end,43,Puerto Las flores,NECHÍ,Activa,83,candidate_only
+rutas_fluvial_turismo:422,geometry_end,50,Muelle de Nechí o Puerto Libano,NECHÍ,Activa,107,candidate_only
+rutas_fluvial_turismo:422,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,132,candidate_only
+rutas_fluvial_turismo:423,geometry_start,420,Puerto Caracolí,HONDA,Activa,26,candidate_only
+rutas_fluvial_turismo:423,geometry_end,639,Embarcadero Banda Javier Rios,Puerto Triunfo,,186,candidate_only
+rutas_fluvial_turismo:423,geometry_end,636,Embarcadero Banda Irma,Puerto Triunfo,,195,candidate_only
+rutas_fluvial_turismo:423,geometry_end,635,Embarcadero Banda Pacho,Puerto Triunfo,,197,candidate_only
+rutas_fluvial_turismo:424,geometry_start,59,Muelle Emturpe Ltda,EL PEÑOL,Activa,29,candidate_only
+rutas_fluvial_turismo:424,geometry_start,56,Muelle Asociación Lancheros Hincapié,EL PEÑOL,Activa,42,candidate_only
+rutas_fluvial_turismo:424,geometry_start,58,Muelle Ecoturismo por el Peñol ECOTURISMO,EL PEÑOL,Activa,42,candidate_only
+rutas_fluvial_turismo:424,geometry_end,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,20,candidate_only
+rutas_fluvial_turismo:424,geometry_end,590,Aguaventura,Guatapé,Activa,24,candidate_only
+rutas_fluvial_turismo:424,geometry_end,35,Muelle empresa Barcassas y Yates de Colombia,GUATAPÉ,Activa,53,candidate_only
+rutas_fluvial_turismo:425,geometry_start,103,Puerto El Retiro,AMBALEMA,Activa,71,candidate_only
+rutas_fluvial_turismo:425,geometry_start,104,Puerto Gramalotal,BELTRÁN,Activa,296,candidate_only
+rutas_fluvial_turismo:425,geometry_end,101,Puerto Arrancaplumas,HONDA,Activa,333,candidate_only
+rutas_fluvial_turismo:425,geometry_end,421,Malecón de Honda,HONDA,Inactiva,745,candidate_only
+rutas_fluvial_turismo:426,geometry_end,421,Malecón de Honda,HONDA,Inactiva,44,candidate_only
+rutas_fluvial_turismo:427,geometry_start,420,Puerto Caracolí,HONDA,Activa,50,candidate_only
+rutas_fluvial_turismo:427,geometry_end,795,,,,41,candidate_only
+rutas_fluvial_turismo:427,geometry_end,793,,,,42,candidate_only
+rutas_fluvial_turismo:427,geometry_end,794,,,,42,candidate_only
+rutas_fluvial_turismo:428,geometry_start,343,muelle del hotel santa ines,AQUITANIA,Inactiva,1,candidate_only
+rutas_fluvial_turismo:428,geometry_start,348,"BOYAPESCA, Asociación Boyacense de Pscicultura y Pesca, muelle privado, municipio de Aquitania Boyacá",AQUITANIA,Inactiva,2,candidate_only
+rutas_fluvial_turismo:428,geometry_start,64,Playa Blanca,TOTA,Inactiva,486,candidate_only
+rutas_fluvial_turismo:429,geometry_end,64,Playa Blanca,TOTA,Inactiva,8,candidate_only
+rutas_fluvial_turismo:429,geometry_end,350,muelle finca los Alpes,AQUITANIA,Activa,8,candidate_only
+rutas_fluvial_turismo:429,geometry_end,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,38,candidate_only
+rutas_fluvial_turismo:430,geometry_start,69,Hotel Arca de Noha en Playa Blanca,TOTA,Inactiva,71,candidate_only
+rutas_fluvial_turismo:430,geometry_end,343,muelle del hotel santa ines,AQUITANIA,Inactiva,81,candidate_only
+rutas_fluvial_turismo:430,geometry_end,348,"BOYAPESCA, Asociación Boyacense de Pscicultura y Pesca, muelle privado, municipio de Aquitania Boyacá",AQUITANIA,Inactiva,82,candidate_only
+rutas_fluvial_turismo:430,geometry_end,64,Playa Blanca,TOTA,Inactiva,404,candidate_only
+rutas_fluvial_turismo:431,geometry_start,566,Paimado,Paimado,,16,candidate_only
+rutas_fluvial_turismo:431,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,47,candidate_only
+rutas_fluvial_turismo:431,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,270,candidate_only
+rutas_fluvial_turismo:431,geometry_end,63,Muelle Mercado de Quibdó 2,QUIBDÓ,Activa,276,candidate_only
+rutas_fluvial_turismo:432,geometry_start,359,Puerto de Carmen del Darién,CARMEN DEL DARIÉN,Activa,543,candidate_only
+rutas_fluvial_turismo:432,geometry_end,68,"Muelle Sector los Álamos, Quibdó",QUIBDÓ,Activa,62,candidate_only
+rutas_fluvial_turismo:432,geometry_end,62,Muelle Mercado de Quibdó 1,QUIBDÓ,Activa,197,candidate_only
+rutas_fluvial_turismo:432,geometry_end,17,Malecón Jairo Varela,QUIBDÓ,Activa,497,candidate_only
+rutas_fluvial_turismo:433,geometry_start,64,Playa Blanca,TOTA,Inactiva,12,candidate_only
+rutas_fluvial_turismo:433,geometry_start,350,muelle finca los Alpes,AQUITANIA,Activa,12,candidate_only
+rutas_fluvial_turismo:433,geometry_start,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,38,candidate_only
+rutas_fluvial_turismo:434,geometry_start,64,Playa Blanca,TOTA,Inactiva,49,candidate_only
+rutas_fluvial_turismo:434,geometry_start,350,muelle finca los Alpes,AQUITANIA,Activa,49,candidate_only
+rutas_fluvial_turismo:434,geometry_start,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,64,candidate_only
+rutas_fluvial_turismo:435,geometry_start,348,"BOYAPESCA, Asociación Boyacense de Pscicultura y Pesca, muelle privado, municipio de Aquitania Boyacá",AQUITANIA,Inactiva,1,candidate_only
+rutas_fluvial_turismo:435,geometry_start,343,muelle del hotel santa ines,AQUITANIA,Inactiva,2,candidate_only
+rutas_fluvial_turismo:435,geometry_start,64,Playa Blanca,TOTA,Inactiva,486,candidate_only
+rutas_fluvial_turismo:436,geometry_start,69,Hotel Arca de Noha en Playa Blanca,TOTA,Inactiva,18,candidate_only
+rutas_fluvial_turismo:436,geometry_end,348,"BOYAPESCA, Asociación Boyacense de Pscicultura y Pesca, muelle privado, municipio de Aquitania Boyacá",AQUITANIA,Inactiva,6,candidate_only
+rutas_fluvial_turismo:436,geometry_end,343,muelle del hotel santa ines,AQUITANIA,Inactiva,6,candidate_only
+rutas_fluvial_turismo:436,geometry_end,64,Playa Blanca,TOTA,Inactiva,491,candidate_only
+rutas_fluvial_turismo:437,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,38,candidate_only
+rutas_fluvial_turismo:437,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,43,candidate_only
+rutas_fluvial_turismo:437,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,96,candidate_only
+rutas_fluvial_turismo:437,geometry_end,59,Muelle Emturpe Ltda,EL PEÑOL,Activa,9,candidate_only
+rutas_fluvial_turismo:437,geometry_end,56,Muelle Asociación Lancheros Hincapié,EL PEÑOL,Activa,10,candidate_only
+rutas_fluvial_turismo:437,geometry_end,58,Muelle Ecoturismo por el Peñol ECOTURISMO,EL PEÑOL,Activa,10,candidate_only
+rutas_fluvial_turismo:438,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,50,candidate_only
+rutas_fluvial_turismo:438,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,55,candidate_only
+rutas_fluvial_turismo:438,geometry_start,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,87,candidate_only
+rutas_fluvial_turismo:438,geometry_end,56,Muelle Asociación Lancheros Hincapié,EL PEÑOL,Activa,25,candidate_only
+rutas_fluvial_turismo:438,geometry_end,58,Muelle Ecoturismo por el Peñol ECOTURISMO,EL PEÑOL,Activa,25,candidate_only
+rutas_fluvial_turismo:438,geometry_end,59,Muelle Emturpe Ltda,EL PEÑOL,Activa,35,candidate_only
+rutas_fluvial_turismo:439,geometry_start,639,Embarcadero Banda Javier Rios,Puerto Triunfo,,226,candidate_only
+rutas_fluvial_turismo:439,geometry_start,636,Embarcadero Banda Irma,Puerto Triunfo,,226,candidate_only
+rutas_fluvial_turismo:439,geometry_start,635,Embarcadero Banda Pacho,Puerto Triunfo,,236,candidate_only
+rutas_fluvial_turismo:439,geometry_end,292,"Embarcadero Malecón, Puerto Nare",PUERTO NARE,Activa,239,candidate_only
+rutas_fluvial_turismo:439,geometry_end,284,EMBARCADERO,PUERTO NARE,Activa,245,candidate_only
+rutas_fluvial_turismo:440,geometry_start,639,Embarcadero Banda Javier Rios,Puerto Triunfo,,166,candidate_only
+rutas_fluvial_turismo:440,geometry_start,636,Embarcadero Banda Irma,Puerto Triunfo,,169,candidate_only
+rutas_fluvial_turismo:440,geometry_start,635,Embarcadero Banda Pacho,Puerto Triunfo,,177,candidate_only
+rutas_fluvial_turismo:440,geometry_end,682,Puerto de los Jhonson,Puerto Boyacá,Activa,91,candidate_only
+rutas_fluvial_turismo:440,geometry_end,681,Muelle Los Pescadores,Puerto Boyacá,Activa,654,candidate_only
+rutas_fluvial_turismo:440,geometry_end,615,Muelle Puerto Perales,Puerto Triunfo -  corregimiento Puerto Perales,Inactiva,898,candidate_only
+rutas_fluvial_turismo:441,geometry_start,639,Embarcadero Banda Javier Rios,Puerto Triunfo,,190,candidate_only
+rutas_fluvial_turismo:441,geometry_start,635,Embarcadero Banda Pacho,Puerto Triunfo,,200,candidate_only
+rutas_fluvial_turismo:441,geometry_start,636,Embarcadero Banda Irma,Puerto Triunfo,,205,candidate_only
+rutas_fluvial_turismo:441,geometry_end,88,"Puerto Multimodal Puerto Salgar ""Multipuertos""",PUERTO SALGAR,Inactiva,89,candidate_only
+rutas_fluvial_turismo:441,geometry_end,604,Puerto de las lanchas,Puerto Salgar,Activa,423,candidate_only
+rutas_fluvial_turismo:441,geometry_end,728,Muelle de los pescadores,La Dorada,Activa,739,candidate_only
+rutas_fluvial_turismo:442,geometry_start,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,174,candidate_only
+rutas_fluvial_turismo:442,geometry_start,64,Playa Blanca,TOTA,Inactiva,183,candidate_only
+rutas_fluvial_turismo:442,geometry_start,350,muelle finca los Alpes,AQUITANIA,Activa,183,candidate_only
+rutas_fluvial_turismo:443,geometry_start,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,42,candidate_only
+rutas_fluvial_turismo:443,geometry_start,64,Playa Blanca,TOTA,Inactiva,64,candidate_only
+rutas_fluvial_turismo:443,geometry_start,350,muelle finca los Alpes,AQUITANIA,Activa,64,candidate_only
+rutas_fluvial_turismo:443,geometry_end,349,hotel refugio pozo azul,AQUITANIA,Activa,45,candidate_only
+rutas_fluvial_turismo:444,geometry_start,64,Playa Blanca,TOTA,Inactiva,34,candidate_only
+rutas_fluvial_turismo:444,geometry_start,350,muelle finca los Alpes,AQUITANIA,Activa,34,candidate_only
+rutas_fluvial_turismo:444,geometry_start,325,muelle la peña o la inspeccion fluvial de TOTA SOCHAGOTA,AQUITANIA,Activa,39,candidate_only
+rutas_fluvial_turismo:444,geometry_end,349,hotel refugio pozo azul,AQUITANIA,Activa,38,candidate_only
+rutas_fluvial_turismo:445,geometry_end,349,hotel refugio pozo azul,AQUITANIA,Activa,32,candidate_only
+rutas_fluvial_turismo:446,geometry_start,232,Puerto Mangos,MAGANGUÉ,Activa,52,candidate_only
+rutas_fluvial_turismo:446,geometry_start,653,Sector Los Manguitos,MAGANGUE,Activa,123,candidate_only
+rutas_fluvial_turismo:446,geometry_start,650,MUELLE LA CANDELARIA,MAGANGUE,Activa,756,candidate_only
+rutas_fluvial_turismo:446,geometry_end,398,Puerto de Zambrano,ZAMBRANO,Activa,83,candidate_only
+rutas_fluvial_turismo:446,geometry_end,654,MUELLE DE ZAMBRANO,ZAMBRANO,Inactiva,203,candidate_only
+rutas_fluvial_turismo:447,geometry_end,232,Puerto Mangos,MAGANGUÉ,Activa,181,candidate_only
+rutas_fluvial_turismo:447,geometry_end,653,Sector Los Manguitos,MAGANGUE,Activa,252,candidate_only
+rutas_fluvial_turismo:447,geometry_end,650,MUELLE LA CANDELARIA,MAGANGUE,Activa,884,candidate_only
+rutas_fluvial_turismo:448,geometry_start,217,Puerto El Zami,SUCRE,Inactiva,27,candidate_only
+rutas_fluvial_turismo:448,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,29,candidate_only
+rutas_fluvial_turismo:448,geometry_end,651,SECTOR LA PEÑA,MAGANGUE,Activa,57,candidate_only
+rutas_fluvial_turismo:448,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,92,candidate_only
+rutas_fluvial_turismo:449,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,5,candidate_only
+rutas_fluvial_turismo:449,geometry_end,651,SECTOR LA PEÑA,MAGANGUE,Activa,45,candidate_only
+rutas_fluvial_turismo:449,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,116,candidate_only
+rutas_fluvial_turismo:450,geometry_end,232,Puerto Mangos,MAGANGUÉ,Activa,30,candidate_only
+rutas_fluvial_turismo:450,geometry_end,653,Sector Los Manguitos,MAGANGUE,Activa,66,candidate_only
+rutas_fluvial_turismo:450,geometry_end,650,MUELLE LA CANDELARIA,MAGANGUE,Activa,694,candidate_only
+rutas_fluvial_turismo:454,geometry_end,104,Puerto Gramalotal,BELTRÁN,Activa,6,candidate_only
+rutas_fluvial_turismo:454,geometry_end,103,Puerto El Retiro,AMBALEMA,Activa,274,candidate_only
+rutas_fluvial_turismo:455,geometry_end,104,Puerto Gramalotal,BELTRÁN,Activa,20,candidate_only
+rutas_fluvial_turismo:455,geometry_end,103,Puerto El Retiro,AMBALEMA,Activa,259,candidate_only
+rutas_fluvial_turismo:456,geometry_start,104,Puerto Gramalotal,BELTRÁN,Activa,4,candidate_only
+rutas_fluvial_turismo:456,geometry_start,103,Puerto El Retiro,AMBALEMA,Activa,278,candidate_only
+rutas_fluvial_turismo:456,geometry_end,103,Puerto El Retiro,AMBALEMA,Activa,8,candidate_only
+rutas_fluvial_turismo:456,geometry_end,104,Puerto Gramalotal,BELTRÁN,Activa,284,candidate_only
+rutas_fluvial_turismo:457,geometry_start,104,Puerto Gramalotal,BELTRÁN,Activa,4,candidate_only
+rutas_fluvial_turismo:457,geometry_start,103,Puerto El Retiro,AMBALEMA,Activa,278,candidate_only
+rutas_fluvial_turismo:457,geometry_end,100,Puerto Beltrancito,AMBALEMA,Inactiva,2,candidate_only
+rutas_fluvial_turismo:458,geometry_start,484,EL REMANSO,INÍRIDA,Activa,197,candidate_only
+rutas_fluvial_turismo:458,geometry_end,481,MUELLE DE CARGA,INÍRIDA,Activa,47,candidate_only
+rutas_fluvial_turismo:458,geometry_end,482,MUELLE DE PASAJEROS,INÍRIDA,Activa,107,candidate_only
+rutas_fluvial_turismo:458,geometry_end,839,MUELLE 3 ( MUELLE MINERO),Inirida,Activa,245,candidate_only
+rutas_fluvial_turismo:459,geometry_start,213,Puerto Principal de Mompóx,MOMPÓS,Activa,86,candidate_only
+rutas_fluvial_turismo:459,geometry_start,211,Muelle San Francisco de Mompóx,MOMPÓX,Activa,190,candidate_only
+rutas_fluvial_turismo:460,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,202,candidate_only
+rutas_fluvial_turismo:460,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,225,candidate_only
+rutas_fluvial_turismo:460,geometry_start,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,282,candidate_only
+rutas_fluvial_turismo:460,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,170,candidate_only
+rutas_fluvial_turismo:460,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,187,candidate_only
+rutas_fluvial_turismo:460,geometry_end,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,190,candidate_only
+rutas_fluvial_turismo:461,geometry_start,486,PUERTO PRINCIPAL,BARRANCO MINAS,Activa,35,candidate_only
+rutas_fluvial_turismo:461,geometry_start,488,PUERTO DE LA BOMBA,BARRANCO MINAS,Activa,76,candidate_only
+rutas_fluvial_turismo:461,geometry_start,487,PUERTO DE LA MOTOBOMBA,BARRANCO MINAS,Activa,418,candidate_only
+rutas_fluvial_turismo:461,geometry_end,480,PUERTO COCO NUEVO,INÍRIDA,Activa,11,candidate_only
+rutas_fluvial_turismo:461,geometry_end,479,EMBARCADERO COCO VIEJO,INÍRIDA,Activa,877,candidate_only
+rutas_fluvial_turismo:462,geometry_start,72,Muelle de Bazurto,CARTAGENA,Activa,46,candidate_only
+rutas_fluvial_turismo:464,geometry_start,479,EMBARCADERO COCO VIEJO,INÍRIDA,Activa,406,candidate_only
+rutas_fluvial_turismo:464,geometry_start,480,PUERTO COCO NUEVO,INÍRIDA,Activa,796,candidate_only
+rutas_fluvial_turismo:464,geometry_end,264,Puerto Grabillera,CUMARIBO,Activa,528,candidate_only
+rutas_fluvial_turismo:465,geometry_end,582,Puerto de la Colechera,Calamar,Activa,87,candidate_only
+rutas_fluvial_turismo:465,geometry_end,646,Puerto De Calamar,Calamar,Inactiva,101,candidate_only
+rutas_fluvial_turismo:465,geometry_end,647,Puerto Calamar Lanchas Rio Arriba,Calamar,Activa,286,candidate_only
+rutas_fluvial_turismo:466,geometry_start,588,Muelle Flotante Cootrafluvsuc,Guaranda,Activa,156,candidate_only
+rutas_fluvial_turismo:466,geometry_start,808,Puerto Las Canoas,Guaranda,Activa,165,candidate_only
+rutas_fluvial_turismo:466,geometry_start,587,Puerto de la playa,Guaranda,Activa,223,candidate_only
+rutas_fluvial_turismo:466,geometry_end,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,34,candidate_only
+rutas_fluvial_turismo:466,geometry_end,651,SECTOR LA PEÑA,MAGANGUE,Activa,56,candidate_only
+rutas_fluvial_turismo:466,geometry_end,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,90,candidate_only
+rutas_fluvial_turismo:467,geometry_start,883,Muelle de Guatapé,Guatapé,Activa,65,candidate_only
+rutas_fluvial_turismo:467,geometry_start,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,80,candidate_only
+rutas_fluvial_turismo:467,geometry_start,31,Muelle empresa Tu Plan Guatape,GUATAPÉ,Activa,141,candidate_only
+rutas_fluvial_turismo:468,geometry_start,137,Muelle Expreso Ganadero,PUERTO LÓPEZ,Inactiva,522,candidate_only
+rutas_fluvial_turismo:468,geometry_start,139,Arrimadero de Carga Puerto López,PUERTO LÓPEZ,Inactiva,601,candidate_only
+rutas_fluvial_turismo:468,geometry_start,140,Arrimadero Turístico del Municipio de Puerto López,PUERTO LÓPEZ,Inactiva,867,candidate_only
+rutas_fluvial_turismo:468,geometry_end,220,Embarcadero Rampa Vieja,PUERTO CARREÑO,Activa,331,candidate_only
+rutas_fluvial_turismo:468,geometry_end,906,Puerto Carreño Alterno,PUERTO CARREÑO,Inactiva,940,candidate_only
+rutas_fluvial_turismo:469,geometry_start,290,Malecón Ecoturístico de Sabanagrande,SABANAGRANDE,Activa,155,candidate_only
+rutas_fluvial_turismo:470,geometry_start,290,Malecón Ecoturístico de Sabanagrande,SABANAGRANDE,Activa,189,candidate_only
+rutas_fluvial_turismo:472,geometry_start,807,Sector el arenero o puerto arena,Puerto Wilches,Activa,215,candidate_only
+rutas_fluvial_turismo:472,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,28,candidate_only
+rutas_fluvial_turismo:473,geometry_start,238,Embarcadero Detrás de la Bomba de Gasolina,CANTAGALLO,Inactiva,51,candidate_only
+rutas_fluvial_turismo:473,geometry_start,800,Puerto Arena,Cantagallo,Activa,390,candidate_only
+rutas_fluvial_turismo:473,geometry_start,796,Río Luna,Cantagallo,Inactiva,962,candidate_only
+rutas_fluvial_turismo:473,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,20,candidate_only
+rutas_fluvial_turismo:475,geometry_end,795,,,,19,candidate_only
+rutas_fluvial_turismo:475,geometry_end,793,,,,21,candidate_only
+rutas_fluvial_turismo:475,geometry_end,528,PUERTO LAS LANCHAS,LA DORADA,Activa,21,candidate_only
+rutas_fluvial_turismo:476,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,32,candidate_only
+rutas_fluvial_turismo:477,geometry_start,213,Puerto Principal de Mompóx,MOMPÓS,Activa,18,candidate_only
+rutas_fluvial_turismo:477,geometry_start,211,Muelle San Francisco de Mompóx,MOMPÓX,Activa,279,candidate_only
+rutas_fluvial_turismo:477,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,73,candidate_only
+rutas_fluvial_turismo:479,geometry_start,226,Muelle Informal de Pasajeros,MAGANGUÉ,Activa,42,candidate_only
+rutas_fluvial_turismo:479,geometry_start,230,Puerto Callejón de las Esteras,MAGANGUÉ,Activa,189,candidate_only
+rutas_fluvial_turismo:479,geometry_start,229,"Puerto Plaza La Candelaria, Magangué",MAGANGUÉ,Activa,308,candidate_only
+rutas_fluvial_turismo:479,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,267,candidate_only
+rutas_fluvial_turismo:480,geometry_start,200,Embarcadero de Carga de El Banco,EL BANCO,Activa,7,candidate_only
+rutas_fluvial_turismo:480,geometry_start,155,MUELLE COOTRANSFLUCAP,EL BANCO,Activa,19,candidate_only
+rutas_fluvial_turismo:480,geometry_start,199,Muelle El Peñon - Asotrapacape,EL BANCO,Inactiva,23,candidate_only
+rutas_fluvial_turismo:481,geometry_start,420,Puerto Caracolí,HONDA,Activa,51,candidate_only
+rutas_fluvial_turismo:481,geometry_end,604,Puerto de las lanchas,Puerto Salgar,Activa,13,candidate_only
+rutas_fluvial_turismo:481,geometry_end,88,"Puerto Multimodal Puerto Salgar ""Multipuertos""",PUERTO SALGAR,Inactiva,494,candidate_only
+rutas_fluvial_turismo:482,geometry_start,213,Puerto Principal de Mompóx,MOMPÓS,Activa,50,candidate_only
+rutas_fluvial_turismo:482,geometry_start,211,Muelle San Francisco de Mompóx,MOMPÓX,Activa,233,candidate_only
+rutas_fluvial_turismo:482,geometry_end,72,Muelle de Bazurto,CARTAGENA,Activa,130,candidate_only
+rutas_fluvial_turismo:483,geometry_end,28,Muelle empresa S y L Catering Producción Inmobiliario SAS,GUATAPÉ,Activa,11,candidate_only
+rutas_fluvial_turismo:483,geometry_end,883,Muelle de Guatapé,Guatapé,Activa,89,candidate_only
+rutas_fluvial_turismo:483,geometry_end,25,Muelle Empresa Anclar S.A.S.,GUATAPÉ,Activa,145,candidate_only
+rutas_fluvial_turismo:489,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,125,candidate_only
+rutas_fluvial_turismo:492,geometry_end,265,Paso Dagua,PUERTO CARREÑO,Activa,20,candidate_only
+rutas_fluvial_turismo:492,geometry_end,224,Muelle de Casuarito,PUERTO CARREÑO,Inactiva,22,candidate_only
+rutas_fluvial_turismo:492,geometry_end,457,Embarcadero de Pasajeros Casa Flotante Casuarito,PUERTO CARREÑO,Activa,291,candidate_only
+rutas_fluvial_turismo:493,geometry_start,807,Sector el arenero o puerto arena,Puerto Wilches,Activa,256,candidate_only
+rutas_fluvial_turismo:496,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,47,candidate_only
+rutas_fluvial_turismo:497,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,139,candidate_only
+rutas_fluvial_turismo:498,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,32,candidate_only
+rutas_fluvial_turismo:499,geometry_end,239,Terminal fluvial de Barrancabermeja Yuma,BARRANCABERMEJA,Activa,110,candidate_only
+rutas_fluvial_turismo:500,geometry_end,30,PUERTO LA CASONA,NECHÍ,Activa,1,candidate_only
+rutas_fluvial_turismo:500,geometry_end,43,Puerto Las flores,NECHÍ,Activa,95,candidate_only
+rutas_fluvial_turismo:500,geometry_end,26,Puerto de Cootraflucan,NECHÍ,Activa,131,candidate_only

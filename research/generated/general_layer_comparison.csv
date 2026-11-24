@@ -1,0 +1,501 @@
+general_index,source_id,operator,origin,destination,candidate_count,thematic_route_ids,status
+1,396,Transportes San Pablo S.A,Barrancabermeja,Retiro,1,rutas_fluvial_turismo:273,unique_candidate
+2,383,TRANSPORTADORA SAN PABLO LIMITADA,Barrancabermeja,San Pablo,1,rutas_fluvial_pasajeros:1,unique_candidate
+3,400,Transportes San Pablo S.A,Barrancabermeja,Plata e Islas,1,rutas_fluvial_turismo:274,unique_candidate
+4,389,Transportes San Pablo S.A,Barrancabermeja,Río Carare,1,rutas_fluvial_turismo:275,unique_candidate
+5,626,VILLAVIEJA,Puerto Malecon,Las Iguanas,1,rutas_fluvial_turismo:276,unique_candidate
+6,627,VILLAVIEJA,Puerto Malecon,Las Tortugas,1,rutas_fluvial_turismo:277,unique_candidate
+7,628,VILLAVIEJA,Puerto Malecon,Castillo,1,rutas_fluvial_turismo:278,unique_candidate
+8,629,VILLAVIEJA,Puerto Malecon,Desembocadura Río Villavieja,1,rutas_fluvial_turismo:279,unique_candidate
+9,32,Asojhonval,Puerto Valdivia,La Sevilla,1,rutas_fluvial_pasajeros:7,unique_candidate
+10,82,Coomultramag,Magangue,Pinto,1,rutas_fluvial_pasajeros:45,unique_candidate
+11,43,Asotranschaira,Cartagena del Chaira,Rio Negro,1,rutas_fluvial_pasajeros:2,unique_candidate
+12,44,Asotranschaira,Cartagena del Chaira,La Reforma,1,rutas_fluvial_pasajeros:4,unique_candidate
+13,47,Asotranschaira,Cartagena del Chaira,Pilones,1,rutas_fluvial_pasajeros:6,unique_candidate
+14,143,Cootransca,Vereda El Muelle,Vereda La Vega,1,rutas_fluvial_pasajeros:20,unique_candidate
+15,91,Cootranflucan,Nechi,Pueblo Nuevo Regencia,1,rutas_fluvial_pasajeros:11,unique_candidate
+16,97,Cootranflucap,La Pacha,El Banco,0,,unmatched
+17,625,VIASOTRAN,Nechí,Villa Uribe,1,rutas_fluvial_turismo:283,unique_candidate
+18,177,Cootransunidos,Zaragoza,Tona,1,rutas_fluvial_pasajeros:8,unique_candidate
+19,180,Cootransunidos,Zaragoza,Chispero,1,rutas_fluvial_pasajeros:17,unique_candidate
+20,95,Cootranflucap,Las Cochitas,El Banco,0,,unmatched
+21,179,Cootransunidos,Zaragoza,Mata,1,rutas_fluvial_pasajeros:18,unique_candidate
+22,6,Aguaventura SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:287,unique_candidate
+23,99,Cootranflucap,El Sudan,El Banco,0,,unmatched
+24,100,Cootranflucap,Puerto Rico,El Banco,0,,unmatched
+25,83,Coomultramag,Santa Fe,La Bodega,1,rutas_fluvial_pasajeros:38,unique_candidate
+26,111,Cootrafluvsuc,Montecristo,Nechi,1,rutas_fluvial_pasajeros:24,unique_candidate
+27,115,Cootrafluvsuc,Guaranda,Pueblo Lindo,1,rutas_fluvial_pasajeros:25,unique_candidate
+28,114,Cootrafluvsuc,Guaranda,Montecristo,1,rutas_fluvial_pasajeros:22,unique_candidate
+29,133,Cootraimag,Magangue,Sudan,1,rutas_fluvial_pasajeros:39,unique_candidate
+30,117,Cootrafluvsuc,Guaranda,Puerto España,1,rutas_fluvial_pasajeros:14,unique_candidate
+31,110,Cootrafluvsuc,Montecristo,Magangue,1,rutas_fluvial_pasajeros:27,unique_candidate
+32,497,TRANSFLUVIALES CAQUETA S.A.S.,Puerto Leguizamo,Parque Natural La Paya,1,rutas_fluvial_pasajeros:62,unique_candidate
+33,218,Transportes El Panseguita SAS,Campo Alegre,Magangue,1,rutas_fluvial_pasajeros:31,unique_candidate
+34,321,Naviera Agrominera de Colombia SAS,Magangue,Guaranda,2,rutas_fluvial_turismo:285 | rutas_fluvial_turismo:466,ambiguous
+35,252,Gaviotas,Yaguara,Cerritos,2,rutas_fluvial_pasajeros:34 | rutas_fluvial_pasajeros:199,ambiguous
+36,135,Cootraimag,Magangue,Tres Cruces,1,rutas_fluvial_pasajeros:37,unique_candidate
+37,295,TRANSFLUVIAL DE LA DEPRESION MOMPOSINA S.A.S.,Bocas de Pinto,Pinillos,1,rutas_fluvial_turismo:291,unique_candidate
+38,481,Transportadora Fluvial Mary E.U,Magangue,Palenquito,1,rutas_fluvial_pasajeros:43,unique_candidate
+39,491,Transporte Fluvial Regional E.A.T. Transflureg,Magangue,San Sebastián,1,rutas_fluvial_pasajeros:44,unique_candidate
+40,245,Faitur SAS,Circular lago,Circular lago,1,rutas_fluvial_turismo:284,unique_candidate
+41,271,Transportes Llanorinoquia SAS,Puerto Carreño,La Venturosa,1,rutas_fluvial_turismo:295,unique_candidate
+42,488,TRANSBORDAMOS SINÚ S.A.S.,Muelle Turístico Calle 35,Las Palomas,1,rutas_fluvial_pasajeros:47,unique_candidate
+43,246,Transporte La Represa S.A.S,Puerto de la Cruz,Las Lajitas,1,rutas_fluvial_turismo:296,unique_candidate
+44,294,TRANSFLUVIAL DE LA DEPRESION MOMPOSINA S.A.S.,El Banco,Bocas de Pinto,1,rutas_fluvial_turismo:299,unique_candidate
+45,145,Cootransflualsinu,Frasquillo,KM 40,1,rutas_fluvial_pasajeros:40,unique_candidate
+46,144,Cootransflualsinu,Frasquillo,Crucito,1,rutas_fluvial_pasajeros:3,unique_candidate
+47,249,Transporte La Represa S.A.S,Puerto de la Cruz,Torres de captación,1,rutas_fluvial_turismo:297,unique_candidate
+48,8,Muelle Anclar SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:311,unique_candidate
+49,412,"""AGENCIA DE VIAJE SELVATOUR S.A.S. """,Puerto Nariño,Tarapoto,1,rutas_fluvial_turismo:405,unique_candidate
+50,489,TRANSBORDAMOS SINÚ S.A.S.,Muelle Turístico Calle 35,Hotel San Pelayo,1,rutas_fluvial_pasajeros:48,unique_candidate
+51,171,Cootranspiñuña,Puerto Asis,Marandua,1,rutas_fluvial_pasajeros:49,unique_candidate
+52,195,Cootranspuerto Asis LTDA,Puerto Legizamo,Yarinal,1,rutas_fluvial_pasajeros:50,unique_candidate
+53,174,Cootranspiñuña,Puerto Asis,Puerto Ospina,1,rutas_fluvial_pasajeros:54,unique_candidate
+54,62,Casuaro Tours SAS,Casuarito,Los Raudales Garcitas,1,rutas_fluvial_turismo:338,unique_candidate
+55,196,Cootranspuerto Asis LTDA,Puerto Asis,La Reforma,1,rutas_fluvial_pasajeros:52,unique_candidate
+56,173,Cootranspiñuña,Puerto Asis,La Rosa,1,rutas_fluvial_pasajeros:15,unique_candidate
+57,169,Cootranspalma,Puerto Limon,Puerto Zapote,1,rutas_fluvial_pasajeros:16,unique_candidate
+58,631,ZAMBRANO_LTDA,Puerto Perales,Puerto Boyacá,1,rutas_fluvial_turismo:417,unique_candidate
+59,193,Cootranspuerto Asis LTDA,Puerto Asis,Puerto Bello,1,rutas_fluvial_pasajeros:55,unique_candidate
+60,63,Casuaro Tours SAS,Casuarito,Dagua,1,rutas_fluvial_turismo:339,unique_candidate
+61,172,Cootranspiñuña,Puerto Asis,La Piña,1,rutas_fluvial_pasajeros:57,unique_candidate
+62,262,La Giganteña empresa asociativa de trabajo,,,0,,unmatched
+63,243,La Cabrera S.A.S,Corregimiento Conchita,Magangué,2,rutas_fluvial_pasajeros:29 | rutas_fluvial_pasajeros:117,ambiguous
+64,263,Guadacol Diseños y Construcciones SAS,Villapinzon,Girardot,2,rutas_fluvial_pasajeros:59 | rutas_fluvial_pasajeros:267,ambiguous
+65,3,Aguas Abiertas SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:280,unique_candidate
+66,80,Coomultramag,Yati,La Bodega,1,rutas_fluvial_pasajeros:100,unique_candidate
+67,265,Guatape Aventura SAS,Circular embalse,Circular embalse,2,rutas_fluvial_turismo:292 | rutas_fluvial_turismo:335,ambiguous
+68,498,TRANSFLUVIALES CAQUETA S.A.S.,Puerto Leguizamo,Estrechos,1,rutas_fluvial_pasajeros:60,unique_candidate
+69,266,Guatape Aventura SAS,Vereda La Piedra,El Peñol Guatape,2,rutas_fluvial_turismo:303 | rutas_fluvial_turismo:467,ambiguous
+70,500,TRANSFLUVIALES CAQUETA S.A.S.,Solano,Araracuara,1,rutas_fluvial_pasajeros:61,unique_candidate
+71,247,Transporte La Represa S.A.S,Puerto de la Cruz,Cascada del amor,1,rutas_fluvial_turismo:307,unique_candidate
+72,518,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ S.A.S.,Turbo,Riosucio,0,,unmatched
+73,9,Angulo Lopez Jesus Arnulfo,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:298,unique_candidate
+74,538,Transmaryrio,Turbo,Brisas,1,rutas_fluvial_pasajeros:66,unique_candidate
+75,10,Aqualago LTDA,Circular laguna,Circular laguna,1,rutas_fluvial_turismo:301,unique_candidate
+76,81,Coomultramag,Magangue,La Bodega,1,rutas_fluvial_pasajeros:79,unique_candidate
+77,534,Transmaryrio,Turbo,Bellavista,1,rutas_fluvial_pasajeros:67,unique_candidate
+78,50,Astrawil,Cantagallo,Puerto Wilches,1,rutas_fluvial_pasajeros:12,unique_candidate
+79,419,SERVICIOS FLUVIALES DE PRADO S.A. - SERVIFLUPRADO,Puerto,Cascada del amor,3,rutas_fluvial_turismo:341 | rutas_fluvial_turismo:389 | rutas_fluvial_turismo:390,ambiguous
+80,152,Cootransflumar,Turbo,Santa Maria,1,rutas_fluvial_pasajeros:74,unique_candidate
+81,5,Aguatour JJ SAS,"La Jagua, Garzon",Embalse de Betania,1,rutas_fluvial_pasajeros:71,unique_candidate
+82,4,Aguatapé SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:286,unique_candidate
+83,537,Transmaryrio,Murindó,Brisas,1,rutas_fluvial_pasajeros:78,unique_candidate
+84,1,Asociación de Botes de Guatape ABOGUA,Circular embalse Peñol,Circular embalse Peñol,1,rutas_fluvial_turismo:308,unique_candidate
+85,2,Adan Rodriguez Rojas,Puerto Berrio,Farallones,1,rutas_fluvial_pasajeros:68,unique_candidate
+86,421,SERVICIOS FLUVIALES DE PRADO S.A. - SERVIFLUPRADO,Puerto,Cascada del amor,3,rutas_fluvial_turismo:341 | rutas_fluvial_turismo:389 | rutas_fluvial_turismo:390,ambiguous
+87,11,Aquapark Guatape SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:306,unique_candidate
+88,12,Aquatour Guatape SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:294,unique_candidate
+89,13,Transportes Aquaviarios de Colombia SAS,Barranquilla,Puente Laureano Goméz,1,rutas_fluvial_turismo:302,unique_candidate
+90,14,Transportes Aquaviarios de Colombia SAS,Cartagena,Calamar,1,rutas_fluvial_turismo:312,unique_candidate
+91,15,Transportes Aquaviarios de Colombia SAS,Barranquilla,Cartagena,1,rutas_fluvial_turismo:313,unique_candidate
+92,16,Transportes Aquaviarios de Colombia SAS,Circular laguna,Circular laguna,1,rutas_fluvial_turismo:314,unique_candidate
+93,55,Barcasas y yates de Colombia SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:325,unique_candidate
+94,17,Transportes Aquaviarios de Colombia SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:315,unique_candidate
+95,18,Transportes Aquaviarios de Colombia SAS,Monteria,San Bernardo del Viento,1,rutas_fluvial_turismo:318,unique_candidate
+96,20,Transportes Arvicaz SAS,Magangue,El Retiro,1,rutas_fluvial_pasajeros:72,unique_candidate
+97,19,Aristizabal Villegas Oscar Augusto,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:319,unique_candidate
+98,21,Asocanoas,Cartagena del Chaira,Pore,1,rutas_fluvial_pasajeros:73,unique_candidate
+99,22,Asocanoas,Cartagena del Chaira,Betania,1,rutas_fluvial_pasajeros:81,unique_candidate
+100,23,Asocanoas,Cartagena del Chaira,Cristales,1,rutas_fluvial_pasajeros:32,unique_candidate
+101,24,Asocanoas,Cartagena del Chaira,Santo Domingo,1,rutas_fluvial_pasajeros:83,unique_candidate
+102,25,Asocanoas,Cartagena del Chaira,La Tagua,1,rutas_fluvial_pasajeros:84,unique_candidate
+103,26,Asoflutota,Circular laguna,Circular laguna,1,rutas_fluvial_turismo:300,unique_candidate
+104,27,Asofluvial,Puerto La Gaitana,Embarcadero Parque isla,1,rutas_fluvial_turismo:304,unique_candidate
+105,28,Asofluvial,Puerto La Gaitana,Puente Santander,1,rutas_fluvial_turismo:305,unique_candidate
+106,29,Asofluvial,Puerto La Gaitana,Bavaria,1,rutas_fluvial_turismo:309,unique_candidate
+107,30,Asofluvial,Puerto La Gaitana,Los Dujos,1,rutas_fluvial_turismo:310,unique_candidate
+108,59,Calimarina,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:326,unique_candidate
+109,31,Asofluvial,Puerto La Gaitana,Puerto el Pata,1,rutas_fluvial_turismo:322,unique_candidate
+110,34,Asolago Tota SAS,Circular laguna,Circular laguna,1,rutas_fluvial_turismo:323,unique_candidate
+111,36,Asonagua,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:324,unique_candidate
+112,37,Asopaseros,Margen derecho rio Arari,Margen izquierdo rio Arari,1,rutas_fluvial_pasajeros:77,unique_candidate
+113,38,Asociación Asotaxi del caguan,Cartagena del Chaira,Puerto Rico,1,rutas_fluvial_pasajeros:85,unique_candidate
+114,72,Comfamiliar del Huila,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:328,unique_candidate
+115,39,Asociación Asotaxi del caguan,Cartagena del Chaira,San Vicente del Caguan,1,rutas_fluvial_pasajeros:86,unique_candidate
+116,40,Asociación Asotaxi del caguan,Cartagena del Chaira,Caserio de Cristales,1,rutas_fluvial_pasajeros:56,unique_candidate
+117,41,Asociación Asotaxi del caguan,Cartagena del Chaira,Inspección de Remolinos,1,rutas_fluvial_pasajeros:88,unique_candidate
+118,74,Coolancheros,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:329,unique_candidate
+119,167,Cootransmagdalena LTDA,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:330,unique_candidate
+120,42,Asociación Asotaxi del caguan,Cartagena del Chaira,Caserio Santo Domingo,1,rutas_fluvial_pasajeros:92,unique_candidate
+121,45,Asotranschaira,Cartagena del Chaira,Remolinos,1,rutas_fluvial_pasajeros:89,unique_candidate
+122,46,Asotranschaira,Cartagena del Chaira,Pores,1,rutas_fluvial_pasajeros:93,unique_candidate
+123,48,Asotransfluvial,Puerto Gamarra,Puerto Bolivar,1,rutas_fluvial_pasajeros:94,unique_candidate
+124,49,Astrapacape,El Peñon Bolivar,El Banco Magdalena,1,rutas_fluvial_pasajeros:95,unique_candidate
+125,190,Guatape Cruises SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:331,unique_candidate
+126,208,Echeverry Ramirez Cesar Augusto,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:332,unique_candidate
+127,210,Ecoterpe SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:333,unique_candidate
+128,231,Emturpe SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:282,unique_candidate
+129,265,Guatape Aventura SAS,Circular embalse,Circular embalse,2,rutas_fluvial_turismo:292 | rutas_fluvial_turismo:335,ambiguous
+130,268,Guatape Transport SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:290,unique_candidate
+131,270,Hermeza Gold SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:317,unique_candidate
+132,272,Asociacion de lancheros Hincapie,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:321,unique_candidate
+133,244,Faitur SAS,Circular laguna,Circular laguna,1,rutas_fluvial_turismo:327,unique_candidate
+134,233,Transportes especiales F.S.G SAS,Circular embalse,Circular embalse,1,rutas_fluvial_pasajeros:63,unique_candidate
+135,51,Astrawil,Vijagual,Puerto Wilches,1,rutas_fluvial_pasajeros:69,unique_candidate
+136,53,Aviajar SA,San Vicente de Chucuri,Embalse de Topocoro,1,rutas_fluvial_turismo:336,unique_candidate
+137,54,Aviatur SA,Amacayacu,Leticia,1,rutas_fluvial_turismo:337,unique_candidate
+138,56,Expreso Fluvial La Baudoseña SAS,Pizarro,Puerto Meluck,1,rutas_fluvial_pasajeros:97,unique_candidate
+139,58,Luis Orlando Bermeo Rojas,Puerto Arango,San Antonio,1,rutas_fluvial_pasajeros:98,unique_candidate
+140,413,"""AGENCIA DE VIAJE SELVATOUR S.A.S. """,Puerto Nariño,Isla de los Micos,1,rutas_fluvial_turismo:406,unique_candidate
+141,64,Casuaro Tours SAS,Casuarito,Hormiga,1,rutas_fluvial_turismo:340,unique_candidate
+142,65,Casuaro Tours SAS,Casuarito,Puerto Carreño,1,rutas_fluvial_turismo:342,unique_candidate
+143,66,Casuaro Tours SAS,Casuarito,Isla Santa Helena,1,rutas_fluvial_turismo:343,unique_candidate
+144,67,Casuaro Tours SAS,Casuarito,Rio Vita,1,rutas_fluvial_turismo:320,unique_candidate
+145,70,Cosme Madariaga Oses y CIA LTDA,Barrancabermeja,Casabe,1,rutas_fluvial_pasajeros:99,unique_candidate
+146,75,Coomfluviatur,Muelle oficial de Barrancabermeja,Cienaga del chucuri,1,rutas_fluvial_turismo:334,unique_candidate
+147,76,Coomfluviatur,Muelle oficial de Barrancabermeja,Corregimiento El Llanito,1,rutas_fluvial_turismo:281,unique_candidate
+148,77,Coomoturam,Leticia,Isla de los Micos,1,rutas_fluvial_turismo:288,unique_candidate
+149,78,Coomoturam,Leticia,Lago de Tarapoto,1,rutas_fluvial_turismo:316,unique_candidate
+150,84,Coomutravi,Puerto Carreño,Cazuarito,1,rutas_fluvial_turismo:344,unique_candidate
+151,86,Coopetransfluvial,Puerto Boyaca,Puerto Perales,1,rutas_fluvial_pasajeros:82,unique_candidate
+152,89,Cootranflucan,Caucasia,Nechi,1,rutas_fluvial_pasajeros:87,unique_candidate
+153,90,Cootranflucan,Nechi,Colorado,1,rutas_fluvial_pasajeros:90,unique_candidate
+154,92,Cootranflucan,Nechi,Montecristo,1,rutas_fluvial_pasajeros:91,unique_candidate
+155,93,Cootranflucap,El Banco,Barranco de Loba,0,,unmatched
+156,94,Cootranflucap,Los Cerritos,El Banco,0,,unmatched
+157,96,Cootranflucap,Altos del rosario,El Banco,0,,unmatched
+158,98,Cootranflucap,Las Minas Santa Cruz,El Banco,0,,unmatched
+159,101,Cootranflucap,El Pozon,El Banco,0,,unmatched
+160,414,"""AGENCIA DE VIAJE SELVATOUR S.A.S. """,Puerto Nariño,Comunidad de Yaguas,1,rutas_fluvial_turismo:407,unique_candidate
+161,102,Cootranflucap,Palenquito,El Banco,0,,unmatched
+162,103,Cootranflucap,La Victoria,El Banco,0,,unmatched
+163,104,Cootraflumag,El Banco,Magangue,0,,unmatched
+164,105,Cootraflumag,El Banco,Tamalameque,0,,unmatched
+165,106,Cootraflumag,El Banco,Mompox,0,,unmatched
+166,107,Cootrafluvsuc,Guaranda,Magangue,1,rutas_fluvial_pasajeros:111,unique_candidate
+167,108,Cootrafluvsuc,Achi,Magangue,1,rutas_fluvial_pasajeros:112,unique_candidate
+168,109,Cootrafluvsuc,Tres Cruces,Magangue,1,rutas_fluvial_pasajeros:113,unique_candidate
+169,112,Cootrafluvsuc,Guaranda,Nechi,1,rutas_fluvial_pasajeros:114,unique_candidate
+170,113,Cootrafluvsuc,Nechi,Tenche,1,rutas_fluvial_pasajeros:115,unique_candidate
+171,118,Cootrafluvsuc,Guaranda,San Jacinto del Cauca,1,rutas_fluvial_pasajeros:53,unique_candidate
+172,119,Cootragam,Gamarra,Cerro Burgos,1,rutas_fluvial_pasajeros:116,unique_candidate
+173,234,IBIZA GUATAPE S.A.S.,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:345,unique_candidate
+174,237,Náutica SAS,Circular Embalse,Circular Embalse,2,rutas_fluvial_turismo:346 | rutas_fluvial_turismo:347,ambiguous
+175,237,Náutica SAS,Circular Embalse,Circular Embalse,2,rutas_fluvial_turismo:346 | rutas_fluvial_turismo:347,ambiguous
+176,275,TRANSPORTE FLUVIAL LOS CARDONA S.A.S.,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:348,unique_candidate
+177,286,Luxury Yates Guatapé,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:349,unique_candidate
+178,290,TRANSPORTES MAJESTIC S.A.S.,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:350,unique_candidate
+179,304,NAUTICA GUATAPÉ S.A.S,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:352,unique_candidate
+180,322,Naves & Navieras SAS,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:353,unique_candidate
+181,336,SOCIEDAD FLUVIAL PORTO AZUL S.A.S.,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:354,unique_candidate
+182,348,REGATA S.A.S.,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:355,unique_candidate
+183,380,JAIRO LEÓN ROJAS MUÑOZ,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:356,unique_candidate
+184,381,SERVICIOS Y LOGISTICA FLUVIAL S.A.S –S Y L FLUVI,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:357,unique_candidate
+185,382,"S&l Catering, Producción y Mobiliario SAS",Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:358,unique_candidate
+186,422,SERVICIOS FLUVIALES DE PRADO S.A. - SERVIFLUPRADO,Puerto,Río Cunday,1,rutas_fluvial_turismo:391,unique_candidate
+187,465,THE BEST GUATAPÉ TOURS SAS,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:360,unique_candidate
+188,238,JOSE JORGE CABRERA QUINTERO,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:361,unique_candidate
+189,342,ANFIBIA TRANSPORTES FLUVIAL Y TERRESTRE S.A.S.,Circular Embalse,Circular Embalse,1,rutas_fluvial_pasajeros:101,unique_candidate
+190,246,Transporte La Represa SAS,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:362,unique_candidate
+191,282,Empresa de Transportes Lusitania,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:363,unique_candidate
+192,454,TRANSPORTES FLUVIALES DEL RIO SOGAMOSO S.A.S.,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:364,unique_candidate
+193,463,TRANSPORTES FLUVIALES DEL RIO SOGAMOSO S.A.S. - TR,Puerto El Tablazo,San Vicente de Chucurí,1,rutas_fluvial_turismo:365,unique_candidate
+194,554,Empresa de Transportes Lebrija LTDA,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:366,unique_candidate
+195,559,Transportur SAS,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:367,unique_candidate
+196,487,Transportes Amazónicos E.U,Leticia,Puerto Nariño,1,rutas_fluvial_pasajeros:75,unique_candidate
+197,313,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,Circular Embalse,Circular Embalse,2,rutas_fluvial_turismo:369 | rutas_fluvial_turismo:372,ambiguous
+198,428,Gómez Valencia Soranny,Circular Embalse,Circular Embalse,1,rutas_fluvial_turismo:370,unique_candidate
+199,242,La Amistad Gigante S.A.S,Pericongo,Honda,1,rutas_fluvial_turismo:378,unique_candidate
+200,323,EMPRESA ASOCIATIVA DE TRABAJO NAVIERA DE TRANSPORT,La Punta,Hobo,1,rutas_fluvial_turismo:371,unique_candidate
+201,590,Transporte y Aventura en el Lago de Tota SAS,Hotel Rocas Lindas,Isla San Pedro,1,rutas_fluvial_turismo:445,unique_candidate
+202,305,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,Circular Embalse,Circular Embalse,2,rutas_fluvial_turismo:369 | rutas_fluvial_turismo:372,ambiguous
+203,311,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,Palmas,San Pedro 1,1,rutas_fluvial_pasajeros:107,unique_candidate
+204,310,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,Palmas,Santa Bárbara,1,rutas_fluvial_pasajeros:108,unique_candidate
+205,312,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,Palmas,Rumichaca,1,rutas_fluvial_pasajeros:109,unique_candidate
+206,314,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,Norcasia/ Moscovita,Confines,1,rutas_fluvial_turismo:373,unique_candidate
+207,316,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,Norcasia/ Moscovita,Mirador,1,rutas_fluvial_turismo:374,unique_candidate
+208,317,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,Norcasia/ Moscovita,Confines nuevos,1,rutas_fluvial_turismo:375,unique_candidate
+209,331,OSORIO OCAMPO GUELMER DE JESUS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:380,unique_candidate
+210,338,Poveda Poveda Jose Antonio,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:368,unique_candidate
+211,236,Arcos de Playa Blanca,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:377,unique_candidate
+212,274,Logística E.P Asesorías e Inversiones SAS,Circular Lago,Circular Lago,1,rutas_fluvial_turismo:381,unique_candidate
+213,319,COMPAÑÍA NAVIERA DEL GUAVIO LTDA,El Bombillo,Puerto la Bruja,1,rutas_fluvial_pasajeros:9,unique_candidate
+214,339,Nautica Pozo Azul SAS,Muelle Hotel Refugio Pozo Azul,Playa Blanca Laguna de Tota,1,rutas_fluvial_turismo:382,unique_candidate
+215,303,MOORE PANTOJA RAMIRO,Leticia,Lagos de Boiauazu-CI San Juan de Atacuarí,1,rutas_fluvial_turismo:404,unique_candidate
+216,425,SINERGIA FLUVIAL S.A.S.,Circular Lago,Circular Lago,1,rutas_fluvial_turismo:383,unique_candidate
+217,569,Transportes Nauticos de Carga y Recreativos PRADOM,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:384,unique_candidate
+218,522,Transmarinos SAS,Puerto,Aco,1,rutas_fluvial_turismo:385,unique_candidate
+219,523,Transmarinos SAS,Puerto,Lozanía,1,rutas_fluvial_turismo:386,unique_candidate
+220,524,Transmarinos SAS,Puerto,Cascada del amor,1,rutas_fluvial_turismo:379,unique_candidate
+221,525,Transmarinos SAS,Puerto,Islas,1,rutas_fluvial_turismo:289,unique_candidate
+222,529,Transmarinos SAS,Puerto,Rio Cunday,1,rutas_fluvial_turismo:351,unique_candidate
+223,530,Transmarinos SAS,Puerto,Rio Negro,1,rutas_fluvial_turismo:376,unique_candidate
+224,532,Transmarinos SAS,Natagaima,Honda,1,rutas_fluvial_turismo:387,unique_candidate
+225,521,Transmarinos SAS,Puerto,Tomogo,1,rutas_fluvial_turismo:388,unique_candidate
+226,417,SERVICIOS FLUVIALES DE PRADO S.A. - SERVIFLUPRADO,Puerto,Cascada del amor,3,rutas_fluvial_turismo:341 | rutas_fluvial_turismo:389 | rutas_fluvial_turismo:390,ambiguous
+227,418,SERVICIOS FLUVIALES DE PRADO S.A. - SERVIFLUPRADO,Puerto,Islas,1,rutas_fluvial_turismo:359,unique_candidate
+228,424,SERVICIOS FLUVIALES DE PRADO S.A. - SERVIFLUPRADO,Natagaima,Honda,1,rutas_fluvial_turismo:395,unique_candidate
+229,241,Transporte Fluvial de Pasajeros La Llovizna,La Reinera,Puertos Lleras,1,rutas_fluvial_pasajeros:26,unique_candidate
+230,243,La Cabrera S.A.S,Corregimiento Conchita,Magangué,2,rutas_fluvial_pasajeros:29 | rutas_fluvial_pasajeros:117,ambiguous
+231,268,Lineas Amazónicas II EU,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:396,unique_candidate
+232,267,Lineas Amazónicas II EU,Leticia,Puerto Nariño,1,rutas_fluvial_pasajeros:64,unique_candidate
+233,269,Lineas Amazónicas II EU,Leticia,Lagos de Yahuarcaca,1,rutas_fluvial_turismo:397,unique_candidate
+234,296,MOORE PANTOJA RAMIRO,Leticia,Victoria Regia,1,rutas_fluvial_turismo:398,unique_candidate
+235,298,MOORE PANTOJA RAMIRO,Leticia,Isla Santa Rosa,1,rutas_fluvial_turismo:399,unique_candidate
+236,300,MOORE PANTOJA RAMIRO,Leticia,Isla de los Micos,1,rutas_fluvial_turismo:400,unique_candidate
+237,301,MOORE PANTOJA RAMIRO,Leticia,Lago Tarapoto-Puerto Nariño,1,rutas_fluvial_turismo:402,unique_candidate
+238,302,MOORE PANTOJA RAMIRO,Leticia,Lago Yagahuarca- San Antonio de los Lagos,1,rutas_fluvial_turismo:403,unique_candidate
+239,501,"""TRANSPORTE FLUVIAL DEL AMAZONAS S.A.S. – TRANSF",Leticia,Puerto Nariño,0,,unmatched
+240,502,"""TRANSPORTE FLUVIAL DEL AMAZONAS S.A.S. – TRANSF",Leticia,Lago Tarapoto-Puerto Nariño,0,,unmatched
+241,503,"""TRANSPORTE FLUVIAL DEL AMAZONAS S.A.S. – TRANSF",Leticia,Lago Yagahuarca- San Antonio de los Lagos,0,,unmatched
+242,504,"""TRANSPORTE FLUVIAL DEL AMAZONAS S.A.S. – TRANSF",Leticia,Lago de Boiauazu - San Juan de Atacuarí,0,,unmatched
+243,325,Transnuevo Lloró SAS,Lloró,Guaitado,1,rutas_fluvial_pasajeros:119,unique_candidate
+244,327,900408054-5,Lloró,Villa Claret,1,rutas_fluvial_pasajeros:123,unique_candidate
+245,329,Transnuevo Lloró SAS,La Vuelta,Lloró,1,rutas_fluvial_pasajeros:124,unique_candidate
+246,328,Transnuevo Lloró SAS,La Vuelta,Quibdó,1,rutas_fluvial_pasajeros:125,unique_candidate
+247,330,Transnuevo Lloró SAS,Lloró,Quibdó,1,rutas_fluvial_pasajeros:30,unique_candidate
+248,469,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Turbo,Quibdó,0,,unmatched
+249,475,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Quibdó,Paimado,0,,unmatched
+250,476,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Quibdó,San Isidro,0,,unmatched
+251,473,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Choco,Unguía,0,,unmatched
+252,470,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Turbo,Unguía,0,,unmatched
+253,471,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Turbo,Tanela,0,,unmatched
+254,472,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Turbo,Santa Maria,0,,unmatched
+255,477,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Quibdó,Lloró,0,,unmatched
+256,478,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Quibdó,Yuto,0,,unmatched
+257,474,"""TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Quibdó,Vigía del Fuerte,0,,unmatched
+258,1000,Asociación de Botes de Guatape ABOGUA,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:393,unique_candidate
+259,245,Transporte La Piragua E.A.T,Circular lago,Circular lago,0,,unmatched
+260,251,Transfluvial La Rivereña,Bocas de Barbacoas,Puerto Berrio,1,rutas_fluvial_pasajeros:134,unique_candidate
+261,639,ZARPE NAUTICO,Malecón Guatapé,Embalse El Peñol,1,rutas_fluvial_turismo:409,unique_candidate
+262,638,ZAMORENA,Barrancabermeja,Ciénaga de Barbacoas,1,rutas_fluvial_turismo:410,unique_candidate
+263,637,ZAMORENA,Barrancabermeja,Ciénaga de Chucurí,1,rutas_fluvial_turismo:411,unique_candidate
+264,153,Cootransfluremo,Remolino,Sabanagrande,1,rutas_fluvial_pasajeros:10,unique_candidate
+265,253,Transporte y Mensajeria Las Mercedes,Quibdó,Turbo,1,rutas_fluvial_pasajeros:138,unique_candidate
+266,254,Transporte y Mensajeria Las Mercedes,Turbo,Unguía,1,rutas_fluvial_pasajeros:139,unique_candidate
+267,255,Expreso Las Sacas S.A.S,Condoto,Novita,0,,unmatched
+268,256,Lineas Fluviales Del Vichada,Puerto Gaitán,La Primavera,1,rutas_fluvial_pasajeros:141,unique_candidate
+269,257,Lineas Fluviales Del Vichada,Puerto Gaitán,Puerto Carreño,1,rutas_fluvial_pasajeros:135,unique_candidate
+270,258,Lineas Fluviales Del Vichada,La Primavera,Puerto Carreño,1,rutas_fluvial_pasajeros:137,unique_candidate
+271,259,EXPRESO LIBERTADOR LIMITADA,Puerto Rosario,Solano,1,rutas_fluvial_pasajeros:142,unique_candidate
+272,260,EXPRESO LIBERTADOR LIMITADA,Puerto Rosario,Solita,2,rutas_fluvial_pasajeros:145 | rutas_fluvial_pasajeros:155,ambiguous
+273,261,EXPRESO LIBERTADOR LIMITADA,Puerto Rosario,Curillo,1,rutas_fluvial_pasajeros:146,unique_candidate
+274,636,ZAMORENA,Barrancabermeja,Ciénaga de Opón,1,rutas_fluvial_turismo:412,unique_candidate
+275,154,Cootransflusi,Sitionuevo,Sabanagrande,1,rutas_fluvial_pasajeros:80,unique_candidate
+276,495,TRANSFLUVIALES CAQUETA S.A.S.,Puerto Asís,Puerto Leguizamo,1,rutas_fluvial_pasajeros:147,unique_candidate
+277,155,Cootransfluter,Rio Viejo,La Gloria,1,rutas_fluvial_pasajeros:136,unique_candidate
+278,499,TRANSFLUVIALES CAQUETA S.A.S.,Puerto Arango,Solano,1,rutas_fluvial_pasajeros:152,unique_candidate
+279,519,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Turbo,Unguía,1,rutas_fluvial_pasajeros:153,unique_candidate
+280,520,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Turbo,Tanela,1,rutas_fluvial_pasajeros:151,unique_candidate
+281,635,ZAMORENA,Barrancabermeja,Las Carmelitas,1,rutas_fluvial_turismo:413,unique_candidate
+282,156,Cootransfluter,Rio Viejo,El Banco,1,rutas_fluvial_pasajeros:156,unique_candidate
+283,264,EXPRESO LIBERTADOR LIMITADA,Puerto Rosario,Solita,2,rutas_fluvial_pasajeros:145 | rutas_fluvial_pasajeros:155,ambiguous
+284,281,Empresa de Transportes Lusitania SAS,Puerto Wilches,San Pablo,2,rutas_fluvial_turismo:408 | rutas_fluvial_turismo:493,ambiguous
+285,291,"Transporte Fluvial, Maritimo y Ecológico del Baud",Pizarro,Puerto Meluk,2,rutas_fluvial_pasajeros:159 | rutas_fluvial_pasajeros:268,ambiguous
+286,632,ZAMBRANO_LTDA,Campo Jazmín,Campo Nare SUR,1,rutas_fluvial_turismo:416,unique_candidate
+287,120,Cootragam,Gamarra,Barrancabermeja,1,rutas_fluvial_pasajeros:160,unique_candidate
+288,121,Cootragam,Gamarra,El Banco,1,rutas_fluvial_pasajeros:143,unique_candidate
+289,122,Cootragam,Simiti,Barrancabermeja,1,rutas_fluvial_pasajeros:144,unique_candidate
+290,123,Cootragam,Vijagual,Cerro Burgos,1,rutas_fluvial_pasajeros:148,unique_candidate
+291,124,Cootragam,Gamarra,Vijagual,1,rutas_fluvial_pasajeros:149,unique_candidate
+292,125,Cootraimag,Magangue,El Banco,1,rutas_fluvial_pasajeros:154,unique_candidate
+293,126,Cootraimag,Magangue,Guaranda,1,rutas_fluvial_pasajeros:150,unique_candidate
+294,634,ZAMORENA,Barrancabermeja,Ciénaga El Llanito,1,rutas_fluvial_turismo:414,unique_candidate
+295,633,ZAMORENA,Barrancabermeja,Quebrada Yanacué,1,rutas_fluvial_turismo:415,unique_candidate
+296,630,VIP_GUATAPE,Malecón Guatapé,Embalse El Peñol,1,rutas_fluvial_turismo:418,unique_candidate
+297,292,"Transporte Fluvial, Maritimo y Ecológico del Baud",Pie de Pato,Puerto Meluk,2,rutas_fluvial_pasajeros:163 | rutas_fluvial_pasajeros:269,ambiguous
+298,127,Cootraimag,Magangue,Puerto Lopez,1,rutas_fluvial_pasajeros:164,unique_candidate
+299,128,Cootraimag,Magangue,Pinillos,1,rutas_fluvial_pasajeros:165,unique_candidate
+300,129,Cootraimag,Magangue,Palomino,1,rutas_fluvial_pasajeros:166,unique_candidate
+301,157,Cootransfluter,La Gloria,Buenavista,1,rutas_fluvial_pasajeros:161,unique_candidate
+302,130,Cootraimag,Magangue,Tiquisio,2,rutas_fluvial_pasajeros:157 | rutas_fluvial_pasajeros:167,ambiguous
+303,131,Cootraimag,Magangue,Tiquisio,2,rutas_fluvial_pasajeros:157 | rutas_fluvial_pasajeros:167,ambiguous
+304,132,Cootraimag,Magangue,Barrancabermeja,1,rutas_fluvial_pasajeros:169,unique_candidate
+305,134,Cootraimag,Magangue,Majagual,1,rutas_fluvial_pasajeros:170,unique_candidate
+306,136,Cootraimag,Magangue,Armenia,1,rutas_fluvial_pasajeros:162,unique_candidate
+307,137,Cootraimag,Magangue,Sucre,1,rutas_fluvial_pasajeros:171,unique_candidate
+308,139,Cootranechi,El Bagre,Nechi,1,rutas_fluvial_pasajeros:172,unique_candidate
+309,140,Cootranechi,El Bagre,Zaragoza,1,rutas_fluvial_pasajeros:173,unique_candidate
+310,141,Cootranechi,El Bagre,Cuturu,1,rutas_fluvial_pasajeros:174,unique_candidate
+311,142,Cootranechi,El Bagre,Puerto Claver,1,rutas_fluvial_pasajeros:175,unique_candidate
+312,146,Cootransflucan LTDA,Cantagallo,Puerto Wilches,1,rutas_fluvial_pasajeros:176,unique_candidate
+313,158,Cootransfluviales,Barrancabermeja,El Banco,1,rutas_fluvial_pasajeros:182,unique_candidate
+314,147,Cootransflumar,Turbo,Quibdo,1,rutas_fluvial_pasajeros:180,unique_candidate
+315,149,Cootransflumar,Turbo,Vigia del Fuerte,1,rutas_fluvial_pasajeros:179,unique_candidate
+316,150,Cootransflumar,Turbo,Riosucio,1,rutas_fluvial_pasajeros:177,unique_candidate
+317,151,Cootransflumar,Turbo,Unguia,1,rutas_fluvial_pasajeros:181,unique_candidate
+318,159,Cootransfluviales,Barrancabermeja,Gamarra,1,rutas_fluvial_pasajeros:183,unique_candidate
+319,160,Cootransfluviales,Barrancabermeja,Puerto Berrio,1,rutas_fluvial_pasajeros:184,unique_candidate
+320,161,Cootransfluviales,Barrancabermeja,San Pablo,1,rutas_fluvial_pasajeros:185,unique_candidate
+321,162,Cootransfluviales,Barrancabermeja,Simiti,1,rutas_fluvial_pasajeros:186,unique_candidate
+322,163,Cootransfluviales,Barrancabermeja,Cantagallo,1,rutas_fluvial_pasajeros:187,unique_candidate
+323,164,Cootransfluviales,Barrancabermeja,Cerro Burgos,1,rutas_fluvial_pasajeros:168,unique_candidate
+324,165,Cootransfluviales,Barrancabermeja,San Rafael de Chucuri,1,rutas_fluvial_pasajeros:188,unique_candidate
+325,166,Cootransfluviales,Puerto Wilches,San Pablo,1,rutas_fluvial_pasajeros:189,unique_candidate
+326,168,Cootransmor,Puerto Morales,Puerto Moralito,1,rutas_fluvial_turismo:293,unique_candidate
+327,185,Coromoto SAS,La Primavera,Puerto Carreño,1,rutas_fluvial_pasajeros:197,unique_candidate
+328,170,Cootranspiñuña,Puerto Asis,Leguizamo,1,rutas_fluvial_pasajeros:190,unique_candidate
+329,176,Cootransunidos,Zaragoza,Pato,1,rutas_fluvial_pasajeros:191,unique_candidate
+330,178,Cootransunidos,Zaragoza,Charcon,1,rutas_fluvial_pasajeros:192,unique_candidate
+331,183,Coromoto SAS,Puerto Gaitan,La Primavera,1,rutas_fluvial_pasajeros:193,unique_candidate
+332,184,Coromoto SAS,Puerto Gaitan,Puerto Carreño,1,rutas_fluvial_pasajeros:196,unique_candidate
+333,188,Cortures,Puerto Moscovita,Rio Moro,1,rutas_fluvial_turismo:394,unique_candidate
+334,191,Cootranspuerto Asis LTDA,Puerto Asis,Puerto Legizamo,1,rutas_fluvial_pasajeros:201,unique_candidate
+335,192,Cootranspuerto Asis LTDA,Puerto Asis,Puerto Ospina,1,rutas_fluvial_pasajeros:202,unique_candidate
+336,199,Cootranspuerto Asis LTDA,Puerto Asis,Piñoña Blanco,1,rutas_fluvial_pasajeros:203,unique_candidate
+337,200,Empresa Transportadores del Pacifico SAS,Paimado,Quibdo,1,rutas_fluvial_pasajeros:204,unique_candidate
+338,202,Empresa Transportadores del Pacifico SAS,Paimado,Lloro,1,rutas_fluvial_pasajeros:205,unique_candidate
+339,203,Empresa de Transporte Fluvial del Putumayo LTDA,Hong Kong,Puerto Vega,1,rutas_fluvial_pasajeros:194,unique_candidate
+340,206,Transportes Fluvial Diaz Albornoz SAS,Puerto Serviez,La Sierra,1,rutas_fluvial_pasajeros:211,unique_candidate
+341,209,Ecootransvias LTDA,Puerto Asis (Hong Kong),Puerto Vega,1,rutas_fluvial_pasajeros:212,unique_candidate
+342,211,Transporte Fluvial El Boral SAS,Puerto Gaitan,Desembocadura del Rio Manacacias en el Rio Meta,1,rutas_fluvial_turismo:419,unique_candidate
+343,204,Expreso Fluvial Diana SAS,Pizarro,Puerto Meluck,1,rutas_fluvial_pasajeros:206,unique_candidate
+344,205,Expreso Fluvial Diana SAS,Pie de Pato,Puerto Meluck,1,rutas_fluvial_pasajeros:210,unique_candidate
+345,212,Transporte Fluvial El Boral SAS,Puerto Gaitan,Desembocadura del Rio Yucao en el Rio Meta,1,rutas_fluvial_turismo:420,unique_candidate
+346,216,Transportes El Panseguita SAS,Travesia,Magangue,1,rutas_fluvial_pasajeros:198,unique_candidate
+347,217,Transportes El Panseguita SAS,Pampanilla,Magangue,1,rutas_fluvial_pasajeros:207,unique_candidate
+348,220,Transportes El Panseguita SAS,Sucre,Puerto Franco,1,rutas_fluvial_pasajeros:208,unique_candidate
+349,221,Cooperativa de transportadores fluviales y terrest,San Jose del Guaviare,Cachicamo,1,rutas_fluvial_pasajeros:214,unique_candidate
+350,222,Cooperativa de transportadores fluviales y terrest,San Jose del Guaviare,Raudal Mapiripan,1,rutas_fluvial_pasajeros:215,unique_candidate
+351,623,VIASOTRAN,Nechí,Quebrada San Pedro,1,rutas_fluvial_turismo:421,unique_candidate
+352,622,VIASOTRAN,Nechí,Tenché,1,rutas_fluvial_turismo:422,unique_candidate
+353,621,Turivan SAS,Honda,Puerto Triunfo,1,rutas_fluvial_turismo:423,unique_candidate
+354,620,Turivan SAS,Honda,Ambalema,1,rutas_fluvial_turismo:425,unique_candidate
+355,619,Turivan SAS,Honda,Cambao,1,rutas_fluvial_turismo:426,unique_candidate
+356,618,Turivan SAS,Honda,Dorada,1,rutas_fluvial_turismo:427,unique_candidate
+357,616,Turisroca SAS,Playa Blanca,Isla San Pedro,1,rutas_fluvial_turismo:428,unique_candidate
+358,615,Turisroca SAS,Playa Blanca,Península de Daitó,1,rutas_fluvial_turismo:429,unique_candidate
+359,614,Turisroca SAS,Playa Blanca,Donsiquira,1,rutas_fluvial_turismo:430,unique_candidate
+360,613,TRANSPORTE FLUVIAL ESPECIAL Y DE TURISMO DEL CHOCO,Quibdó,Paimadó,1,rutas_fluvial_turismo:431,unique_candidate
+361,612,TRANSPORTE FLUVIAL ESPECIAL Y DE TURISMO DEL CHOCO,Quibdó,Beté,1,rutas_fluvial_turismo:432,unique_candidate
+362,611,Tures Playa II FR SAS,Playa Blanca,Isla Cerro Chico,1,rutas_fluvial_turismo:433,unique_candidate
+363,610,Tures Playa II FR SAS,Playa Blanca,Isla Santa Helena,1,rutas_fluvial_turismo:434,unique_candidate
+364,609,Tures Playa II FR SAS,Playa Blanca,Isla San Pedro,1,rutas_fluvial_turismo:435,unique_candidate
+365,608,Tures Playa II FR SAS,Playa Blanca,Los Arcos,1,rutas_fluvial_turismo:436,unique_candidate
+366,607,Tuplan Guatapé SAS,Muelle Sabana,Zona Camping,1,rutas_fluvial_turismo:437,unique_candidate
+367,606,Tuplan Guatapé SAS,Muelle Sabana,Muelle Casa Museo,1,rutas_fluvial_turismo:438,unique_candidate
+368,604,Tuplan Guatapé SAS,Muelle Sabana,Finca La Manuela,1,rutas_fluvial_turismo:401,unique_candidate
+369,603,Tuplan Guatapé SAS,Muelle Sabana,Muelle la Réplica,1,rutas_fluvial_turismo:424,unique_candidate
+370,602,Transfluvial Triunfo SAS,Puerto Triunfo,Puerto Nare,1,rutas_fluvial_turismo:439,unique_candidate
+371,600,Transfluvial Triunfo SAS,Puerto Triunfo,Puerto Boyacá,1,rutas_fluvial_turismo:440,unique_candidate
+372,599,Transfluvial Triunfo SAS,Puerto Triunfo,La Miel,1,rutas_fluvial_turismo:441,unique_candidate
+373,598,Expressos Unidos Tres Fronteras E.U.,Leticia,Lagos de Boiauazu,1,rutas_fluvial_pasajeros:216,unique_candidate
+374,597,Expressos Unidos Tres Fronteras E.U.,Leticia,San Antonio de los Lagos,2,rutas_fluvial_pasajeros:217 | rutas_fluvial_pasajeros:218,ambiguous
+375,597,Expressos Unidos Tres Fronteras E.U.,Leticia,San Antonio de los Lagos,2,rutas_fluvial_pasajeros:217 | rutas_fluvial_pasajeros:218,ambiguous
+376,596,Expressos Unidos Tres Fronteras E.U.,Leticia,Lago de Tarapoto,1,rutas_fluvial_pasajeros:219,unique_candidate
+377,594,Expressos Unidos Tres Fronteras E.U.,Leticia,Puerto Nariño,1,rutas_fluvial_pasajeros:220,unique_candidate
+378,593,Transporte y Aventura en el Lago de Tota SAS,Hotel Santa Inés,Playa Blanca,1,rutas_fluvial_turismo:442,unique_candidate
+379,592,Transporte y Aventura en el Lago de Tota SAS,Hotel Camino Real,Playa Blanca,1,rutas_fluvial_turismo:443,unique_candidate
+380,591,Transporte y Aventura en el Lago de Tota SAS,Hotel Rocas Lindas,Playa Blanca,1,rutas_fluvial_turismo:444,unique_candidate
+381,583,Transportes La Union & CIA. LTDA.,Magangué,Palenquito,1,rutas_fluvial_turismo:446,unique_candidate
+382,582,Transportes La Union & CIA. LTDA.,Magangué,Nueva Esperanza,1,rutas_fluvial_turismo:447,unique_candidate
+383,581,Transportes La Union & CIA. LTDA.,Magangué,Sucre,1,rutas_fluvial_turismo:448,unique_candidate
+384,580,Transportes La Union & CIA. LTDA.,Magangué,Río Nuevo,1,rutas_fluvial_turismo:449,unique_candidate
+385,579,Transportes La Union & CIA. LTDA.,Magangué,Travesía,1,rutas_fluvial_turismo:450,unique_candidate
+386,578,Transtopocoro SAS,Puerto Puente El Tablazo,La Cascada El Caracolí,1,rutas_fluvial_turismo:451,unique_candidate
+387,577,Transtopocoro SAS,Puerto Puente El Tablazo,Torres de Captación,1,rutas_fluvial_turismo:452,unique_candidate
+388,576,Transtopocoro SAS,Puerto Puente El Tablazo,Puente Betulia,1,rutas_fluvial_turismo:453,unique_candidate
+389,573,Transriomagdalena SAS,Gramalotal,La Popa,1,rutas_fluvial_turismo:454,unique_candidate
+390,572,Transriomagdalena SAS,Gramalotal,Paquitó,1,rutas_fluvial_turismo:455,unique_candidate
+391,571,Transriomagdalena SAS,Gramalotal,Ambalema,2,rutas_fluvial_turismo:456 | rutas_fluvial_turismo:457,ambiguous
+392,570,Transriomagdalena SAS,Gramalotal,Ambalema,2,rutas_fluvial_turismo:456 | rutas_fluvial_turismo:457,ambiguous
+393,552,Transportes del Mar SAS,Cartagena,Calamar,1,rutas_fluvial_pasajeros:158,unique_candidate
+394,551,Asiociación Transporcol,La Gloria,Regidor,1,rutas_fluvial_pasajeros:178,unique_candidate
+395,550,TRANSPORTADORA DEL SUR ORIENTE E.U. - TRANSO,Inírida,Cerros del Mavicure,1,rutas_fluvial_turismo:458,unique_candidate
+396,549,TRANSPORTADORA DEL SUR ORIENTE E.U. - TRANSO,Inírida,Barrancominas,1,rutas_fluvial_turismo:461,unique_candidate
+397,548,TRANSPORTADORA DEL SUR ORIENTE E.U. - TRANSO,Inírida,Cumaribo,1,rutas_fluvial_turismo:464,unique_candidate
+398,543,Transmaryrio,Turbo,Tanela,1,rutas_fluvial_pasajeros:222,unique_candidate
+399,542,Transmaryrio,Turbo,Ungía,1,rutas_fluvial_pasajeros:223,unique_candidate
+400,540,Transmaryrio,Turbo,Riosucio,1,rutas_fluvial_pasajeros:224,unique_candidate
+401,544,Transmaryrio,Turbo,Santa Maria,1,rutas_fluvial_pasajeros:225,unique_candidate
+402,535,Transmaryrio,Turbo,Vigía del Fuerte,1,rutas_fluvial_pasajeros:227,unique_candidate
+403,357,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Quibdó,Beté,1,rutas_fluvial_pasajeros:235,unique_candidate
+404,359,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Quibdó,Lloró,1,rutas_fluvial_pasajeros:221,unique_candidate
+405,360,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Quibdó,Paimado,1,rutas_fluvial_pasajeros:226,unique_candidate
+406,533,Transmaryrio,Turbo,Quibdó,1,rutas_fluvial_pasajeros:228,unique_candidate
+407,293,Marulapia SAS,Calamar,Bocas de Ceniza,1,rutas_fluvial_turismo:465,unique_candidate
+408,321,Naviera Agrominera de Colombia SAS,Magangue,Guaranda,2,rutas_fluvial_turismo:285 | rutas_fluvial_turismo:466,ambiguous
+409,334,Logística -Izaje- Transporte- Piedemont SAS,Puerto López,Puerto Carreño,1,rutas_fluvial_turismo:468,unique_candidate
+410,337,WILLIAM DE JESÚS POSADA LONDOÑO,Cartagena del Chairá,Santa Fe del Caguán,1,rutas_fluvial_pasajeros:229,unique_candidate
+411,352,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Quibdó,Turbo,1,rutas_fluvial_pasajeros:231,unique_candidate
+412,353,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Quibdó,Riosucio,1,rutas_fluvial_pasajeros:230,unique_candidate
+413,355,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Quibdó,Vigía del Fuerte,1,rutas_fluvial_pasajeros:234,unique_candidate
+414,361,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Quibdó,Unguía,1,rutas_fluvial_pasajeros:236,unique_candidate
+415,362,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Turbo,Riosucio,1,rutas_fluvial_pasajeros:233,unique_candidate
+416,364,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Turbo,Vigía del Fuerte,1,rutas_fluvial_pasajeros:232,unique_candidate
+417,368,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Turbo,Beté,1,rutas_fluvial_pasajeros:237,unique_candidate
+418,369,"""TRANSPORTE FLUVIAL RIO CHICAGUA S.A.S.""",El Banco,Santa Barbara de Pinto,1,rutas_fluvial_pasajeros:238,unique_candidate
+419,370,"""TRANSPORTE FLUVIAL RIO CHICAGUA S.A.S.""",Pinillos,Cicuco,1,rutas_fluvial_pasajeros:239,unique_candidate
+420,371,Rio & Mar LTDA,Quibdó,Turbo,1,rutas_fluvial_pasajeros:241,unique_candidate
+421,373,TRANSPORTE FLUVIAL RIOMAR DEL CARIBE LTDA. RIOMAR,Barrio Las Flores,Sabanagrande,1,rutas_fluvial_turismo:469,unique_candidate
+422,374,TRANSPORTE FLUVIAL RIOMAR DEL CARIBE LTDA. RIOMAR,Sabanagrande,Bocas de Ceniza,1,rutas_fluvial_turismo:470,unique_candidate
+423,378,Riverdise de Occidente,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:471,unique_candidate
+424,379,DAVID RODRIGUEZ ROJAS,Puerto Berrio,Las Vegas,1,rutas_fluvial_pasajeros:242,unique_candidate
+425,384,TRANSPORTADORA SAN PABLO LIMITADA,Puerto Wilches,Barrancabermeja,1,rutas_fluvial_pasajeros:243,unique_candidate
+426,385,TRANSPORTADORA SAN PABLO LIMITADA,Cantagallo,Barrancabermeja,1,rutas_fluvial_pasajeros:244,unique_candidate
+427,386,TRANSPORTADORA SAN PABLO LIMITADA,Barrancabermeja,Magangué,1,rutas_fluvial_pasajeros:246,unique_candidate
+428,390,Transportes San Pablo S.A,Barrancabermeja,Puerto Wilches,1,rutas_fluvial_turismo:472,unique_candidate
+429,392,Transportes San Pablo S.A,Barrancabermeja,Cantagallo,1,rutas_fluvial_turismo:473,unique_candidate
+430,395,Transportes San Pablo S.A,Barrancabermeja,Cicuco,1,rutas_fluvial_turismo:476,unique_candidate
+431,397,Transportes San Pablo S.A,Barrancabermeja,Mompox,1,rutas_fluvial_turismo:477,unique_candidate
+432,398,Transportes San Pablo S.A,Barrancabermeja,Magangué,1,rutas_fluvial_turismo:479,unique_candidate
+433,399,Transportes San Pablo S.A,Barrancabermeja,El Banco,1,rutas_fluvial_turismo:480,unique_candidate
+434,434,SOCIEDAD SERVICIOS DE TRANSPORTE FLUVIAL LIMITADA,Puerto Las Lanchas,Honda,1,rutas_fluvial_turismo:481,unique_candidate
+435,484,"""TRANSPORTE FLUVIAL DE ORIENTE S.A.S.""",Puerto Gaitán,La Primavera,1,rutas_fluvial_pasajeros:247,unique_candidate
+436,486,"""TRANSPORTE FLUVIAL DE ORIENTE S.A.S.""",La Primavera,Puerto Carreño,1,rutas_fluvial_pasajeros:248,unique_candidate
+437,485,"""TRANSPORTE FLUVIAL DE ORIENTE S.A.S.""",Puerto Gaitán,Puerto Carreño,1,rutas_fluvial_pasajeros:249,unique_candidate
+438,255,Gaviotas,Condoto,Novita,1,rutas_fluvial_pasajeros:261,unique_candidate
+439,256,Gaviotas,Puerto Gaitán,La Primavera,1,rutas_fluvial_pasajeros:262,unique_candidate
+440,223,Cooperativa de transportadores fluviales y terrest,San Jose del Guaviare,Macarena,1,rutas_fluvial_pasajeros:251,unique_candidate
+441,224,Cooperativa de transportadores fluviales y terrest,San Jose del Guaviare,Puerto Alvira,1,rutas_fluvial_pasajeros:252,unique_candidate
+442,235,Transportes Especializados JR SAS,Mompox,Cartagena,1,rutas_fluvial_turismo:482,unique_candidate
+443,257,Gaviotas,Puerto Gaitán,Puerto Carreño,1,rutas_fluvial_pasajeros:36,unique_candidate
+444,225,Cooperativa de transportadores fluviales y terrest,San Jose del Guaviare,Barrancominas,1,rutas_fluvial_pasajeros:254,unique_candidate
+445,226,Empresa Asociativa de Trabajadores de la Contrucci,Arauquita,Troncal,0,,unmatched
+446,227,Empresa Asociativa de Trabajadores de la Contrucci,Arauca,Todos Los Santos,0,,unmatched
+447,229,Emtraflusur,Buenavista,La Gloria,1,rutas_fluvial_pasajeros:240,unique_candidate
+448,230,Emtraflusur,Buenavista,Gamarra,1,rutas_fluvial_pasajeros:245,unique_candidate
+449,251,Gaviotas,Bocas de Barbacoas,Puerto Berrio,1,rutas_fluvial_pasajeros:195,unique_candidate
+450,252,Gaviotas,Yaguara,Cerritos,2,rutas_fluvial_pasajeros:34 | rutas_fluvial_pasajeros:199,ambiguous
+451,236,Transportes Especializados JR SAS,Circular embalse,Circular embalse,2,rutas_fluvial_turismo:459 | rutas_fluvial_turismo:462,ambiguous
+452,237,Transportes Especializados JR SAS,Circular Embalse,Circular Embalse,2,rutas_fluvial_turismo:459 | rutas_fluvial_turismo:462,ambiguous
+453,239,Expreso Feliz E.A.T,Majagual,Magangue,1,rutas_fluvial_pasajeros:256,unique_candidate
+454,253,Gaviotas,Quibdó,Turbo,1,rutas_fluvial_pasajeros:250,unique_candidate
+455,240,Expreso San Juan LTDA,Istmina,Bajo Calima,1,rutas_fluvial_pasajeros:258,unique_candidate
+456,241,Expreso San Juan LTDA,La Reinera,Puertos Lleras,1,rutas_fluvial_pasajeros:259,unique_candidate
+457,242,Expreso Solano LTDA,Pericongo,Honda,1,rutas_fluvial_pasajeros:257,unique_candidate
+458,248,Transportadora Estrella Fluvial de Guainia SAS,Inirida,Amanaven,1,rutas_fluvial_pasajeros:260,unique_candidate
+459,254,Gaviotas,Turbo,Unguía,1,rutas_fluvial_pasajeros:253,unique_candidate
+460,258,Gaviotas,La Primavera,Puerto Carreño,1,rutas_fluvial_pasajeros:42,unique_candidate
+461,259,Gaviotas,Puerto Rosario,Solano,1,rutas_fluvial_pasajeros:46,unique_candidate
+462,260,Transporte Fluvial Gaviotas del Litorial SAS,Puerto Rosario,Solita,1,rutas_fluvial_pasajeros:265,unique_candidate
+463,261,Transporte Fluvial Gaviotas del Litorial SAS,Puerto Rosario,Curillo,1,rutas_fluvial_pasajeros:266,unique_candidate
+464,263,Guadacol Diseños y Construcciones SAS,Villapinzon,Girardot,2,rutas_fluvial_pasajeros:59 | rutas_fluvial_pasajeros:267,ambiguous
+465,266,Guatape Aventura SAS,Vereda La Piedra,El Peñol Guatape,2,rutas_fluvial_turismo:303 | rutas_fluvial_turismo:467,ambiguous
+466,273,Hosteria y Marina Navegar SAS,Puente Bonilla Km 23 via El Peñol,Embalse de El Peñol,1,rutas_fluvial_turismo:460,unique_candidate
+467,274,Hidroparke II SAS,Circular Lago,Circular Lago,1,rutas_fluvial_turismo:474,unique_candidate
+468,275,Hidroparke II SAS,Circular Embalse,Circular Embalse,2,rutas_fluvial_turismo:484 | rutas_fluvial_turismo:490,ambiguous
+469,276,Hidroparke II SAS,Puente de Pujamanes,El Tablazo,1,rutas_fluvial_turismo:485,unique_candidate
+470,277,Hidroparke II SAS,Puente el Tablazo,La cascada del amor,1,rutas_fluvial_turismo:486,unique_candidate
+471,278,Hidroparke II SAS,Puente el Tablazo,Puente Legerke,1,rutas_fluvial_turismo:487,unique_candidate
+472,279,Hidroparke II SAS,Puente el Tablazo,Vertedero,1,rutas_fluvial_turismo:488,unique_candidate
+473,280,Hidroparke II SAS,Puente el Tablazo,Indersantander,1,rutas_fluvial_turismo:478,unique_candidate
+474,281,Hidroparke II SAS,Puerto Wilches,San Pablo,1,rutas_fluvial_turismo:463,unique_candidate
+475,282,Hidroparke II SAS,Circular Embalse,Circular Embalse,2,rutas_fluvial_turismo:484 | rutas_fluvial_turismo:490,ambiguous
+476,283,Hidroparke II SAS,Embarcadero de Linderos,La cascada del amor,1,rutas_fluvial_turismo:491,unique_candidate
+477,272,Transportes Llanorinoquia SAS,Circular embalse,Circular embalse,1,rutas_fluvial_turismo:492,unique_candidate
+478,281,Empresa de Transportes Lusitania SAS,Puerto Wilches,San Pablo,2,rutas_fluvial_turismo:408 | rutas_fluvial_turismo:493,ambiguous
+479,291,"Transporte Fluvial, Maritimo y Ecológico del Baud",Pizarro,Puerto Meluk,2,rutas_fluvial_pasajeros:159 | rutas_fluvial_pasajeros:268,ambiguous
+480,33,Asojhonval,Puerto Valdivia,Puqui,1,rutas_fluvial_pasajeros:76,unique_candidate
+481,292,"Transporte Fluvial, Maritimo y Ecológico del Baud",Pie de Pato,Puerto Meluk,2,rutas_fluvial_pasajeros:163 | rutas_fluvial_pasajeros:269,ambiguous
+482,340,Pronticourier Express SAS,Barrio Las Flores,Puente Pumarejo,1,rutas_fluvial_turismo:494,unique_candidate
+483,341,Pronticourier Express SAS,Barrio Las Flores,Bocas de Ceniza,1,rutas_fluvial_turismo:495,unique_candidate
+484,372,Rio & Mar LTDA,Quibdó,Bagadó,1,rutas_fluvial_pasajeros:263,unique_candidate
+485,387,Transportes San Pablo S.A,Barrancabermeja,Rio Opón,1,rutas_fluvial_turismo:496,unique_candidate
+486,388,Transportes San Pablo S.A,Barrancabermeja,San Rafael de Chucurí,1,rutas_fluvial_turismo:497,unique_candidate
+487,391,Transportes San Pablo S.A,Barrancabermeja,Yondo,1,rutas_fluvial_turismo:498,unique_candidate
+488,393,Transportes San Pablo S.A,Barrancabermeja,San Pablo,1,rutas_fluvial_turismo:489,unique_candidate
+489,394,Transportes San Pablo S.A,Barrancabermeja,Casabe,1,rutas_fluvial_turismo:499,unique_candidate
+490,415,COOPERATIVA MULTIACTIVA DE TRANSPORTE FLUVIAL DE S,Puerto Serviez,La Sierra,1,rutas_fluvial_pasajeros:264,unique_candidate
+491,464,Transfluviales San Juan LTDA,Istmina,Bajo Calima,1,rutas_fluvial_pasajeros:270,unique_candidate
+492,482,TRANSPORTES FLUVIALES EL RENACER DEL MAGDALENA S.A,La Dorada,Guarinoncito,1,rutas_fluvial_turismo:475,unique_candidate
+493,513,Transfluvial El Puerto,Puerto Valdivia,El Quince,1,rutas_fluvial_pasajeros:271,unique_candidate
+494,516,Transfluvial El Puerto,Capitanes,Barbacoas,1,rutas_fluvial_pasajeros:272,unique_candidate
+495,517,Transfluvial El Puerto,Barbacoas,Santa Fe de Antioquia,1,rutas_fluvial_pasajeros:51,unique_candidate
+496,536,Transmaryrio,Turbo,Murindó,1,rutas_fluvial_pasajeros:200,unique_candidate
+497,539,Transmaryrio,Turbo,Carmen del Darién,1,rutas_fluvial_pasajeros:209,unique_candidate
+498,541,Transmaryrio,Turbo,Cacarica,1,rutas_fluvial_pasajeros:213,unique_candidate
+499,605,Tuplan Guatapé SAS,Muelle Sabana,Isla de la Fantasía,1,rutas_fluvial_turismo:483,unique_candidate
+500,624,VIASOTRAN,Nechí,Río Viejo,1,rutas_fluvial_turismo:500,unique_candidate

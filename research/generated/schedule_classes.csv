@@ -1,0 +1,15 @@
+category,timetable_class,frequency_class,records
+passenger,clock_text,day_pattern,182
+passenger,clock_text,missing,6
+passenger,clock_text,other_text,10
+passenger,demand_text,day_pattern,2
+passenger,demand_text,demand_text,19
+passenger,missing,day_pattern,2
+passenger,missing,missing,40
+passenger,missing,other_text,2
+passenger,other_text,day_pattern,2
+passenger,other_text,interval_text,1
+passenger,other_text,other_text,6
+tourism,missing,missing,223
+tourism,missing,other_text,4
+tourism,other_text,day_pattern,1
