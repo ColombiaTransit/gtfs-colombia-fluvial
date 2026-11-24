@@ -1,0 +1,10 @@
+source_id,origin,destination,authorized_outbound_text,authorized_return_text,service_days,geometry_orientation_candidate,shape_km,origin_site_candidate,destination_site_candidate,issues,permit_status
+"158","Barrancabermeja","El Banco","08:45","08:00","daily","forward","256.616","239","339","inactive destination","renewal_2026_unverified"
+"159","Barrancabermeja","Gamarra","07:00","09:00","daily","forward","162.815","239","190","active candidates","renewal_2026_unverified"
+"160","Barrancabermeja","Puerto Berrio","06:30 - 14:30","09:00 - 14:30","daily","reverse","97.6","239","664","confirm San Bartolo versus main pier; two-time ambiguity","renewal_2026_unverified"
+"161","Barrancabermeja","San Pablo","09:00 - 10:00 / 12:00 - 12:30 / 15:00 - 17:00","07:00 - 12:00 / 13:00 - 15:30 / 16:30","daily","forward","50.165","239","","destination missing","renewal_2026_unverified"
+"162","Barrancabermeja","Simiti","14:45","06:00","daily","reverse","120.58","239","680","same landing as Cerro Burgos; verify service to Simiti","renewal_2026_unverified"
+"163","Barrancabermeja","Cantagallo","06:00","06:00","daily","forward","39.093","239","238","circular service; inactive destination; alternative 800 at 409 m","renewal_2026_unverified"
+"164","Barrancabermeja","Cerro Burgos","14:00","07:45","daily","reverse","120.303","239","680","active candidates; overlaps Simiti","renewal_2026_unverified"
+"165","Barrancabermeja","San Rafael del Chucuri","16:00","07:00","daily","reverse","29.388","239","","destination missing","renewal_2026_unverified"
+"166","Puerto Wilches","San Pablo","07:00 - 09:00 / 11:00 - 15:00 / 17:00","08:00 - 11:00 / 13:15 - 17:00","daily","forward","15.195","807","","destination missing","renewal_2026_unverified"

@@ -20,3 +20,4 @@ W18,low,closed,Exclude offshore pilot boarding points from further research and 
 W19,medium,deferred,Investigate Transportes Aquaviarios de Colombia SAS six tourism registrations and current operations
 W20,high,in_progress,Prioritize scheduled routes using shape and landing candidate coverage
 W21,high,open,Recheck external online schedule leads and match OSM shapes before GTFS inclusion
+W22,high,in_progress,Cootransfluviales verify 2026 renewal and resolve landing sites intermediate stops and travel times
