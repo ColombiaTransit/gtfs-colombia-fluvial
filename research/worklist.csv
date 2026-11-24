@@ -1,0 +1,17 @@
+task_id,priority,status,description
+W01,high,open,Review source redistribution rights and privacy
+W02,high,open,Archive original source snapshots and calculate checksums
+W03,high,open,Reproduce route counts and deduplication across five layers
+W04,high,open,Normalize passenger route registrations and preserve source identifiers
+W05,medium,open,Classify tourism and mixed services separately
+W06,high,open,Parse timetables and distinguish departure times from operating windows
+W07,high,open,Match operators by NIT and resolve name discrepancies
+W08,high,open,Match route endpoints to official landing sites and OSM
+W09,high,open,Identify shared operations and alternating departures
+W10,high,open,Group routes by river basin and operational network
+W11,high,open,Validate operation and schedules with official and local evidence
+W12,medium,open,Determine sailing durations and intermediate stops
+W13,medium,open,Research fares and holiday service
+W14,medium,open,Investigate DIMAR licensed maritime routes and arrival records
+W15,medium,open,Obtain Cartagena OSM export for separate maritime project
+W16,low,open,Build regional GTFS generators and MobilityData validation after research
