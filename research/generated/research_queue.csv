@@ -1,0 +1,1157 @@
+route_id,operator,network,priority,task,status
+rutas_fluvial_pasajeros:1,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:1,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:1,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:1,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:1,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:2,Asotranschaira,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:2,Asotranschaira,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:2,Asotranschaira,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:2,Asotranschaira,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:2,Asotranschaira,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:2,Asotranschaira,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:3,Cootransflualsinu,Unassigned: Cordoba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:3,Cootransflualsinu,Unassigned: Cordoba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:3,Cootransflualsinu,Unassigned: Cordoba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:3,Cootransflualsinu,Unassigned: Cordoba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:3,Cootransflualsinu,Unassigned: Cordoba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:3,Cootransflualsinu,Unassigned: Cordoba,B,assign_network,open
+rutas_fluvial_pasajeros:4,Asotranschaira,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:4,Asotranschaira,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:4,Asotranschaira,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:4,Asotranschaira,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:4,Asotranschaira,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:4,Asotranschaira,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:5,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:5,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:5,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:5,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:5,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:6,Asotranschaira,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:6,Asotranschaira,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:6,Asotranschaira,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:6,Asotranschaira,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:6,Asotranschaira,Unassigned: Caqueta,B,interpret_timetable,open
+rutas_fluvial_pasajeros:6,Asotranschaira,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:6,Asotranschaira,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:7,Asojhonval,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:7,Asojhonval,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:7,Asojhonval,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:7,Asojhonval,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:7,Asojhonval,Unassigned: Antioquia,B,interpret_timetable,open
+rutas_fluvial_pasajeros:7,Asojhonval,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:7,Asojhonval,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:8,Cootransunidos,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:8,Cootransunidos,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:8,Cootransunidos,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:8,Cootransunidos,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:8,Cootransunidos,Unassigned: Antioquia,B,interpret_timetable,open
+rutas_fluvial_pasajeros:8,Cootransunidos,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:8,Cootransunidos,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:10,Cootransfluremo,Unassigned: Atlantico,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:10,Cootransfluremo,Unassigned: Atlantico,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:10,Cootransfluremo,Unassigned: Atlantico,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:10,Cootransfluremo,Unassigned: Atlantico,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:10,Cootransfluremo,Unassigned: Atlantico,A,assign_network,open
+rutas_fluvial_pasajeros:11,Cootranflucan,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:11,Cootranflucan,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:11,Cootranflucan,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:11,Cootranflucan,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:11,Cootranflucan,Unassigned: Antioquia,B,interpret_timetable,open
+rutas_fluvial_pasajeros:11,Cootranflucan,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:11,Cootranflucan,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:13,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:13,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:13,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:13,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:13,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:14,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:14,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:14,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:14,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:14,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:15,Cootranspiñuña,Putumayo,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:15,Cootranspiñuña,Putumayo,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:15,Cootranspiñuña,Putumayo,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:15,Cootranspiñuña,Putumayo,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:15,Cootranspiñuña,Putumayo,C,interpret_timetable,open
+rutas_fluvial_pasajeros:15,Cootranspiñuña,Putumayo,C,interpret_service_days,open
+rutas_fluvial_pasajeros:15,Cootranspiñuña,Putumayo,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:17,Cootransunidos,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:17,Cootransunidos,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:17,Cootransunidos,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:17,Cootransunidos,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:17,Cootransunidos,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:17,Cootransunidos,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:18,Cootransunidos,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:18,Cootransunidos,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:18,Cootransunidos,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:18,Cootransunidos,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:18,Cootransunidos,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:18,Cootransunidos,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:19,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:19,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:19,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:19,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:19,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:20,Cootransca,Unassigned: Cauca,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:20,Cootransca,Unassigned: Cauca,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:20,Cootransca,Unassigned: Cauca,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:20,Cootransca,Unassigned: Cauca,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:20,Cootransca,Unassigned: Cauca,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:20,Cootransca,Unassigned: Cauca,B,assign_network,open
+rutas_fluvial_pasajeros:21,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:21,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:21,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:21,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:21,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:22,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:22,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:22,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:22,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:22,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:23,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:23,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:23,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:23,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:23,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:24,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:24,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:24,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:24,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:24,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:25,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:25,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:25,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:25,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:25,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:27,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:27,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:27,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:27,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:27,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:29,La Cabrera S.A.S,Unassigned: Bolivar,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:29,La Cabrera S.A.S,Unassigned: Bolivar,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:29,La Cabrera S.A.S,Unassigned: Bolivar,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:29,La Cabrera S.A.S,Unassigned: Bolivar,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:29,La Cabrera S.A.S,Unassigned: Bolivar,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:29,La Cabrera S.A.S,Unassigned: Bolivar,B,assign_network,open
+rutas_fluvial_pasajeros:30,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:30,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:30,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:30,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:30,Transnuevo Lloró SAS,Atrato - Uraba,A,check_landing_status,open
+rutas_fluvial_pasajeros:31,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:31,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:31,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:31,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:31,Transportes El Panseguita SAS,Unassigned: Bolivar,B,interpret_timetable,open
+rutas_fluvial_pasajeros:31,Transportes El Panseguita SAS,Unassigned: Bolivar,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:31,Transportes El Panseguita SAS,Unassigned: Bolivar,B,assign_network,open
+rutas_fluvial_pasajeros:32,Asocanoas,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:32,Asocanoas,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:32,Asocanoas,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:32,Asocanoas,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:32,Asocanoas,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:32,Asocanoas,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:33,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:33,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:33,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:33,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:33,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,interpret_timetable,open
+rutas_fluvial_pasajeros:33,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:33,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,assign_network,open
+rutas_fluvial_pasajeros:34,Gaviotas,Unassigned: Huila,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:34,Gaviotas,Unassigned: Huila,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:34,Gaviotas,Unassigned: Huila,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:34,Gaviotas,Unassigned: Huila,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:34,Gaviotas,Unassigned: Huila,C,interpret_service_days,open
+rutas_fluvial_pasajeros:34,Gaviotas,Unassigned: Huila,C,check_landing_status,open
+rutas_fluvial_pasajeros:34,Gaviotas,Unassigned: Huila,C,assign_network,open
+rutas_fluvial_pasajeros:37,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:37,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:37,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:37,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:37,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:38,Coomultramag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:38,Coomultramag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:38,Coomultramag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:38,Coomultramag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:38,Coomultramag,Magdalena corridor,B,interpret_timetable,open
+rutas_fluvial_pasajeros:38,Coomultramag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:39,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:39,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:39,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:39,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:39,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:40,Cootransflualsinu,Unassigned: Cordoba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:40,Cootransflualsinu,Unassigned: Cordoba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:40,Cootransflualsinu,Unassigned: Cordoba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:40,Cootransflualsinu,Unassigned: Cordoba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:40,Cootransflualsinu,Unassigned: Cordoba,B,interpret_timetable,open
+rutas_fluvial_pasajeros:40,Cootransflualsinu,Unassigned: Cordoba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:40,Cootransflualsinu,Unassigned: Cordoba,B,assign_network,open
+rutas_fluvial_pasajeros:43,Transportadora Fluvial Mary E.U,Unassigned: Atlantico,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:43,Transportadora Fluvial Mary E.U,Unassigned: Atlantico,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:43,Transportadora Fluvial Mary E.U,Unassigned: Atlantico,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:43,Transportadora Fluvial Mary E.U,Unassigned: Atlantico,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:43,Transportadora Fluvial Mary E.U,Unassigned: Atlantico,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:43,Transportadora Fluvial Mary E.U,Unassigned: Atlantico,B,assign_network,open
+rutas_fluvial_pasajeros:44,Transporte Fluvial Regional E.A.T. Transflureg,Unassigned: Bolivar,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:44,Transporte Fluvial Regional E.A.T. Transflureg,Unassigned: Bolivar,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:44,Transporte Fluvial Regional E.A.T. Transflureg,Unassigned: Bolivar,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:44,Transporte Fluvial Regional E.A.T. Transflureg,Unassigned: Bolivar,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:44,Transporte Fluvial Regional E.A.T. Transflureg,Unassigned: Bolivar,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:44,Transporte Fluvial Regional E.A.T. Transflureg,Unassigned: Bolivar,B,assign_network,open
+rutas_fluvial_pasajeros:45,Coomultramag,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:45,Coomultramag,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:45,Coomultramag,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:45,Coomultramag,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:45,Coomultramag,Magdalena corridor,A,check_landing_status,open
+rutas_fluvial_pasajeros:49,Cootranspiñuña,Putumayo,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:49,Cootranspiñuña,Putumayo,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:49,Cootranspiñuña,Putumayo,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:49,Cootranspiñuña,Putumayo,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:49,Cootranspiñuña,Putumayo,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:50,Cootranspuerto Asis LTDA,Putumayo,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:50,Cootranspuerto Asis LTDA,Putumayo,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:50,Cootranspuerto Asis LTDA,Putumayo,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:50,Cootranspuerto Asis LTDA,Putumayo,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:50,Cootranspuerto Asis LTDA,Putumayo,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:52,Cootranspuerto Asis LTDA,Putumayo,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:52,Cootranspuerto Asis LTDA,Putumayo,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:52,Cootranspuerto Asis LTDA,Putumayo,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:52,Cootranspuerto Asis LTDA,Putumayo,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:52,Cootranspuerto Asis LTDA,Putumayo,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:53,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:53,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:53,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:53,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:53,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:54,Cootranspiñuña,Putumayo,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:54,Cootranspiñuña,Putumayo,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:54,Cootranspiñuña,Putumayo,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:54,Cootranspiñuña,Putumayo,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:54,Cootranspiñuña,Putumayo,C,interpret_timetable,open
+rutas_fluvial_pasajeros:54,Cootranspiñuña,Putumayo,C,interpret_service_days,open
+rutas_fluvial_pasajeros:54,Cootranspiñuña,Putumayo,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:55,Cootranspuerto Asis LTDA,Putumayo,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:55,Cootranspuerto Asis LTDA,Putumayo,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:55,Cootranspuerto Asis LTDA,Putumayo,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:55,Cootranspuerto Asis LTDA,Putumayo,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:55,Cootranspuerto Asis LTDA,Putumayo,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:56,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:56,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:56,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:56,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:56,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:56,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:57,Cootranspiñuña,Putumayo,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:57,Cootranspiñuña,Putumayo,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:57,Cootranspiñuña,Putumayo,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:57,Cootranspiñuña,Putumayo,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:57,Cootranspiñuña,Putumayo,C,interpret_timetable,open
+rutas_fluvial_pasajeros:57,Cootranspiñuña,Putumayo,C,interpret_service_days,open
+rutas_fluvial_pasajeros:57,Cootranspiñuña,Putumayo,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:58,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:58,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:58,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:58,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:58,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:65,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:65,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:65,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:65,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:65,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,C,interpret_timetable,open
+rutas_fluvial_pasajeros:65,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,C,interpret_service_days,open
+rutas_fluvial_pasajeros:65,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:65,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,C,assign_network,open
+rutas_fluvial_pasajeros:66,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:66,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:66,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:66,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:66,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:67,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:67,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:67,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:67,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:67,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:68,Adan Rodriguez Rojas,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:68,Adan Rodriguez Rojas,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:68,Adan Rodriguez Rojas,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:68,Adan Rodriguez Rojas,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:68,Adan Rodriguez Rojas,Unassigned: Antioquia,B,interpret_timetable,open
+rutas_fluvial_pasajeros:68,Adan Rodriguez Rojas,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:68,Adan Rodriguez Rojas,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:69,Astrawil,Unassigned: Santander,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:69,Astrawil,Unassigned: Santander,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:69,Astrawil,Unassigned: Santander,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:69,Astrawil,Unassigned: Santander,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:69,Astrawil,Unassigned: Santander,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:69,Astrawil,Unassigned: Santander,B,assign_network,open
+rutas_fluvial_pasajeros:70,Cootraflucap,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:70,Cootraflucap,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:70,Cootraflucap,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:70,Cootraflucap,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:70,Cootraflucap,Magdalena corridor,A,check_landing_status,open
+rutas_fluvial_pasajeros:73,Asocanoas,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:73,Asocanoas,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:73,Asocanoas,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:73,Asocanoas,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:73,Asocanoas,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:73,Asocanoas,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:74,Cootransflumar,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:74,Cootransflumar,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:74,Cootransflumar,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:74,Cootransflumar,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:74,Cootransflumar,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:75,Transportes Amazónicos E.U,Unassigned: Amazonas,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:75,Transportes Amazónicos E.U,Unassigned: Amazonas,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:75,Transportes Amazónicos E.U,Unassigned: Amazonas,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:75,Transportes Amazónicos E.U,Unassigned: Amazonas,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:75,Transportes Amazónicos E.U,Unassigned: Amazonas,A,assign_network,open
+rutas_fluvial_pasajeros:78,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:78,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:78,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:78,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:78,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:79,Coomultramag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:79,Coomultramag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:79,Coomultramag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:79,Coomultramag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:79,Coomultramag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:80,Cootransflusi,Unassigned: Atlantico,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:80,Cootransflusi,Unassigned: Atlantico,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:80,Cootransflusi,Unassigned: Atlantico,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:80,Cootransflusi,Unassigned: Atlantico,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:80,Cootransflusi,Unassigned: Atlantico,B,interpret_timetable,open
+rutas_fluvial_pasajeros:80,Cootransflusi,Unassigned: Atlantico,B,assign_network,open
+rutas_fluvial_pasajeros:81,Asocanoas,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:81,Asocanoas,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:81,Asocanoas,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:81,Asocanoas,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:81,Asocanoas,Unassigned: Caqueta,B,interpret_timetable,open
+rutas_fluvial_pasajeros:81,Asocanoas,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:82,Coopetransfluvial,Unassigned: Boyaca,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:82,Coopetransfluvial,Unassigned: Boyaca,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:82,Coopetransfluvial,Unassigned: Boyaca,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:82,Coopetransfluvial,Unassigned: Boyaca,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:82,Coopetransfluvial,Unassigned: Boyaca,B,interpret_timetable,open
+rutas_fluvial_pasajeros:82,Coopetransfluvial,Unassigned: Boyaca,B,assign_network,open
+rutas_fluvial_pasajeros:83,Asocanoas,Unassigned: Caqueta,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:83,Asocanoas,Unassigned: Caqueta,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:83,Asocanoas,Unassigned: Caqueta,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:83,Asocanoas,Unassigned: Caqueta,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:83,Asocanoas,Unassigned: Caqueta,C,interpret_service_days,open
+rutas_fluvial_pasajeros:83,Asocanoas,Unassigned: Caqueta,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:83,Asocanoas,Unassigned: Caqueta,C,assign_network,open
+rutas_fluvial_pasajeros:84,Asocanoas,Unassigned: Caqueta,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:84,Asocanoas,Unassigned: Caqueta,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:84,Asocanoas,Unassigned: Caqueta,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:84,Asocanoas,Unassigned: Caqueta,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:84,Asocanoas,Unassigned: Caqueta,A,assign_network,open
+rutas_fluvial_pasajeros:87,Cootranflucan,Unassigned: Antioquia,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:87,Cootranflucan,Unassigned: Antioquia,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:87,Cootranflucan,Unassigned: Antioquia,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:87,Cootranflucan,Unassigned: Antioquia,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:87,Cootranflucan,Unassigned: Antioquia,A,check_landing_status,open
+rutas_fluvial_pasajeros:87,Cootranflucan,Unassigned: Antioquia,A,assign_network,open
+rutas_fluvial_pasajeros:88,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:88,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:88,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:88,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:88,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:88,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:89,Asotranschaira,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:89,Asotranschaira,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:89,Asotranschaira,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:89,Asotranschaira,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:89,Asotranschaira,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:89,Asotranschaira,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:90,Cootranflucan,Unassigned: Antioquia,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:90,Cootranflucan,Unassigned: Antioquia,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:90,Cootranflucan,Unassigned: Antioquia,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:90,Cootranflucan,Unassigned: Antioquia,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:90,Cootranflucan,Unassigned: Antioquia,A,check_landing_status,open
+rutas_fluvial_pasajeros:90,Cootranflucan,Unassigned: Antioquia,A,assign_network,open
+rutas_fluvial_pasajeros:91,Cootranflucan,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:91,Cootranflucan,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:91,Cootranflucan,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:91,Cootranflucan,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:91,Cootranflucan,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:91,Cootranflucan,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:92,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:92,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:92,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:92,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:92,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:92,Asociación Asotaxi del caguan,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:93,Asotranschaira,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:93,Asotranschaira,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:93,Asotranschaira,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:93,Asotranschaira,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:93,Asotranschaira,Unassigned: Caqueta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:93,Asotranschaira,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:95,Astrapacape,Unassigned: Bolivar,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:95,Astrapacape,Unassigned: Bolivar,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:95,Astrapacape,Unassigned: Bolivar,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:95,Astrapacape,Unassigned: Bolivar,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:95,Astrapacape,Unassigned: Bolivar,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:95,Astrapacape,Unassigned: Bolivar,B,assign_network,open
+rutas_fluvial_pasajeros:96,Cootraflucap,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:96,Cootraflucap,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:96,Cootraflucap,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:96,Cootraflucap,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:96,Cootraflucap,Magdalena corridor,A,check_landing_status,open
+rutas_fluvial_pasajeros:98,Luis Orlando Bermeo Rojas,Unassigned: Caqueta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:98,Luis Orlando Bermeo Rojas,Unassigned: Caqueta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:98,Luis Orlando Bermeo Rojas,Unassigned: Caqueta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:98,Luis Orlando Bermeo Rojas,Unassigned: Caqueta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:98,Luis Orlando Bermeo Rojas,Unassigned: Caqueta,B,interpret_timetable,open
+rutas_fluvial_pasajeros:98,Luis Orlando Bermeo Rojas,Unassigned: Caqueta,B,assign_network,open
+rutas_fluvial_pasajeros:100,Coomultramag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:100,Coomultramag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:100,Coomultramag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:100,Coomultramag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:100,Coomultramag,Magdalena corridor,B,interpret_timetable,open
+rutas_fluvial_pasajeros:100,Coomultramag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:102,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:102,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:102,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:102,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:102,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:103,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:103,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:103,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:103,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:103,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:104,Cootraflucap,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:104,Cootraflucap,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:104,Cootraflucap,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:104,Cootraflucap,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:104,Cootraflucap,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:105,Cootraflurmag,Unassigned: Magdalena,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:105,Cootraflurmag,Unassigned: Magdalena,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:105,Cootraflurmag,Unassigned: Magdalena,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:105,Cootraflurmag,Unassigned: Magdalena,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:105,Cootraflurmag,Unassigned: Magdalena,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:105,Cootraflurmag,Unassigned: Magdalena,B,assign_network,open
+rutas_fluvial_pasajeros:111,Cootrafluvsuc,La Mojana,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:111,Cootrafluvsuc,La Mojana,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:111,Cootrafluvsuc,La Mojana,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:111,Cootrafluvsuc,La Mojana,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:111,Cootrafluvsuc,La Mojana,A,check_landing_status,open
+rutas_fluvial_pasajeros:112,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:112,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:112,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:112,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:112,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:113,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:113,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:113,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:113,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:113,Cootrafluvsuc,La Mojana,B,interpret_timetable,open
+rutas_fluvial_pasajeros:113,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:114,Cootrafluvsuc,La Mojana,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:114,Cootrafluvsuc,La Mojana,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:114,Cootrafluvsuc,La Mojana,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:114,Cootrafluvsuc,La Mojana,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:115,Cootrafluvsuc,La Mojana,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:115,Cootrafluvsuc,La Mojana,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:115,Cootrafluvsuc,La Mojana,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:115,Cootrafluvsuc,La Mojana,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:115,Cootrafluvsuc,La Mojana,B,interpret_timetable,open
+rutas_fluvial_pasajeros:115,Cootrafluvsuc,La Mojana,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:116,Cootragam,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:116,Cootragam,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:116,Cootragam,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:116,Cootragam,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:116,Cootragam,Magdalena corridor,B,interpret_timetable,open
+rutas_fluvial_pasajeros:117,La Cabrera S.A.S,Unassigned: Bolivar,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:117,La Cabrera S.A.S,Unassigned: Bolivar,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:117,La Cabrera S.A.S,Unassigned: Bolivar,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:117,La Cabrera S.A.S,Unassigned: Bolivar,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:117,La Cabrera S.A.S,Unassigned: Bolivar,A,check_landing_status,open
+rutas_fluvial_pasajeros:117,La Cabrera S.A.S,Unassigned: Bolivar,A,assign_network,open
+rutas_fluvial_pasajeros:119,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:119,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:119,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:119,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:119,Transnuevo Lloró SAS,Atrato - Uraba,A,check_landing_status,open
+rutas_fluvial_pasajeros:121,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Santa Maria	Redondo	Chalupa	Río Atrato y afluentes
+251	Polyline ZM	32,267686	475	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:121,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Santa Maria	Redondo	Chalupa	Río Atrato y afluentes
+251	Polyline ZM	32,267686	475	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:121,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Santa Maria	Redondo	Chalupa	Río Atrato y afluentes
+251	Polyline ZM	32,267686	475	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:121,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Santa Maria	Redondo	Chalupa	Río Atrato y afluentes
+251	Polyline ZM	32,267686	475	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:121,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Santa Maria	Redondo	Chalupa	Río Atrato y afluentes
+251	Polyline ZM	32,267686	475	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,interpret_service_days,open
+rutas_fluvial_pasajeros:121,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Santa Maria	Redondo	Chalupa	Río Atrato y afluentes
+251	Polyline ZM	32,267686	475	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:121,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Santa Maria	Redondo	Chalupa	Río Atrato y afluentes
+251	Polyline ZM	32,267686	475	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,assign_network,open
+rutas_fluvial_pasajeros:124,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:124,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:124,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:124,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:124,Transnuevo Lloró SAS,Atrato - Uraba,A,check_landing_status,open
+rutas_fluvial_pasajeros:125,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:125,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:125,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:125,Transnuevo Lloró SAS,Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:125,Transnuevo Lloró SAS,Atrato - Uraba,A,check_landing_status,open
+rutas_fluvial_pasajeros:126,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Quibdó	Redondo	Chalupa	Río Atrato y afluentes
+247	Polyline ZM	488,272105	473	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:126,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Quibdó	Redondo	Chalupa	Río Atrato y afluentes
+247	Polyline ZM	488,272105	473	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:126,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Quibdó	Redondo	Chalupa	Río Atrato y afluentes
+247	Polyline ZM	488,272105	473	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:126,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Quibdó	Redondo	Chalupa	Río Atrato y afluentes
+247	Polyline ZM	488,272105	473	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:126,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Quibdó	Redondo	Chalupa	Río Atrato y afluentes
+247	Polyline ZM	488,272105	473	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,interpret_service_days,open
+rutas_fluvial_pasajeros:126,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Quibdó	Redondo	Chalupa	Río Atrato y afluentes
+247	Polyline ZM	488,272105	473	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:126,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Quibdó	Redondo	Chalupa	Río Atrato y afluentes
+247	Polyline ZM	488,272105	473	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,assign_network,open
+rutas_fluvial_pasajeros:127,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	San Isidro	Redondo	Chalupa	Río Atrato y afluentes
+253	Polyline ZM	42,312453	477	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:127,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	San Isidro	Redondo	Chalupa	Río Atrato y afluentes
+253	Polyline ZM	42,312453	477	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:127,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	San Isidro	Redondo	Chalupa	Río Atrato y afluentes
+253	Polyline ZM	42,312453	477	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:127,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	San Isidro	Redondo	Chalupa	Río Atrato y afluentes
+253	Polyline ZM	42,312453	477	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:127,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	San Isidro	Redondo	Chalupa	Río Atrato y afluentes
+253	Polyline ZM	42,312453	477	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,interpret_service_days,open
+rutas_fluvial_pasajeros:127,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	San Isidro	Redondo	Chalupa	Río Atrato y afluentes
+253	Polyline ZM	42,312453	477	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,check_landing_status,open
+rutas_fluvial_pasajeros:127,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	San Isidro	Redondo	Chalupa	Río Atrato y afluentes
+253	Polyline ZM	42,312453	477	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,assign_network,open
+rutas_fluvial_pasajeros:130,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Unguía	Redondo	Chalupa	Río Atrato y afluentes
+249	Polyline ZM	75,800933	471	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:130,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Unguía	Redondo	Chalupa	Río Atrato y afluentes
+249	Polyline ZM	75,800933	471	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:130,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Unguía	Redondo	Chalupa	Río Atrato y afluentes
+249	Polyline ZM	75,800933	471	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:130,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Unguía	Redondo	Chalupa	Río Atrato y afluentes
+249	Polyline ZM	75,800933	471	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:130,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Unguía	Redondo	Chalupa	Río Atrato y afluentes
+249	Polyline ZM	75,800933	471	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,interpret_service_days,open
+rutas_fluvial_pasajeros:130,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Unguía	Redondo	Chalupa	Río Atrato y afluentes
+249	Polyline ZM	75,800933	471	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:130,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Unguía	Redondo	Chalupa	Río Atrato y afluentes
+249	Polyline ZM	75,800933	471	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,assign_network,open
+rutas_fluvial_pasajeros:131,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	Yuto	Redondo	Chalupa	Río Atrato y afluentes
+255	Polyline ZM	169,865531	474	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:131,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	Yuto	Redondo	Chalupa	Río Atrato y afluentes
+255	Polyline ZM	169,865531	474	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:131,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	Yuto	Redondo	Chalupa	Río Atrato y afluentes
+255	Polyline ZM	169,865531	474	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:131,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	Yuto	Redondo	Chalupa	Río Atrato y afluentes
+255	Polyline ZM	169,865531	474	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:131,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	Yuto	Redondo	Chalupa	Río Atrato y afluentes
+255	Polyline ZM	169,865531	474	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,interpret_service_days,open
+rutas_fluvial_pasajeros:131,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	Yuto	Redondo	Chalupa	Río Atrato y afluentes
+255	Polyline ZM	169,865531	474	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,check_landing_status,open
+rutas_fluvial_pasajeros:131,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	Yuto	Redondo	Chalupa	Río Atrato y afluentes
+255	Polyline ZM	169,865531	474	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,C,assign_network,open
+rutas_fluvial_pasajeros:133,Transporte La Piragua E.A.T,Unassigned: Boyaca,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:133,Transporte La Piragua E.A.T,Unassigned: Boyaca,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:133,Transporte La Piragua E.A.T,Unassigned: Boyaca,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:133,Transporte La Piragua E.A.T,Unassigned: Boyaca,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:133,Transporte La Piragua E.A.T,Unassigned: Boyaca,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:133,Transporte La Piragua E.A.T,Unassigned: Boyaca,B,assign_network,open
+rutas_fluvial_pasajeros:134,Transfluvial La Rivereña,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:134,Transfluvial La Rivereña,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:134,Transfluvial La Rivereña,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:134,Transfluvial La Rivereña,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:134,Transfluvial La Rivereña,Unassigned: Antioquia,B,interpret_timetable,open
+rutas_fluvial_pasajeros:134,Transfluvial La Rivereña,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:134,Transfluvial La Rivereña,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:135,Lineas Fluviales Del Vichada,Unassigned: Meta,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:135,Lineas Fluviales Del Vichada,Unassigned: Meta,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:135,Lineas Fluviales Del Vichada,Unassigned: Meta,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:135,Lineas Fluviales Del Vichada,Unassigned: Meta,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:135,Lineas Fluviales Del Vichada,Unassigned: Meta,A,check_landing_status,open
+rutas_fluvial_pasajeros:135,Lineas Fluviales Del Vichada,Unassigned: Meta,A,assign_network,open
+rutas_fluvial_pasajeros:136,Cootransfluter,Unassigned: Bolivar,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:136,Cootransfluter,Unassigned: Bolivar,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:136,Cootransfluter,Unassigned: Bolivar,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:136,Cootransfluter,Unassigned: Bolivar,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:136,Cootransfluter,Unassigned: Bolivar,A,assign_network,open
+rutas_fluvial_pasajeros:137,Lineas Fluviales Del Vichada,Unassigned: Meta,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:137,Lineas Fluviales Del Vichada,Unassigned: Meta,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:137,Lineas Fluviales Del Vichada,Unassigned: Meta,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:137,Lineas Fluviales Del Vichada,Unassigned: Meta,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:137,Lineas Fluviales Del Vichada,Unassigned: Meta,A,check_landing_status,open
+rutas_fluvial_pasajeros:137,Lineas Fluviales Del Vichada,Unassigned: Meta,A,assign_network,open
+rutas_fluvial_pasajeros:138,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:138,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:138,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:138,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:138,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:138,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,assign_network,open
+rutas_fluvial_pasajeros:139,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:139,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:139,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:139,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:139,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:139,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,B,assign_network,open
+rutas_fluvial_pasajeros:141,Lineas Fluviales Del Vichada,Unassigned: Meta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:141,Lineas Fluviales Del Vichada,Unassigned: Meta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:141,Lineas Fluviales Del Vichada,Unassigned: Meta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:141,Lineas Fluviales Del Vichada,Unassigned: Meta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:141,Lineas Fluviales Del Vichada,Unassigned: Meta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:141,Lineas Fluviales Del Vichada,Unassigned: Meta,B,assign_network,open
+rutas_fluvial_pasajeros:142,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_current_operation,open
+rutas_fluvial_pasajeros:142,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:142,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:142,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:142,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,interpret_timetable,open
+rutas_fluvial_pasajeros:143,Cootragam,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:143,Cootragam,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:143,Cootragam,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:143,Cootragam,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:143,Cootragam,Magdalena corridor,B,interpret_timetable,open
+rutas_fluvial_pasajeros:144,Cootragam,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:144,Cootragam,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:144,Cootragam,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:144,Cootragam,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:144,Cootragam,Magdalena corridor,B,interpret_timetable,open
+rutas_fluvial_pasajeros:145,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_current_operation,open
+rutas_fluvial_pasajeros:145,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:145,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:145,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:145,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,interpret_timetable,open
+rutas_fluvial_pasajeros:146,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),A,confirm_current_operation,open
+rutas_fluvial_pasajeros:146,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:146,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:146,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:148,Cootragam,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:148,Cootragam,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:148,Cootragam,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:148,Cootragam,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:148,Cootragam,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:149,Cootragam,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:149,Cootragam,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:149,Cootragam,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:149,Cootragam,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:149,Cootragam,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:150,Cootraimag,Magdalena corridor,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:150,Cootraimag,Magdalena corridor,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:150,Cootraimag,Magdalena corridor,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:150,Cootraimag,Magdalena corridor,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:150,Cootraimag,Magdalena corridor,C,interpret_service_days,open
+rutas_fluvial_pasajeros:150,Cootraimag,Magdalena corridor,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:151,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:151,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:151,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:151,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:151,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,A,check_landing_status,open
+rutas_fluvial_pasajeros:151,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,A,assign_network,open
+rutas_fluvial_pasajeros:153,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:153,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:153,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:153,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:153,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,B,interpret_timetable,open
+rutas_fluvial_pasajeros:153,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:153,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:154,Cootraimag,Magdalena corridor,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:154,Cootraimag,Magdalena corridor,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:154,Cootraimag,Magdalena corridor,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:154,Cootraimag,Magdalena corridor,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:154,Cootraimag,Magdalena corridor,C,interpret_service_days,open
+rutas_fluvial_pasajeros:154,Cootraimag,Magdalena corridor,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:155,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_current_operation,open
+rutas_fluvial_pasajeros:155,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:155,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:155,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:155,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),B,interpret_timetable,open
+rutas_fluvial_pasajeros:156,Cootransfluter,Unassigned: Bolivar,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:156,Cootransfluter,Unassigned: Bolivar,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:156,Cootransfluter,Unassigned: Bolivar,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:156,Cootransfluter,Unassigned: Bolivar,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:156,Cootransfluter,Unassigned: Bolivar,A,assign_network,open
+rutas_fluvial_pasajeros:157,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:157,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:157,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:157,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:157,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:158,Transportes del Mar SAS,Unassigned: Bolivar,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:158,Transportes del Mar SAS,Unassigned: Bolivar,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:158,Transportes del Mar SAS,Unassigned: Bolivar,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:158,Transportes del Mar SAS,Unassigned: Bolivar,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:158,Transportes del Mar SAS,Unassigned: Bolivar,A,assign_network,open
+rutas_fluvial_pasajeros:159,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:159,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:159,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:159,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:159,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,interpret_timetable,open
+rutas_fluvial_pasajeros:159,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:159,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,assign_network,open
+rutas_fluvial_pasajeros:160,Cootragam,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:160,Cootragam,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:160,Cootragam,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:160,Cootragam,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:160,Cootragam,Magdalena corridor,B,interpret_timetable,open
+rutas_fluvial_pasajeros:161,Cootransfluter,Unassigned: Bolivar,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:161,Cootransfluter,Unassigned: Bolivar,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:161,Cootransfluter,Unassigned: Bolivar,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:161,Cootransfluter,Unassigned: Bolivar,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:161,Cootransfluter,Unassigned: Bolivar,A,assign_network,open
+rutas_fluvial_pasajeros:162,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:162,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:162,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:162,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:162,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:163,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:163,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:163,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:163,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:163,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:163,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,B,assign_network,open
+rutas_fluvial_pasajeros:164,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:164,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:164,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:164,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:164,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:165,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:165,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:165,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:165,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:165,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:166,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:166,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:166,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:166,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:166,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:167,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:167,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:167,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:167,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:167,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:168,Cootransfluviales,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:168,Cootransfluviales,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:168,Cootransfluviales,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:168,Cootransfluviales,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:169,Cootraimag,Magdalena corridor,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:169,Cootraimag,Magdalena corridor,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:169,Cootraimag,Magdalena corridor,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:169,Cootraimag,Magdalena corridor,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:169,Cootraimag,Magdalena corridor,C,interpret_service_days,open
+rutas_fluvial_pasajeros:170,Cootraimag,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:170,Cootraimag,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:170,Cootraimag,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:170,Cootraimag,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:170,Cootraimag,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:171,Cootraimag,Magdalena corridor,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:171,Cootraimag,Magdalena corridor,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:171,Cootraimag,Magdalena corridor,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:171,Cootraimag,Magdalena corridor,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:171,Cootraimag,Magdalena corridor,C,interpret_service_days,open
+rutas_fluvial_pasajeros:172,Cootranechi,Unassigned: Antioquia,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:172,Cootranechi,Unassigned: Antioquia,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:172,Cootranechi,Unassigned: Antioquia,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:172,Cootranechi,Unassigned: Antioquia,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:172,Cootranechi,Unassigned: Antioquia,A,assign_network,open
+rutas_fluvial_pasajeros:173,Cootranechi,Unassigned: Antioquia,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:173,Cootranechi,Unassigned: Antioquia,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:173,Cootranechi,Unassigned: Antioquia,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:173,Cootranechi,Unassigned: Antioquia,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:173,Cootranechi,Unassigned: Antioquia,A,assign_network,open
+rutas_fluvial_pasajeros:174,Cootranechi,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:174,Cootranechi,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:174,Cootranechi,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:174,Cootranechi,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:174,Cootranechi,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:174,Cootranechi,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:175,Cootranechi,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:175,Cootranechi,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:175,Cootranechi,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:175,Cootranechi,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:175,Cootranechi,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:175,Cootranechi,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:177,Cootransflumar,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:177,Cootransflumar,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:177,Cootransflumar,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:177,Cootransflumar,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:177,Cootransflumar,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:178,Asiociación Transporcol,Unassigned: Cesar,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:178,Asiociación Transporcol,Unassigned: Cesar,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:178,Asiociación Transporcol,Unassigned: Cesar,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:178,Asiociación Transporcol,Unassigned: Cesar,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:178,Asiociación Transporcol,Unassigned: Cesar,B,interpret_timetable,open
+rutas_fluvial_pasajeros:178,Asiociación Transporcol,Unassigned: Cesar,B,assign_network,open
+rutas_fluvial_pasajeros:179,Cootransflumar,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:179,Cootransflumar,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:179,Cootransflumar,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:179,Cootransflumar,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:179,Cootransflumar,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:180,Cootransflumar,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:180,Cootransflumar,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:180,Cootransflumar,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:180,Cootransflumar,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:180,Cootransflumar,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:181,Cootransflumar,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:181,Cootransflumar,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:181,Cootransflumar,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:181,Cootransflumar,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:181,Cootransflumar,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:182,Cootransfluviales,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:182,Cootransfluviales,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:182,Cootransfluviales,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:182,Cootransfluviales,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:182,Cootransfluviales,Magdalena corridor,A,check_landing_status,open
+rutas_fluvial_pasajeros:183,Cootransfluviales,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:183,Cootransfluviales,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:183,Cootransfluviales,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:183,Cootransfluviales,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:184,Cootransfluviales,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:184,Cootransfluviales,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:184,Cootransfluviales,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:184,Cootransfluviales,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:185,Cootransfluviales,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:185,Cootransfluviales,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:185,Cootransfluviales,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:185,Cootransfluviales,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:185,Cootransfluviales,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:186,Cootransfluviales,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:186,Cootransfluviales,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:186,Cootransfluviales,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:186,Cootransfluviales,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:187,Cootransfluviales,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:187,Cootransfluviales,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:187,Cootransfluviales,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:187,Cootransfluviales,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:187,Cootransfluviales,Magdalena corridor,A,check_landing_status,open
+rutas_fluvial_pasajeros:188,Cootransfluviales,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:188,Cootransfluviales,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:188,Cootransfluviales,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:188,Cootransfluviales,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:188,Cootransfluviales,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:189,Cootransfluviales,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:189,Cootransfluviales,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:189,Cootransfluviales,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:189,Cootransfluviales,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:189,Cootransfluviales,Magdalena corridor,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:190,Cootranspiñuña,Putumayo,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:190,Cootranspiñuña,Putumayo,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:190,Cootranspiñuña,Putumayo,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:190,Cootranspiñuña,Putumayo,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:190,Cootranspiñuña,Putumayo,C,interpret_timetable,open
+rutas_fluvial_pasajeros:190,Cootranspiñuña,Putumayo,C,interpret_service_days,open
+rutas_fluvial_pasajeros:191,Cootransunidos,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:191,Cootransunidos,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:191,Cootransunidos,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:191,Cootransunidos,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:191,Cootransunidos,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:191,Cootransunidos,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:192,Cootransunidos,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:192,Cootransunidos,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:192,Cootransunidos,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:192,Cootransunidos,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:192,Cootransunidos,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:192,Cootransunidos,Unassigned: Antioquia,B,assign_network,open
+rutas_fluvial_pasajeros:193,Coromoto SAS,Unassigned: Casanare,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:193,Coromoto SAS,Unassigned: Casanare,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:193,Coromoto SAS,Unassigned: Casanare,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:193,Coromoto SAS,Unassigned: Casanare,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:193,Coromoto SAS,Unassigned: Casanare,A,assign_network,open
+rutas_fluvial_pasajeros:194,Empresa de Transporte Fluvial del Putumayo LTDA,Unassigned: Putumayo,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:194,Empresa de Transporte Fluvial del Putumayo LTDA,Unassigned: Putumayo,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:194,Empresa de Transporte Fluvial del Putumayo LTDA,Unassigned: Putumayo,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:194,Empresa de Transporte Fluvial del Putumayo LTDA,Unassigned: Putumayo,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:194,Empresa de Transporte Fluvial del Putumayo LTDA,Unassigned: Putumayo,B,interpret_timetable,open
+rutas_fluvial_pasajeros:194,Empresa de Transporte Fluvial del Putumayo LTDA,Unassigned: Putumayo,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:194,Empresa de Transporte Fluvial del Putumayo LTDA,Unassigned: Putumayo,B,assign_network,open
+rutas_fluvial_pasajeros:196,Coromoto SAS,Unassigned: Casanare,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:196,Coromoto SAS,Unassigned: Casanare,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:196,Coromoto SAS,Unassigned: Casanare,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:196,Coromoto SAS,Unassigned: Casanare,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:196,Coromoto SAS,Unassigned: Casanare,A,check_landing_status,open
+rutas_fluvial_pasajeros:196,Coromoto SAS,Unassigned: Casanare,A,assign_network,open
+rutas_fluvial_pasajeros:197,Coromoto SAS,Unassigned: Casanare,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:197,Coromoto SAS,Unassigned: Casanare,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:197,Coromoto SAS,Unassigned: Casanare,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:197,Coromoto SAS,Unassigned: Casanare,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:197,Coromoto SAS,Unassigned: Casanare,A,check_landing_status,open
+rutas_fluvial_pasajeros:197,Coromoto SAS,Unassigned: Casanare,A,assign_network,open
+rutas_fluvial_pasajeros:198,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:198,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:198,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:198,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:198,Transportes El Panseguita SAS,Unassigned: Bolivar,B,interpret_timetable,open
+rutas_fluvial_pasajeros:198,Transportes El Panseguita SAS,Unassigned: Bolivar,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:198,Transportes El Panseguita SAS,Unassigned: Bolivar,B,assign_network,open
+rutas_fluvial_pasajeros:200,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:200,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:200,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:200,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:200,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:201,Cootranspuerto Asis LTDA,Putumayo,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:201,Cootranspuerto Asis LTDA,Putumayo,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:201,Cootranspuerto Asis LTDA,Putumayo,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:201,Cootranspuerto Asis LTDA,Putumayo,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:202,Cootranspuerto Asis LTDA,Putumayo,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:202,Cootranspuerto Asis LTDA,Putumayo,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:202,Cootranspuerto Asis LTDA,Putumayo,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:202,Cootranspuerto Asis LTDA,Putumayo,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:202,Cootranspuerto Asis LTDA,Putumayo,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:203,Cootranspuerto Asis LTDA,Putumayo,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:203,Cootranspuerto Asis LTDA,Putumayo,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:203,Cootranspuerto Asis LTDA,Putumayo,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:203,Cootranspuerto Asis LTDA,Putumayo,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:204,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:204,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:204,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:204,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:204,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,check_landing_status,open
+rutas_fluvial_pasajeros:204,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,assign_network,open
+rutas_fluvial_pasajeros:205,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:205,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:205,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:205,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:205,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,check_landing_status,open
+rutas_fluvial_pasajeros:205,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,A,assign_network,open
+rutas_fluvial_pasajeros:206,Expreso Fluvial Diana SAS,Unassigned: Choco,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:206,Expreso Fluvial Diana SAS,Unassigned: Choco,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:206,Expreso Fluvial Diana SAS,Unassigned: Choco,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:206,Expreso Fluvial Diana SAS,Unassigned: Choco,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:206,Expreso Fluvial Diana SAS,Unassigned: Choco,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:206,Expreso Fluvial Diana SAS,Unassigned: Choco,B,assign_network,open
+rutas_fluvial_pasajeros:207,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:207,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:207,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:207,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:207,Transportes El Panseguita SAS,Unassigned: Bolivar,B,interpret_timetable,open
+rutas_fluvial_pasajeros:207,Transportes El Panseguita SAS,Unassigned: Bolivar,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:207,Transportes El Panseguita SAS,Unassigned: Bolivar,B,assign_network,open
+rutas_fluvial_pasajeros:208,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:208,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:208,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:208,Transportes El Panseguita SAS,Unassigned: Bolivar,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:208,Transportes El Panseguita SAS,Unassigned: Bolivar,B,interpret_timetable,open
+rutas_fluvial_pasajeros:208,Transportes El Panseguita SAS,Unassigned: Bolivar,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:208,Transportes El Panseguita SAS,Unassigned: Bolivar,B,assign_network,open
+rutas_fluvial_pasajeros:209,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:209,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:209,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:209,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:209,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:210,Expreso Fluvial Diana SAS,Unassigned: Choco,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:210,Expreso Fluvial Diana SAS,Unassigned: Choco,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:210,Expreso Fluvial Diana SAS,Unassigned: Choco,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:210,Expreso Fluvial Diana SAS,Unassigned: Choco,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:210,Expreso Fluvial Diana SAS,Unassigned: Choco,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:210,Expreso Fluvial Diana SAS,Unassigned: Choco,B,assign_network,open
+rutas_fluvial_pasajeros:211,Transportes Fluvial Diaz Albornoz SAS,Unassigned: Boyaca,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:211,Transportes Fluvial Diaz Albornoz SAS,Unassigned: Boyaca,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:211,Transportes Fluvial Diaz Albornoz SAS,Unassigned: Boyaca,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:211,Transportes Fluvial Diaz Albornoz SAS,Unassigned: Boyaca,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:211,Transportes Fluvial Diaz Albornoz SAS,Unassigned: Boyaca,B,interpret_timetable,open
+rutas_fluvial_pasajeros:211,Transportes Fluvial Diaz Albornoz SAS,Unassigned: Boyaca,B,assign_network,open
+rutas_fluvial_pasajeros:212,Ecootransvias LTDA,Unassigned: Putumayo,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:212,Ecootransvias LTDA,Unassigned: Putumayo,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:212,Ecootransvias LTDA,Unassigned: Putumayo,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:212,Ecootransvias LTDA,Unassigned: Putumayo,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:212,Ecootransvias LTDA,Unassigned: Putumayo,B,interpret_timetable,open
+rutas_fluvial_pasajeros:212,Ecootransvias LTDA,Unassigned: Putumayo,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:212,Ecootransvias LTDA,Unassigned: Putumayo,B,assign_network,open
+rutas_fluvial_pasajeros:213,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:213,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:213,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:213,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:213,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:221,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:221,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:221,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:221,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:221,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,check_landing_status,open
+rutas_fluvial_pasajeros:222,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:222,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:222,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:222,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:222,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:223,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:223,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:223,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:223,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:223,Transmaryrio,Atrato - Uraba,B,interpret_timetable,open
+rutas_fluvial_pasajeros:223,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:224,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:224,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:224,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:224,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:224,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:225,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:225,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:225,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:225,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:225,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:226,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:226,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:226,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:226,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:226,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,check_landing_status,open
+rutas_fluvial_pasajeros:227,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:227,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:227,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:227,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:227,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:228,Transmaryrio,Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:228,Transmaryrio,Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:228,Transmaryrio,Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:228,Transmaryrio,Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:228,Transmaryrio,Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:230,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:230,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:230,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:230,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:231,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:231,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:231,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:231,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:231,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:232,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:232,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:232,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:232,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:232,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:233,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:233,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:233,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:233,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:233,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:234,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:234,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:234,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:234,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:234,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,check_landing_status,open
+rutas_fluvial_pasajeros:235,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:235,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:235,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:235,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:235,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:236,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:236,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:236,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:236,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:237,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:237,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:237,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:237,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:237,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:240,Emtraflusur,Unassigned: Bolivar,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:240,Emtraflusur,Unassigned: Bolivar,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:240,Emtraflusur,Unassigned: Bolivar,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:240,Emtraflusur,Unassigned: Bolivar,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:240,Emtraflusur,Unassigned: Bolivar,A,assign_network,open
+rutas_fluvial_pasajeros:241,Rio & Mar LTDA,Unassigned: Chocó,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:241,Rio & Mar LTDA,Unassigned: Chocó,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:241,Rio & Mar LTDA,Unassigned: Chocó,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:241,Rio & Mar LTDA,Unassigned: Chocó,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:241,Rio & Mar LTDA,Unassigned: Chocó,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:241,Rio & Mar LTDA,Unassigned: Chocó,B,assign_network,open
+rutas_fluvial_pasajeros:243,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:243,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:243,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:243,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:243,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,B,interpret_timetable,open
+rutas_fluvial_pasajeros:244,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:244,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:244,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:244,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:244,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,check_landing_status,open
+rutas_fluvial_pasajeros:245,Emtraflusur,Unassigned: Bolivar,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:245,Emtraflusur,Unassigned: Bolivar,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:245,Emtraflusur,Unassigned: Bolivar,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:245,Emtraflusur,Unassigned: Bolivar,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:245,Emtraflusur,Unassigned: Bolivar,A,assign_network,open
+rutas_fluvial_pasajeros:246,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:246,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:246,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:246,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:247,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:247,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:247,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:247,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:247,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,assign_network,open
+rutas_fluvial_pasajeros:248,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:248,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:248,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:248,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:248,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:248,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,B,assign_network,open
+rutas_fluvial_pasajeros:249,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:249,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:249,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:249,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:249,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,A,assign_network,open
+rutas_fluvial_pasajeros:255,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:255,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:255,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:255,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:255,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,interpret_timetable,open
+rutas_fluvial_pasajeros:255,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:255,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,B,assign_network,open
+rutas_fluvial_pasajeros:256,Expreso Feliz E.A.T,Unassigned: Sucre,A,confirm_current_operation,open
+rutas_fluvial_pasajeros:256,Expreso Feliz E.A.T,Unassigned: Sucre,A,confirm_travel_duration,open
+rutas_fluvial_pasajeros:256,Expreso Feliz E.A.T,Unassigned: Sucre,A,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:256,Expreso Feliz E.A.T,Unassigned: Sucre,A,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:256,Expreso Feliz E.A.T,Unassigned: Sucre,A,check_landing_status,open
+rutas_fluvial_pasajeros:256,Expreso Feliz E.A.T,Unassigned: Sucre,A,assign_network,open
+rutas_fluvial_pasajeros:258,Expreso San Juan LTDA,Unassigned: Choco,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:258,Expreso San Juan LTDA,Unassigned: Choco,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:258,Expreso San Juan LTDA,Unassigned: Choco,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:258,Expreso San Juan LTDA,Unassigned: Choco,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:258,Expreso San Juan LTDA,Unassigned: Choco,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:258,Expreso San Juan LTDA,Unassigned: Choco,B,assign_network,open
+rutas_fluvial_pasajeros:260,Transportadora Estrella Fluvial de Guainia SAS,Unassigned: Guainia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:260,Transportadora Estrella Fluvial de Guainia SAS,Unassigned: Guainia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:260,Transportadora Estrella Fluvial de Guainia SAS,Unassigned: Guainia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:260,Transportadora Estrella Fluvial de Guainia SAS,Unassigned: Guainia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:260,Transportadora Estrella Fluvial de Guainia SAS,Unassigned: Guainia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:260,Transportadora Estrella Fluvial de Guainia SAS,Unassigned: Guainia,B,assign_network,open
+rutas_fluvial_pasajeros:263,Rio & Mar LTDA,Unassigned: Choco,C,confirm_current_operation,open
+rutas_fluvial_pasajeros:263,Rio & Mar LTDA,Unassigned: Choco,C,confirm_travel_duration,open
+rutas_fluvial_pasajeros:263,Rio & Mar LTDA,Unassigned: Choco,C,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:263,Rio & Mar LTDA,Unassigned: Choco,C,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:263,Rio & Mar LTDA,Unassigned: Choco,C,review_shape_or_find_osm,open
+rutas_fluvial_pasajeros:263,Rio & Mar LTDA,Unassigned: Choco,C,resolve_landing_sites,open
+rutas_fluvial_pasajeros:263,Rio & Mar LTDA,Unassigned: Choco,C,assign_network,open
+rutas_fluvial_pasajeros:270,Transfluviales San Juan LTDA,Unassigned: Chocó,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:270,Transfluviales San Juan LTDA,Unassigned: Chocó,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:270,Transfluviales San Juan LTDA,Unassigned: Chocó,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:270,Transfluviales San Juan LTDA,Unassigned: Chocó,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:270,Transfluviales San Juan LTDA,Unassigned: Chocó,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:270,Transfluviales San Juan LTDA,Unassigned: Chocó,B,assign_network,open
+rutas_fluvial_pasajeros:272,Transfluvial El Puerto,Unassigned: Antioquia,B,confirm_current_operation,open
+rutas_fluvial_pasajeros:272,Transfluvial El Puerto,Unassigned: Antioquia,B,confirm_travel_duration,open
+rutas_fluvial_pasajeros:272,Transfluvial El Puerto,Unassigned: Antioquia,B,confirm_direction_and_return_service,open
+rutas_fluvial_pasajeros:272,Transfluvial El Puerto,Unassigned: Antioquia,B,confirm_passenger_stops,open
+rutas_fluvial_pasajeros:272,Transfluvial El Puerto,Unassigned: Antioquia,B,interpret_timetable,open
+rutas_fluvial_pasajeros:272,Transfluvial El Puerto,Unassigned: Antioquia,B,resolve_landing_sites,open
+rutas_fluvial_pasajeros:272,Transfluvial El Puerto,Unassigned: Antioquia,B,assign_network,open
+EXT01,Destino Pacifico Express,Buenaventura - Pacific coast,external,recheck_published_schedule,open
+EXT01,Destino Pacifico Express,Buenaventura - Pacific coast,external,compare_existing_operator_and_route,open
+EXT01,Destino Pacifico Express,Buenaventura - Pacific coast,external,confirm_service_days_and_duration,open
+EXT01,Destino Pacifico Express,Buenaventura - Pacific coast,external,validate_shape_and_landing_sites,open
+EXT02,Destino Pacifico Express,Buenaventura - Pacific coast,external,recheck_published_schedule,open
+EXT02,Destino Pacifico Express,Buenaventura - Pacific coast,external,compare_existing_operator_and_route,open
+EXT02,Destino Pacifico Express,Buenaventura - Pacific coast,external,confirm_service_days_and_duration,open
+EXT02,Destino Pacifico Express,Buenaventura - Pacific coast,external,validate_shape_and_landing_sites,open
+EXT03,TAQ SAS,Amazonas,external,recheck_published_schedule,open
+EXT03,TAQ SAS,Amazonas,external,compare_existing_operator_and_route,open
+EXT03,TAQ SAS,Amazonas,external,confirm_service_days_and_duration,open
+EXT03,TAQ SAS,Amazonas,external,validate_shape_and_landing_sites,open
+EXT04,TAQ SAS,Amazonas,external,recheck_published_schedule,open
+EXT04,TAQ SAS,Amazonas,external,compare_existing_operator_and_route,open
+EXT04,TAQ SAS,Amazonas,external,confirm_service_days_and_duration,open
+EXT04,TAQ SAS,Amazonas,external,validate_shape_and_landing_sites,open
+EXT05,Expresos Tres Fronteras / Transportes Fluvial del Amazonas / Lineas Amazonas,Amazonas,external,recheck_published_schedule,open
+EXT05,Expresos Tres Fronteras / Transportes Fluvial del Amazonas / Lineas Amazonas,Amazonas,external,compare_existing_operator_and_route,open
+EXT05,Expresos Tres Fronteras / Transportes Fluvial del Amazonas / Lineas Amazonas,Amazonas,external,confirm_service_days_and_duration,open
+EXT05,Expresos Tres Fronteras / Transportes Fluvial del Amazonas / Lineas Amazonas,Amazonas,external,validate_shape_and_landing_sites,open

@@ -1,0 +1,72 @@
+operator_key,operator,networks,routes,priority_a,priority_b,priority_c,both_endpoints_250m,distinct_sites_250m
+COOTRANSFLUVIALES,Cootransfluviales,Magdalena corridor,9,6,3,0,6,6
+TRANSPORTE FLUVIAL MIXTO ATRATO CARIBE RIO BAUDO,"Transporte Fluvial Mixto Atrato, Caribe Río Baudo",Atrato - Uraba,10,5,5,0,5,5
+TRANSNUEVO LLORO SAS,Transnuevo Lloró SAS,Atrato - Uraba,4,4,0,0,4,4
+COOTRANSFLUTER,Cootransfluter,Unassigned: Bolivar,3,3,0,0,3,3
+COROMOTO SAS,Coromoto SAS,Unassigned: Casanare,3,3,0,0,3,3
+TRANSPORTADORA SAN PABLO LIMITADA,TRANSPORTADORA SAN PABLO LIMITADA,Magdalena corridor,4,2,2,0,3,3
+COOTRAFLUCAP,Cootraflucap,Magdalena corridor,11,2,9,0,2,2
+COOTRAFLUVSUC,Cootrafluvsuc,La Mojana,11,2,9,0,2,2
+COOTRANSPUERTO ASIS LTDA,Cootranspuerto Asis LTDA,Putumayo,6,2,4,0,2,2
+COOTRANECHI,Cootranechi,Unassigned: Antioquia,4,2,2,0,2,2
+COOTRANFLUCAN,Cootranflucan,Unassigned: Antioquia,4,2,2,0,2,2
+LINEAS FLUVIALES DEL VICHADA,Lineas Fluviales Del Vichada,Unassigned: Meta,3,2,1,0,2,2
+TRANSPORTE FLUVIAL DE ORIENTE S A S,TRANSPORTE FLUVIAL DE ORIENTE S.A.S.,Unassigned: Meta,3,2,1,0,2,2
+EMPRESA TRANSPORTADORES DEL PACIFICO SAS,Empresa Transportadores del Pacifico SAS,Unassigned: Choco,2,2,0,0,2,2
+EMTRAFLUSUR,Emtraflusur,Unassigned: Bolivar,2,2,0,0,2,2
+EXPRESO LIBERTADOR LIMITADA,EXPRESO LIBERTADOR LIMITADA,Putumayo - Caqueta (review),4,1,3,0,4,4
+ASOCANOAS,Asocanoas,Unassigned: Caqueta,5,1,3,1,2,2
+COOMULTRAMAG,Coomultramag,Magdalena corridor,4,1,3,0,1,1
+SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,SOLUCIONES INTEGRALES EN TRANSPORTE TRANSGOLFO JJ,Unassigned: Antioquia,3,1,1,1,1,1
+LA CABRERA S A S,La Cabrera S.A.S,Unassigned: Bolivar,2,1,1,0,1,1
+COOTRANSFLUREMO,Cootransfluremo,Unassigned: Atlantico,1,1,0,0,1,1
+EXPRESO FELIZ E A T,Expreso Feliz E.A.T,Unassigned: Sucre,1,1,0,0,1,1
+TRANSPORTES AMAZONICOS E U,Transportes Amazónicos E.U,Unassigned: Amazonas,1,1,0,0,1,1
+TRANSPORTES DEL MAR SAS,Transportes del Mar SAS,Unassigned: Bolivar,1,1,0,0,1,1
+COOTRAGAM,Cootragam,Magdalena corridor,6,0,6,0,4,4
+COOTRAIMAG,Cootraimag,Magdalena corridor,13,0,9,4,2,2
+COOTRANSPINUNA,Cootranspiñuña,Putumayo,5,0,1,4,1,1
+ASIOCIACION TRANSPORCOL,Asiociación Transporcol,Unassigned: Cesar,1,0,1,0,1,1
+COOPETRANSFLUVIAL,Coopetransfluvial,Unassigned: Boyaca,1,0,1,0,1,1
+COOTRANSFLUSI,Cootransflusi,Unassigned: Atlantico,1,0,1,0,1,1
+GAVIOTAS,Gaviotas,Unassigned: Huila,1,0,0,1,1,1
+LUIS ORLANDO BERMEO ROJAS,Luis Orlando Bermeo Rojas,Unassigned: Caqueta,1,0,1,0,1,1
+TRANSPORTES FLUVIAL DIAZ ALBORNOZ SAS,Transportes Fluvial Diaz Albornoz SAS,Unassigned: Boyaca,1,0,1,0,1,1
+TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S 900166813 9 QUIBDO PASAJEROS QUIBDO CHOCO QUIBDO SAN ISIDRO REDONDO CHALUPA RIO ATRATO Y AFLUENTES 253 POLYLINE ZM 42 312453 477 TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	San Isidro	Redondo	Chalupa	Río Atrato y afluentes
+253	Polyline ZM	42,312453	477	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,1,0,0,1,1,1
+TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S 900166813 9 QUIBDO PASAJEROS QUIBDO CHOCO QUIBDO YUTO REDONDO CHALUPA RIO ATRATO Y AFLUENTES 255 POLYLINE ZM 169 865531 474 TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Quibdó	Yuto	Redondo	Chalupa	Río Atrato y afluentes
+255	Polyline ZM	169,865531	474	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,1,0,0,1,1,1
+TRANSMARYRIO,Transmaryrio,Atrato - Uraba,12,0,12,0,0,0
+ASOTRANSCHAIRA,Asotranschaira,Unassigned: Caqueta,5,0,5,0,0,0
+COOTRANSFLUMAR,Cootransflumar,Atrato - Uraba,5,0,5,0,0,0
+COOTRANSUNIDOS,Cootransunidos,Unassigned: Antioquia,5,0,5,0,0,0
+TRANSPORTES EL PANSEGUITA SAS,Transportes El Panseguita SAS,Unassigned: Bolivar,4,0,4,0,0,0
+ASOCIACION ASOTAXI DEL CAGUAN,Asociación Asotaxi del caguan,Unassigned: Caqueta,3,0,3,0,0,0
+COOTRANSFLUALSINU,Cootransflualsinu,Unassigned: Cordoba,2,0,2,0,0,0
+EMPRESA ASOCIATIVA DE TRABAJADORES DE LA CONTRUCCION,Empresa Asociativa de Trabajadores de la Contruccion,Unassigned: Arauca,2,0,2,0,0,0
+EXPRESO FLUVIAL DIANA SAS,Expreso Fluvial Diana SAS,Unassigned: Choco,2,0,2,0,0,0
+RIO MAR LTDA,Rio & Mar LTDA,Unassigned: Choco | Unassigned: Chocó,2,0,1,1,0,0
+TRANSPORTE FLUVIAL MARITIMO Y ECOLOGICO DEL BAUD,"Transporte Fluvial, Maritimo y Ecológico del Baud",Unassigned: Chocó,2,0,2,0,0,0
+TRANSPORTE Y MENSAJERIA LAS MERCEDES,Transporte y Mensajeria Las Mercedes,Unassigned: Choco,2,0,2,0,0,0
+ADAN RODRIGUEZ ROJAS,Adan Rodriguez Rojas,Unassigned: Antioquia,1,0,1,0,0,0
+ASOJHONVAL,Asojhonval,Unassigned: Antioquia,1,0,1,0,0,0
+ASTRAPACAPE,Astrapacape,Unassigned: Bolivar,1,0,1,0,0,0
+ASTRAWIL,Astrawil,Unassigned: Santander,1,0,1,0,0,0
+COOTRAFLURMAG,Cootraflurmag,Unassigned: Magdalena,1,0,1,0,0,0
+COOTRANSCA,Cootransca,Unassigned: Cauca,1,0,1,0,0,0
+ECOOTRANSVIAS LTDA,Ecootransvias LTDA,Unassigned: Putumayo,1,0,1,0,0,0
+EMPRESA DE TRANSPORTE FLUVIAL DEL PUTUMAYO LTDA,Empresa de Transporte Fluvial del Putumayo LTDA,Unassigned: Putumayo,1,0,1,0,0,0
+EXPRESO SAN JUAN LTDA,Expreso San Juan LTDA,Unassigned: Choco,1,0,1,0,0,0
+TRANSFLUVIAL EL PUERTO,Transfluvial El Puerto,Unassigned: Antioquia,1,0,1,0,0,0
+TRANSFLUVIAL LA RIVERENA,Transfluvial La Rivereña,Unassigned: Antioquia,1,0,1,0,0,0
+TRANSFLUVIALES SAN JUAN LTDA,Transfluviales San Juan LTDA,Unassigned: Chocó,1,0,1,0,0,0
+TRANSPORTADORA ESTRELLA FLUVIAL DE GUAINIA SAS,Transportadora Estrella Fluvial de Guainia SAS,Unassigned: Guainia,1,0,1,0,0,0
+TRANSPORTADORA FLUVIAL MARY E U,Transportadora Fluvial Mary E.U,Unassigned: Atlantico,1,0,1,0,0,0
+TRANSPORTE FLUVIAL REGIONAL E A T TRANSFLUREG,Transporte Fluvial Regional E.A.T. Transflureg,Unassigned: Bolivar,1,0,1,0,0,0
+TRANSPORTE LA PIRAGUA E A T,Transporte La Piragua E.A.T,Unassigned: Boyaca,1,0,1,0,0,0
+TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S 900166813 9 QUIBDO PASAJEROS QUIBDO CHOCO TURBO QUIBDO REDONDO CHALUPA RIO ATRATO Y AFLUENTES 247 POLYLINE ZM 488 272105 473 TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Quibdó	Redondo	Chalupa	Río Atrato y afluentes
+247	Polyline ZM	488,272105	473	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,1,0,0,1,0,0
+TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S 900166813 9 QUIBDO PASAJEROS QUIBDO CHOCO TURBO SANTA MARIA REDONDO CHALUPA RIO ATRATO Y AFLUENTES 251 POLYLINE ZM 32 267686 475 TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Santa Maria	Redondo	Chalupa	Río Atrato y afluentes
+251	Polyline ZM	32,267686	475	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,1,0,0,1,0,0
+TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S 900166813 9 QUIBDO PASAJEROS QUIBDO CHOCO TURBO UNGUIA REDONDO CHALUPA RIO ATRATO Y AFLUENTES 249 POLYLINE ZM 75 800933 471 TRANSPORTES MENSAJERIA Y CARGA DEL ATRATO S A S,"TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.	900166813-9	Quibdó	Pasajeros	Quibdó	Choco	Turbo	Unguía	Redondo	Chalupa	Río Atrato y afluentes
+249	Polyline ZM	75,800933	471	TRANSPORTES, MENSAJERIA Y CARGA DEL ATRATO S.A.S.",Unassigned: Choco,1,0,0,1,0,0
